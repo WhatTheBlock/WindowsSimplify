@@ -1,10 +1,11 @@
 # 極度精簡版
 
 <br>
-目前還在實驗階段，歡迎開issues或小屋文章回報問題：)
+目前還在實驗階段，歡迎至issues或小屋文章回報問題：)
 <br><br>
 
 ### 使用預覽：
+- Windows 10 LTSC 2019 (x64)
 ![Win10_LTSC_(17763.1)_x64_20200707.png](/preview/Win10_LTSC_(17763.1)_x64_20200707.png)
 <br><br>
 
@@ -58,4 +59,4 @@ SHA-256：1D4AD30CE57EEEEEF2EF326C22D1EC5FA99A777148CB8B59EBDC8296A2738D77<br>
 
 ### Changelog：
 #### 2020/07/07
-- 首次發布
+- 首次發布LTSC 2019 (x64)
