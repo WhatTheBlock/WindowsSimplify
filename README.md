@@ -1,52 +1,18 @@
 # Windows 10 - 自製優化精簡
 
-### 詳細介紹文章：[點我](https://home.gamer.com.tw/creationDetail.php?sn=4769475) <br><br>
+### 原介紹文章：[點我](https://home.gamer.com.tw/creationDetail.php?sn=4769475) <br><br>
 
-這裡會用來存放Changelog，避免原文章過長XD
+### 目前共設立4種分類，分別是：
+- [穩定](/stable.md)
+- [預覽](/prerelease.md)
+- [高度精簡](/highly_simplified.md)
+- [極度精簡](/extreme.md)
 
-### Changelog：
+<br>
+使用預覽、優化項目、下載連結皆附在各自的Markdown唷~
+
 ----
 
-#### 2020/07/07 - 17763.1 (x64)
- - 移除所有更新
- - 禁止Windows Update檢查更新
- - 移除列印功能
- - 移除小畫家
- - 移除Media Player
- - 移除Defender
- - 移除安全中心
- - 忘了...反正還有很多XD
-
-#### 2020/07/05 - 17763.1294 (x64)
- - 首次發布
-
-#### 2020/07/04 - 17763.1294 (x86)
- - 首次發布
-
-#### 2020/07/03 - 19042.330
- - 使用全新的映像製作
- - 回復平板模式
- - 更新Edge Chromium (v83.0.478.58)
- - 預設啟用GPU加速功能
-
-#### 2020/07/01 - 19041.264
- - 大幅簡化檔案總管介面
- - 移除捷徑的箭頭圖標
- - 移除新建捷徑自動加入的字串
- - 關閉音樂與影片的圖片預覽
- - 精簡右鍵選單的項目
- - 記事本預設開啟狀態列
- - 提升開始選單開啟速度
- - 關閉系統生成日誌檔
- - 更新Edge Chromium (v83.0.478.56)
- - 回復VP9解碼、小畫家、Media Player
- - 移除ISO手動安裝功能 (setup.exe)
- - 工作列更加透明
- - 多項細節調整
-
-#### 2020/06/14 - 19041.329
- - 移除OneDrive
- - 更新Edge為Edge Chromium (v83.0.478.45)
- - 回復UWP版小算盤
- - 移除WSL (Windows Subsystem for Linux)
- - 多項細節調整
+### Q&A
+Q：原先顯示在檔案總管的文件、圖片、下載等資料夾跑去哪裡了呢？<br>
+A：<code>C:\Users\Administrator</code>
