@@ -11,6 +11,8 @@
 <br>
 使用預覽、優化項目、下載連結皆附在各自的Markdown唷~
 
+### [歷史版本合輯](http://tiny.cc/win10_simplify_dl)
+
 ----
 
 ### Q&A
