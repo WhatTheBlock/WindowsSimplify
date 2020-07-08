@@ -28,6 +28,8 @@
 - 移除小畫家
 - 移除Windows Media Player
 - 移除BitLocker
+- 移除系統備份
+- 移除系統還原
 - 關閉Windows Update檢查更新
 - 關閉SMB共享
 - 關閉檔案搜尋索引
