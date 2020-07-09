@@ -24,3 +24,6 @@ A：<code>設定 → 個人化 → 色彩 → 選擇顏色 → 淺色</code><br>
 
 Q：安裝後卡了一段時間的黑屏是正常的嗎？<br>
 A：是，因為部分版本有移除<code>首次開機動畫</code><br>
+
+Q：請問使用了哪些工具修改系統呢？<br>
+A：Dism++、NTLite、MSMG ToolKit<br>
