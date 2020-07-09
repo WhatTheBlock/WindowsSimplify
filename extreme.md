@@ -10,6 +10,9 @@
 - Windows 10 LTSC 2019 (x64)
 ![Win10_LTSC_(17763.1)_x64_20200707.png](/preview/Win10_LTSC_(17763.1)_x64_20200707.png)
 <br><br>
+- Windows 10 LTSC 2019 (x86)
+![Win10_LTSC_(17763.1)_x86_20200709.png](/preview/Win10_LTSC_(17763.1)_x86_20200709.png)
+<br><br>
 
 ----
 
@@ -59,10 +62,25 @@
 組建：17763.1<br>
 大小：2.20GB<br>
 SHA-256：1D4AD30CE57EEEEEF2EF326C22D1EC5FA99A777148CB8B59EBDC8296A2738D77<br>
-下載：[Google雲端](http://tiny.cc/win10_ltsc_x64_20200707)<br>
+下載：[Google雲端](http://tiny.cc/win10_ltsc_x64_20200707)<br><br>
+
+版本：Windows 10 LTSC 2019 (x86)<br>
+發布時間：2020/07/09<br>
+組建：17763.1<br>
+大小：1.71GB<br>
+SHA-256：7393439B0AC7C6D6E9B9BDE41E5C08D92C76498A1CD969E5BE143E77559BB29E<br>
+下載：[Google雲端](http://tiny.cc/win10_ltsc_x86_20200709)<br>
+
+----
+
+### 已知問題：
+- x86版無法安裝在硬碟只有NVMe的裝置
 
 ----
 
 ### Changelog：
+#### 2020/07/09
+- 首次發布LTSC 2019 (x86)
+
 #### 2020/07/07
 - 首次發布LTSC 2019 (x64)
