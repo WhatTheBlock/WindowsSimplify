@@ -30,6 +30,10 @@
 - 移除新建捷徑自動加入的字串
 - 移除小畫家
 - 移除Windows Media Player
+- 移除BitLocker
+- 移除系統備份
+- 移除系統還原
+- 移除SmartScreen
 - 關閉Windows Update檢查更新
 - 關閉SMB共享
 - 關閉檔案搜尋索引
