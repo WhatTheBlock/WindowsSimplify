@@ -65,7 +65,8 @@ SHA-256：76F2E49F1716DAD74AE374680CA0237EA9C0D0E00B62F1B313E98611C7509A2C<br>
 ----
 
 ### 已知問題：
-- 點擊開始選單內的資料夾會造成explorer.exe異常重啟，如需使用相關程式捷徑請至<code>C:\ProgramData\Microsoft\Windows\Start Menu\Programs</code>
+- 點擊開始選單內的資料夾會造成explorer.exe異常重啟<br>如需使用相關程式捷徑請至<code>C:\ProgramData\Microsoft\Windows\Start Menu\Programs</code>
+- 安裝時無法自動跳過版本選擇畫面
 
 ----
 
