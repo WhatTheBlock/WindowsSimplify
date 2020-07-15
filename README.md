@@ -32,4 +32,4 @@ Q：終極效能模式要如何啟用呢？<br>
 A：<code>控制台 → 電源選項 → 顯示其他的計畫 → 終極效能</code><br>
 
 Q：.NET Framework 3.5安裝出現錯誤碼怎麼辦？<br>
-A：請使用Win10專用安裝包 [點我下載](http://tiny.cc/netfx3_for_win10)<br>
+A：請使用Win10專用安裝包 → [for v2004 & v2009 (x64)](http://tiny.cc/netfx3_for_19041_x64)<br>
