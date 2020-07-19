@@ -16,3 +16,16 @@
 大小：1.88GB<br>
 SHA-256：066AE06023B299C2214920B0D5CDFB1E671B8EB7C3C5A5D3A7DED60C60230AEB<br>
 下載：[Google雲端](http://tiny.cc/win10_1909_x86_20200718)<br>
+
+----
+
+### **訂製者：hohongben789**
+![Win10_2004_(19041.388)_20200719.png](/preview/Win10_2004_(19041.388)_20200719.png)
+<br>
+
+版本：Windows 10 v2004 專業版 (x64)<br>
+組建：19041.388<br>
+精簡程度：穩定<br>
+大小：2.32GB<br>
+SHA-256：B46F55359CB03C282BE6C8F71D2D4A1B71558D27365370C600F66E5F6A615883<br>
+下載：[Google雲端](http://tiny.cc/win10_2004_20200719)<br>
