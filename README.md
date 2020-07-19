@@ -27,7 +27,7 @@ Q：安裝後卡了一段時間的黑屏是正常的嗎？<br>
 A：是，因為部分版本有移除<code>首次開機動畫</code><br>
 
 Q：請問使用了哪些工具修改系統呢？<br>
-A：Dism++、NTLite、MSMG ToolKit<br>
+A：Dism++、NTLite、MSMG ToolKit、Optimize-Offline<br>
 
 Q：終極效能模式要如何啟用呢？<br>
 A：<code>控制台 → 電源選項 → 顯示其他的計畫 → 終極效能</code><br>
