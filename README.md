@@ -34,3 +34,6 @@ A：<code>控制台 → 電源選項 → 顯示其他的計畫 → 終極效能<
 
 Q：.NET Framework 3.5安裝出現錯誤碼怎麼辦？<br>
 A：請使用Win10專用安裝包 → [for v2004 & v2009 (x64)](http://tiny.cc/netfx3_for_19041_x64)<br>
+
+Q：請問如何請求客製化版本？<br>
+A：[巴哈文章](https://home.gamer.com.tw/creationDetail.php?sn=4769475)、[新增issue](https://github.com/WhatTheBlock/Win10_Simplify/issues)<br>
