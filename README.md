@@ -2,12 +2,13 @@
 
 ### 原介紹文章：[點我](https://home.gamer.com.tw/creationDetail.php?sn=4769475) <br><br>
 
-### 目前共設立5種分類：
+### 目前共設立6種分類：
 - [穩定](/stable.md) (推薦日常使用)
 - [預覽](/prerelease.md) (追求最新功能)
 - [高度精簡](/highly_simplified.md) (老舊裝置適用)
 - [極度精簡](/extreme.md) (實驗性質)
 - [客製化](/customized.md)
+- [非官方版](/special_edition.md) (神奇的東西)
 
 <br>
 使用預覽、優化項目、下載連結皆附在各自的Markdown唷~
