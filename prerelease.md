@@ -67,7 +67,7 @@ SHA-256：0037BC45171E5BD6F659E606BB066B33A9C27D714192CE21F92EC45C2E15FF7A<br>
 ----
 
 ### 已知問題：
-- 無
+- 重開機後自動改回淺色模式 ([修復批次檔](https://github.com/WhatTheBlock/Win10_Simplify/releases/download/v2020.08.04/fix_light_mode.bat))
 
 ----
 
