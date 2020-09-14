@@ -7,8 +7,8 @@
 <br><br>
 
 ### 使用預覽：
-- Windows 10 LTSC 2019 (x64)
-![Win10_LTSC_(17763.1)_x64_20200707.png](/preview/Win10_LTSC_(17763.1)_x64_20200707.png)
+- Windows 10 v2009 專業版 (x64)
+![Win10_2009_(19042.450)_20200914.png](/preview/Win10_2009_(19042.450)_20200914.png)
 <br><br>
 - Windows 10 LTSC 2019 (x86)
 ![Win10_LTSC_(17763.1)_x86_20200709.png](/preview/Win10_LTSC_(17763.1)_x86_20200709.png)
@@ -19,12 +19,15 @@
 ### 版本特色：
 - 保持原版安裝方式
 - 只需設定系統磁區即可自動安裝到進入桌面
-- 純精簡，無任何第三方程式
+- Edge Chromium (v85.0.564.51)
+- 集成VC++ Runtime (2005~2019)
+- 移除所有UWP (小算盤除外)
 - 移除Windows Defender
-- 移除安全中心
+- 移除Windows Update
+- 移除Windows安全性中心
 - 移除Xbox相關功能
+- 移除OneDrive
 - 移除英文(US)、繁中(zh-TW)以外的語言
-- 移除列印功能
 - 移除WSL (Windows Subsystem for Linux)
 - 移除捷徑的箭頭圖標
 - 移除新建捷徑自動加入的字串
@@ -34,7 +37,6 @@
 - 移除系統備份
 - 移除系統還原
 - 移除SmartScreen
-- 關閉Windows Update檢查更新
 - 關閉SMB共享
 - 關閉檔案搜尋索引
 - 關閉所有回傳微軟伺服器的選項 (隱私類設定)
@@ -52,21 +54,24 @@
 - 顯示檔案副檔名
 - 顯示隱藏檔案
 - 工作列時間顯示精度到秒數
+- 工作列更加透明
 - 移除工作列搜索框、多工按鈕
 - 桌面顯示傳統控制台捷徑
 - 記事本預設開啟狀態列
 - 提升開始選單開啟速度
+- 新增"終極效能"電源選項
+- 修改相片檢視器介面
 - and many more...
 
 ----
 
 ### ISO下載：
-版本：Windows 10 LTSC 2019 (x64)<br>
-發布時間：2020/07/07<br>
-組建：17763.1<br>
-大小：2.20GB<br>
-SHA-256：1D4AD30CE57EEEEEF2EF326C22D1EC5FA99A777148CB8B59EBDC8296A2738D77<br>
-下載：[Google雲端](http://tiny.cc/win10_ltsc_x64_20200707)<br><br>
+版本：Windows 10 v2009 專業版 (x64)<br>
+發布時間：2020/09/14<br>
+組建：19042.450<br>
+大小：1.85GB<br>
+SHA-256：E5C18C76CDBFA8ACE0662C4CD83A1B5D081E250E4E1AA0102E562041FE92C480<br>
+下載：[Google雲端](http://tiny.cc/win10_2009_20200914)<br>
 
 版本：Windows 10 LTSC 2019 (x86)<br>
 發布時間：2020/07/09<br>
@@ -83,6 +88,13 @@ SHA-256：7393439B0AC7C6D6E9B9BDE41E5C08D92C76498A1CD969E5BE143E77559BB29E<br>
 ----
 
 ### Changelog：
+#### 2020/09/14
+- 精簡內建的.NET Framework
+- 更新Edge Chromium (v85.0.564.51)
+- 移除Windows Update
+- 保留剪取工具
+- 加入CompactOS指令
+
 #### 2020/07/09
 - 首次發布LTSC 2019 (x86)
 
