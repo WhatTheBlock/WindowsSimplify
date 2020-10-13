@@ -15,7 +15,7 @@
 組建：19041.541<br>
 精簡程度：極度精簡<br>
 大小：2.03GB<br>
-SHA-256：晚點附上<br>
+SHA-256：05AC1018A1C292D3D6F1738FCD0129154607A804A19E1A0F98EEEACF15A50D13<br>
 下載：[Google雲端](http://tiny.cc/win10_2004_20200930_hk)<br>
 
 ----
