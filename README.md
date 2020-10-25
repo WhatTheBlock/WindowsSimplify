@@ -28,7 +28,7 @@ Q：安裝後卡了一段時間的黑屏是正常的嗎？<br>
 A：是，因為部分版本有移除<code>首次開機動畫</code><br>
 
 Q：請問使用了哪些工具修改系統呢？<br>
-A：Dism++、NTLite、MSMG ToolKit、Optimize-Offline、WinReducer<br>
+A：Dism++、NTLite、MSMG ToolKit、WinReducer<br>
 
 Q：終極效能模式要如何啟用呢？<br>
 A：<code>控制台 → 電源選項 → 顯示其他的計畫 → 終極效能</code><br>
@@ -38,3 +38,6 @@ A：請使用Win10專用安裝包 → [for v2004 & v2009 (x64)](http://tiny.cc/n
 
 Q：請問如何請求客製化版本？<br>
 A：[巴哈文章](https://home.gamer.com.tw/creationDetail.php?sn=4769475)、[新增issue](https://github.com/WhatTheBlock/Win10_Simplify/issues)<br>
+
+Q：Nvidia控制面板無法開啟<br>
+A：使用[此連結](https://www.nvidia.com/Download/Find.aspx?lang=tw)搜尋驅動<br>
