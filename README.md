@@ -1,6 +1,6 @@
 # Windows 10 - 自製優化精簡
 
-### 原介紹文章：[點我](https://home.gamer.com.tw/creationDetail.php?sn=4769475) <br><br>
+### 原介紹文章：[點我](https://home.gamer.com.tw/artwork.php?sn=4971603) <br><br>
 
 ### 目前共設立6種分類：
 - [穩定](/stable.md) (推薦日常使用)
@@ -40,4 +40,4 @@ Q：請問如何請求客製化版本？<br>
 A：[巴哈文章](https://home.gamer.com.tw/creationDetail.php?sn=4769475)、[新增issue](https://github.com/WhatTheBlock/Win10_Simplify/issues)<br>
 
 Q：Nvidia控制面板無法開啟<br>
-A：使用[此連結](https://www.nvidia.com/Download/Find.aspx?lang=tw)搜尋驅動<br>
+A：使用[此連結](https://www.nvidia.com/Download/Find.aspx?lang=tw)搜尋驅動，並選擇"標準"而非"DCH"<br>
