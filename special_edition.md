@@ -8,6 +8,18 @@
 
 ----
 
+### **Windows 10 Enterprise LTSC 2020 (x64)**
+![Win10_LTSC_(19041.1)_20201106.png](/preview/Win10_LTSC_(19041.1)_20201106.png)
+<br>
+
+精簡程度：穩定精簡<br>
+組建：19041.1<br>
+大小：2.04GB<br>
+SHA-256：0A2F1EEE44DD092505553F46C509B3EECA0B109A3970DAB856BD5065664A53B6<br>
+下載：[Google雲端](http://tiny.cc/win10_ltsc_20201106)<br>
+
+----
+
 ### **Windows 10 Enterprise 2017 LTSB (x64)**
 ![Win10_LTSB_(15063.2439)_20200806.png](/preview/Win10_LTSB_(15063.2439)_20200806.png)
 <br>
