@@ -19,7 +19,7 @@ SHA-256：6CA4C5ECC15549BAFEABABF5BEFC7B5664EBDE34B79B9B62B5EAE5336D114741<br>
 下載：[Google雲端](http://tiny.cc/win10_2009_20210119)<br>
 
 已知問題：
-1. 會自動安裝Edge Chromium (可嘗試斷網安裝)
+1. 會自動安裝Edge Chromium，因WinSxS被放入離線安裝包 (未來的版本已修正)
 2. 安裝更新後會回復部分已移除的元件，且大多無法使用 (無法避免)
 
 ----
