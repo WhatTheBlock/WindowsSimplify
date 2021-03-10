@@ -12,6 +12,7 @@
 #### 組建：19041.1
 #### 大小：2.04GB
 #### SHA-256：0A2F1EEE44DD092505553F46C509B3EECA0B109A3970DAB856BD5065664A53B6
+發現問題： chrome 不起做用
 #### 下載：[Google雲端](http://tiny.cc/win10_ltsc_20201106)<br><br>
 
 ----
