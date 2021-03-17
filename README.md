@@ -8,7 +8,7 @@
 - [高度精簡](/highly_simplified.md) (老舊裝置適用)
 - [極度精簡](/extreme.md) (出問題我不負責)
 - [客製化](/customized.md)
-- [非官方版](/special_edition.md) (不要用，你會怕)
+- [其他](/others.md)
 
 #### 使用預覽、優化項目、下載連結請至各分類頁面查看
 
