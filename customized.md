@@ -5,21 +5,6 @@
 
 ----
 
-### 訂製者：tsunheimat
-![Win10_21H1_(19043.899)_20210322.png](/preview/Win10_21H1_(19043.899)_20210322.png)
-
-### 訂製要求：含遠端桌面、SMB
-#### 版本：Windows 10 Home v21H1 (x64)
-#### 組建：19043.899
-#### 精簡程度：極度精簡
-#### 大小：1.18GB
-#### SHA-256：E7CFAAC663BC669E55BFA8E2A9990028EDD4AF3C65AE104864C68F6BFFEC5C5A
-#### 下載：[Google雲端](http://tiny.cc/win10_21H1_20210322)
-#### 已知問題：
-- 無
-
-----
-
 ### Customized for EDK-Rise
 ![Win10_20H2_(19042.844)_20210306_en.png](/preview/Win10_20H2_(19042.844)_20210306_en.png)
 
