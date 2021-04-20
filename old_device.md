@@ -1,5 +1,23 @@
 # 老舊裝置專用
 
+![Win10_LTSB_(14393.0)_x86_20210421.png](/preview/Win10_LTSB_(14393.0)_x86_20210421.png)
+
+發布時間：2021/04/21
+
+簡介：此版保留列印、SMB檔案共享、Telnet功能，適合無特殊需求的辦公環境
+
+版本：Windows 10 LTSB 2016 (x86)
+
+組建：14393.0
+
+大小：888MB
+
+下載：[Google雲端](http://tiny.cc/w10_ltsb_x86_20210421)、[OneDrive](http://tiny.cc/w10_ltsb_x86_20210421_o)
+
+SHA-256：00A234F3D993720524BB8286AC05B7FCF4CD5BCD75FB58F4E45E336F5D97AE82
+
+----
+
 ![Win10_LTSB_(14393.0)_20210420.png](/preview/Win10_LTSB_(14393.0)_20210420.png)
 
 發布時間：2021/04/20
