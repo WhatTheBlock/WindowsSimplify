@@ -4,31 +4,36 @@
 
 ----
 
-### 使用預覽：
-- Windows 10 Pro v20H2 (x64)
+### x64
+
 ![Win10_2009_(19042.662)_20210106.png](/preview/Win10_2009_(19042.662)_20210106.png)
 
-- Windows 10 Pro v21H1 (x86)
+發布時間：2021/01/06
+
+版本：Windows 10 Pro v20H2
+
+組建：19042.662
+
+大小：1.44GB
+
+下載：[Google雲端](http://tiny.cc/win10_2009_20210106)
+
+SHA-256：9BAB1F0DECEB9900EEC3A59A57D59D0CECC964149F3E7AEE6E277E7F810CDAF8
+
+----
+
+### x86
+
 ![Win10_21H1_(19043.906)_x86_20210403.png](/preview/Win10_21H1_(19043.906)_x86_20210403.png)
 
-----
+發布時間：2021/04/03
 
-#### 版本：Windows 10 Pro v20H2 (x64)
-#### 發布時間：2021/01/06
-#### 組建：19042.662
-#### 大小：1.44GB
-#### SHA-256：9BAB1F0DECEB9900EEC3A59A57D59D0CECC964149F3E7AEE6E277E7F810CDAF8
-#### 下載：[Google雲端](http://tiny.cc/win10_2009_20210106)
-#### 已知問題：
-- 無
+版本：Windows 10 Pro v21H1
 
-----
+組建：19043.906
 
-#### 版本：Windows 10 Pro v21H1 (x86)
-#### 發布時間：2021/04/03
-#### 組建：19043.906
-#### 大小：0.98GB
-#### SHA-256：65A08ACC6C1A1098AF0D7025F4B8C68237C64117F44469708C12DD1C2AB3422B
-#### 下載：[Google雲端](http://tiny.cc/w10_21H1_x86_20210403)、[OneDrive](http://tiny.cc/w10_21H1_x86_20210403_o)
-#### 已知問題：
-- 無
+大小：0.98GB
+
+下載：[Google雲端](http://tiny.cc/w10_21H1_x86_20210403)、[OneDrive](http://tiny.cc/w10_21H1_x86_20210403_o)
+
+SHA-256：65A08ACC6C1A1098AF0D7025F4B8C68237C64117F44469708C12DD1C2AB3422B

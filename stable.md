@@ -1,31 +1,32 @@
 # 穩定精簡版
 
 #### 沒有過度精簡的版本，適合一般用戶使用
-#### 歡迎至issues或小屋文章回報問題：)
 
 ----
 
-### 使用預覽：
+### x64
 
-- Windows 10 Pro v20H2 (x64)
 ![Win10_20H2_(19042.867)_20210410.png](/preview/Win10_20H2_(19042.867)_20210410.png)
 
-----
+發布時間：2021/04/10
 
-#### 版本：Windows 10 Pro v20H2 (x64)
-#### 發布時間：2021/04/10
-#### 組建：19042.867
-#### 大小：2.14GB
-#### SHA-256：FBDD57E84A82FDDA3BB61DFEA09A8412C6D060EA13196B9E7E6997ACFCF78360
-#### 下載：[Google雲端](http://tiny.cc/w10_20H2_20210410)、[OneDrive](http://tiny.cc/w10_20H2_20210410_o)
+版本：Windows 10 Pro v20H2
 
-#### 注意事項：
+組建：19042.867
+
+大小：2.14GB
+
+下載：[Google雲端](http://tiny.cc/w10_20H2_20210410)、[OneDrive](http://tiny.cc/w10_20H2_20210410_o)
+
+SHA-256：FBDD57E84A82FDDA3BB61DFEA09A8412C6D060EA13196B9E7E6997ACFCF78360
+
+注意事項：
 - 更新後會自動裝回部分組件與Edge Chromium
 - 更新後會出現Windows安全性，但並無掃毒功能，Defender仍是移除的狀態
 - Windows Update服務預設為停用狀態，使用前請先手動啟用
 - Windows功能啟用.NET 3.5前請先啟用Windows Update服務
 
-#### 已知問題：
+已知問題：
 - Windows Update功能異常，無法搜尋到最新的更新，但能透過DISM使用CAB、MSU等檔案更新
 
 ----
