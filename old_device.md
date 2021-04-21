@@ -1,5 +1,23 @@
 # 老舊裝置專用
 
+![Win10_LTSC_(17763.1)_x86_20210421.png](/preview/Win10_LTSC_(17763.1)_x86_20210421.png)
+
+#### 發布時間：2021/04/21 (3)
+
+簡介：此版保留列印、SMB檔案共享、Telnet功能，適合無特殊需求的辦公環境
+
+版本：Windows 10 LTSC 2019 (x86)
+
+組建：17763.1
+
+大小：998MB
+
+下載：[Google雲端](http://tiny.cc/w10_ltsc_x86_20210421)、[OneDrive](http://tiny.cc/w10_ltsc_x86_20210421_o)
+
+SHA-256：1FE930349CEC03C02381EB42097C50AC9F7835DADD4EDF2B344FBDEB57C50116
+
+----
+
 ![Win10_LTSC_(17763.1)_20210421.png](/preview/Win10_LTSC_(17763.1)_20210421.png)
 
 #### 發布時間：2021/04/21 (2)
