@@ -7,7 +7,7 @@
 - [極度精簡](/extreme.md)
 - [老舊裝置專用](/old_device.md)
 - [客製化](/customized.md)
-- [其他](/others.md) (Win7 or Win8.1)
+- [其他](/others.md)
 
 #### 使用預覽、優化項目、下載連結請至各分類頁面查看
 
