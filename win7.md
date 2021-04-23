@@ -1,5 +1,23 @@
 # Windows 7
 
+![Win7_Pro_(7601.17514)_en_20210423.png](/preview/Win7_Pro_(7601.17514)_en_20210423.png)
+
+#### 發布時間：2021/04/23 (3)
+
+簡介：與Win7_Pro_(7601.17514)_20210423同設定，如需更新請安裝此[更新檔](https://github.com/WhatTheBlock/Win10_Simplify/releases/download/v2021.04.23/7601.17514_to_7601.24576.exe)
+
+版本：Windows 7 Pro (x64)
+
+組建：7601.17514
+
+大小：1.07GB
+
+下載：[Google雲端](http://tiny.cc/w7_en_20210423)、[OneDrive](http://tiny.cc/w7_en_20210423_od)
+
+SHA-256：66529F5F70877C47375353BE0047364123D8790C5B73AF5F0E3E5C33E9D9FABD
+
+----
+
 ![Win7_Pro_(7601.17514)_20210423-2.png](/preview/Win7_Pro_(7601.17514)_20210423-2.png)
 
 #### 發布時間：2021/04/23 (2)
