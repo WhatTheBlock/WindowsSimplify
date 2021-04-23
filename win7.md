@@ -22,7 +22,7 @@ SHA-256：DD80BA62CC8695779114AE85DEB3CBD466F065FE36621DC236EEB7CE3206F34C
 
 #### 發布時間：2021/04/23
 
-簡介：修復上一個版本所有已知問題，保留更多系統的基本功能，如需更新請自行下載更新檔安裝
+簡介：修復上一個版本所有已知問題，保留更多系統的基本功能，如需更新請安裝此[更新檔](https://github.com/WhatTheBlock/Win10_Simplify/releases/download/v2021.04.23/7601.17514_to_7601.24576.exe)
 
 版本：Windows 7 Pro (x64)
 
