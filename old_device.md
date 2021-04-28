@@ -36,24 +36,6 @@ SHA-256：1FE930349CEC03C02381EB42097C50AC9F7835DADD4EDF2B344FBDEB57C50116
 
 ----
 
-![Win10_LTSC_(17763.1)_20210421.png](/preview/Win10_LTSC_(17763.1)_20210421.png)
-
-#### 發布時間：2021/04/21 (2)
-
-簡介：此版保留列印、SMB檔案共享、Telnet功能，適合無特殊需求的辦公環境
-
-版本：Windows 10 LTSC 2019 (x64)
-
-組建：17763.1
-
-大小：1.21GB
-
-下載：[Google雲端](http://tiny.cc/w10_ltsc_20210421)、[OneDrive](http://tiny.cc/w10_ltsc_20210421_o)
-
-SHA-256：70A79525E7155651C35DDFF3FF2D77314927AB9AF28F31A0C82563E49D98B7A8
-
-----
-
 ![Win10_LTSB_(14393.0)_x86_20210421.png](/preview/Win10_LTSB_(14393.0)_x86_20210421.png)
 
 #### 發布時間：2021/04/21
