@@ -1,5 +1,21 @@
 # Server
 
+#### 發布時間：2021/04/30
+
+簡介：修復Ser2022_DC_(20344.1)_20210430-2的已知問題
+
+版本：Windows Server 2022 Datacenter
+
+組建：20344.1 (21H2)
+
+大小：1.54GB
+
+下載：[Google雲端](http://tiny.cc/s2022dc_20210430_3)、[OneDrive](http://tiny.cc/s2022dc_20210430_3_o)
+
+SHA-256：D9D73F953321B742AE70B3BCD5178CE11AFE610FBB6AF9DA35BF69578209B272
+
+----
+
 ![preview.png](/preview/Ser2022_DC_(20344.1)_20210430-2.png)
 
 #### 發布時間：2021/04/30
@@ -40,6 +56,9 @@ SHA-256：58DB7D0AFA51413722A5ABB6ED9E50385D2CDD049449C481638359D99806AB81
 - 破壞Defender的啟動程式與病毒庫 (避免完全移除導致安裝出錯)
 - 修改工具列透明度
 - 加入多項效能優化設定
+
+已知問題：
+- Defender移除不完全
 
 ----
 
