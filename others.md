@@ -1,5 +1,25 @@
 # 其他
 
+![preview.png](/preview/Win10_20H2_(19042.867)_20210428.png)
+
+#### 發布時間：2021/05/02
+
+簡介：內含VirtIO驅動，專為KVM虛擬機設計，Windows Update功能正常，測試過可正常更新至19042.928
+
+版本：Windows 10 Pro (x64)
+
+組建：19042.867
+
+大小：2.37GB
+
+下載：[Google雲端_TW](http://tiny.cc/w10_20H2_20210428_t)、[Google雲端_HK](http://tiny.cc/w10_20H2_20210428_h)
+
+SHA-256：
+- [TW] 1558C7DE874F4F8D45E46FFB9479A37D70D0EDEFE603BCD571AF5C94F90A9A04
+- [HK] 878F33B25420DD5EDF86CEDC6DB455BEBCD659961F63A2FB7F2FF8F854F4101C
+
+----
+
 ![preview.png](/preview/Win10_21H2_(21364.1)_20210428.png)
 
 #### 發布時間：2021/04/28
