@@ -12,19 +12,19 @@ Windows 10 共設立6種分類：
 - [老舊裝置專用](/old_device.md)
 - ~~[客製化](/customized.md)~~
 - [其他](/others.md)
-- [boot](/boot_w10.md)
+- [boot](/boot/w10.md)
 
 Windows 8.1 共設立2種分類：
 - [精簡系統](/win8.1.md)
-- [boot](/boot_w8.1.md)
+- [boot](/boot/w8.1.md)
 
 Windows 7 共設立2種分類：
 - [精簡系統](/win7.md)
-- [boot](/boot_w7.md)
+- [boot](/boot/w7.md)
 
 Windows Server 共設立2種分類：
 - [精簡系統](/server.md)
-- [boot](/boot_ws.md)
+- [boot](/boot/server.md)
 
 ----
 
