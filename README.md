@@ -1,12 +1,14 @@
-# Win10 Simplify
+# Windows Simplify
 
-### 介紹文章：[點我](https://home.gamer.com.tw/artwork.php?sn=4971603)
+### 介紹文章：[Win10](https://home.gamer.com.tw/artwork.php?sn=4971603)、[Win11](https://home.gamer.com.tw/artwork.php?sn=5193340)
 
 #### 使用預覽、優化項目、下載連結請至各分類頁面查看
 
 ----
+Windows 11：
+- [精簡系統](https://home.gamer.com.tw/artwork.php?sn=5193340)
 
-Windows 10 共設立6種分類：
+Windows 10：
 - [穩定](/stable.md)
 - [極度精簡](/extreme.md)
 - [老舊裝置專用](/old_device.md)
@@ -14,15 +16,15 @@ Windows 10 共設立6種分類：
 - [其他](/others.md)
 - [boot](/boot/w10.md)
 
-Windows 8.1 共設立2種分類：
+Windows 8.1：
 - [精簡系統](/win8.1.md)
 - [boot](/boot/w8.1.md)
 
-Windows 7 共設立2種分類：
+Windows 7：
 - [精簡系統](/win7.md)
 - [boot](/boot/w7.md)
 
-Windows Server 共設立2種分類：
+Windows Server：
 - [精簡系統](/server.md)
 - [boot](/boot/server.md)
 
