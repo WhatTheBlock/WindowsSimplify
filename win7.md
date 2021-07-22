@@ -12,7 +12,7 @@
 
 大小：859MB
 
-下載：[Google雲端](https://drive.google.com/uc?export=download&id=1MJ09x6lf4Ld8icKJWRHHk-QDbonzQzvn)
+下載：[Google雲端](https://drive.google.com/uc?export=download&id=1MJ09x6lf4Ld8icKJWRHHk-QDbonzQzvn)、[Github](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/v2021.07.23/Win7_Pro_x86_210723.iso)
 
 SHA-256：F673EC435FE509C11208845AC7F74E113A249F5946A4A3B40078B3A6F6D1BEF8
 
@@ -20,7 +20,7 @@ SHA-256：F673EC435FE509C11208845AC7F74E113A249F5946A4A3B40078B3A6F6D1BEF8
 - 無法安裝系統更新
 - ISO附有Chrome、VC Runtime安裝檔，請多加利用
 - 如要安裝VMware Tools則必須先安裝VC Runtime
-- VMware Tools請安裝11.0.0以前的版本
+- VMware Tools請安裝11.0.0以前的版本，[點我下載](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/v2021.07.23/VMware-tools-windows-11.0.0-14549434.iso)
 
 ----
 
