@@ -6,7 +6,7 @@
 
 ----
 Windows 11：
-- [精簡系統](https://home.gamer.com.tw/artwork.php?sn=5193340)
+- [精簡系統](/win11.md)
 
 Windows 10：
 - [穩定](/stable.md)
