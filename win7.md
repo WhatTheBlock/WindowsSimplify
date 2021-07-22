@@ -1,5 +1,29 @@
 # Windows 7
 
+![1.png](/preview/Win7_Pro_x86_210723.png)
+
+#### 發布時間：2021/07/23
+
+簡介：移除大量驅動、系統組件，用於虛擬機多開遊戲，不建議安裝於實體裝置
+
+版本：Windows 7 Pro (x86)
+
+組建：7601.17514
+
+大小：859MB
+
+下載：[Google雲端](https://drive.google.com/uc?export=download&id=1MJ09x6lf4Ld8icKJWRHHk-QDbonzQzvn)
+
+SHA-256：F673EC435FE509C11208845AC7F74E113A249F5946A4A3B40078B3A6F6D1BEF8
+
+注意事項：
+- 無法安裝系統更新
+- ISO附有Chrome、VC Runtime安裝檔，請多加利用
+- 如要安裝VMware Tools則必須先安裝VC Runtime
+- VMware Tools請安裝11.0.0以前的版本
+
+----
+
 ![Win7_Pro_(7601.17514)_en_20210423-2.png](/preview/Win7_Pro_(7601.17514)_en_20210423-2.png)
 
 #### 發布時間：2021/04/23 (4)
