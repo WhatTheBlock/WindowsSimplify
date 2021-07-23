@@ -1,5 +1,26 @@
 # Windows 11
 
+![1.png](/preview/Win11_22000.100_210723.png)
+
+#### 發布時間：2021/07/23
+
+簡介：Insider Preview 僅供嘗鮮
+
+版本：Windows 11 Pro
+
+組建：22000.100 (v21H2)
+
+大小：1.79GB
+
+下載：[Extreme](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/v2021.07.18/Win11_22000.100_210723.iso)
+
+SHA-256：26752820BBEBC6067B04D3CF267D9A744AB1BBCBE089D5BB041FFAB719B966B3
+
+注意事項：
+- 請參考22000.51
+
+----
+
 ![1.png](/preview/Win11_22000.71_210718.png)
 
 ![2.png](/preview/Win11_22000.71_210718_2.png)
