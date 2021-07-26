@@ -1,6 +1,6 @@
 # Windows Simplify
 
-### 介紹文章：[Win10](https://home.gamer.com.tw/artwork.php?sn=4971603)、[Win11](https://home.gamer.com.tw/artwork.php?sn=5193340)
+### 介紹文章：[Win7~10](https://home.gamer.com.tw/artwork.php?sn=4971603)、[Win11](https://home.gamer.com.tw/artwork.php?sn=5193340)
 
 #### 使用預覽、優化項目、下載連結請至各分類頁面查看
 
