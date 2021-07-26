@@ -1,5 +1,26 @@
 # Windows 7
 
+![1.png](/preview/Win7_Pro_x86_210726.png)
+
+#### 發布時間：2021/07/26
+
+簡介：改進2021/07/23的版本，保留數據機驅動，調整精簡方式，功能基本上沒有差異
+
+版本：Windows 7 Pro (x86)
+
+組建：7601.17514
+
+大小：776MB
+
+下載：[Google雲端](https://drive.google.com/uc?export=download&id=1O9dkmCvhQ0I3F88Rp-YxIHvlcBlY-uPv)、[Github](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/v2021.07.26/Win7_Pro_x86_210726.iso)
+
+SHA-256：FBC2E1CA40CF1DA324F26900C5BB08F6FB9154D4A27F0EAF6D9019F450311D76
+
+注意事項：
+- 請參考2021/07/23的版本
+
+----
+
 ![1.png](/preview/Win7_Pro_x86_210723.png)
 
 #### 發布時間：2021/07/23
