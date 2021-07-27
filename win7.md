@@ -10,11 +10,11 @@
 
 組建：7601.17514
 
-大小：776MB
+大小：812MB
 
-下載：[Google雲端](https://drive.google.com/uc?export=download&id=1O9dkmCvhQ0I3F88Rp-YxIHvlcBlY-uPv)、[Github](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/v2021.07.26/Win7_Pro_x86_210726.iso)
+下載：[Github](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/v2021.07.26/Win7_Pro_x86_210727.iso) (0727更新修正版)
 
-SHA-256：FBC2E1CA40CF1DA324F26900C5BB08F6FB9154D4A27F0EAF6D9019F450311D76
+SHA-256：CE74AFEBA4DD0ACAB5796CCC7E50D663CB2772D22040E00C0451BD987F297C28
 
 注意事項：
 - 請參考2021/07/23的版本
