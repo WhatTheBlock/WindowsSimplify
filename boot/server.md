@@ -38,10 +38,10 @@ D:\iso\sources\$OEM$ (如果有的話)</code></pre>
 
 #### 繁體中文精簡版
 
-下載：Server 2022 (345MB) - [Google雲端](https://drive.google.com/uc?export=download&id=1LGeLjZtpkPT9txNl9BN8yC99fg8jmrwq)、[Github](https://github.com/WhatTheBlock/Win10_Simplify/releases/download/v2021.05.06/boot_ws2022_ct_lite.7z)
+下載：Server 2022 (281MB) - [Github](https://github.com/WhatTheBlock/Win10_Simplify/releases/download/v2021.05.06/boot_s2022_ct_lite.7z)
 
 ----
 
 #### 繁體中文原版
 
-下載：Server 2022 (392MB) - [Google雲端](https://drive.google.com/uc?export=download&id=1YVbjDuxYTB_OEl0Ls5SvmjO-yzCs2AiR)、[Github](https://github.com/WhatTheBlock/Win10_Simplify/releases/download/v2021.05.06/boot_ws2022_ct.7z)
+下載：Server 2022 (392MB) - [Google雲端](https://drive.google.com/uc?export=download&id=1YVbjDuxYTB_OEl0Ls5SvmjO-yzCs2AiR)、[Github](https://github.com/WhatTheBlock/Win10_Simplify/releases/download/v2021.05.06/boot_s2022_ct.7z)
