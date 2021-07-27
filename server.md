@@ -1,4 +1,22 @@
-# Server
+# Windows Server
+
+![1.png](/preview/s2022_20348.112_210727.png)
+
+#### 發布時間：2021/07/27
+
+簡介：定位如同穩定版，但沒做過多的測試，不保證能正常更新
+
+版本：Windows Server 2022 Datacenter
+
+組建：20348.112
+
+大小：2.28GB
+
+下載：[Google雲端](https://drive.google.com/uc?export=download&id=1K2rz4cXOFE2dPvwIeaeXCuHZByN3nMQQ)
+
+SHA-256：2B1E8DA5AB8372081C770B7832133E04D1AC0E154965712F77C1C5697F70DE3D
+
+----
 
 #### 發布時間：2021/04/30
 
@@ -6,7 +24,7 @@
 
 版本：Windows Server 2022 Datacenter
 
-組建：20344.1 (21H2)
+組建：20344.1
 
 大小：1.54GB
 
@@ -24,7 +42,7 @@ SHA-256：D9D73F953321B742AE70B3BCD5178CE11AFE610FBB6AF9DA35BF69578209B272
 
 版本：Windows Server 2022 Datacenter
 
-組建：20344.1 (21H2)
+組建：20344.1
 
 大小：1.55GB
 
@@ -70,7 +88,7 @@ SHA-256：58DB7D0AFA51413722A5ABB6ED9E50385D2CDD049449C481638359D99806AB81
 
 版本：Windows Server 2022 Datacenter
 
-組建：20344.1 (21H2)
+組建：20344.1
 
 大小：2.74GB
 
