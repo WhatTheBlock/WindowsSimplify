@@ -1,5 +1,23 @@
 # 老舊裝置專用
 
+![preview.png](/preview/Win10_LTSB_14393.0_210804-2.png)
+
+#### 發布時間：2021/08/04
+
+簡介：保留完整的平板電腦組件，專為效能低落的平板電腦設計
+
+版本：Windows 10 LTSB 2016 (x64)
+
+組建：14393.0
+
+大小：1.11GB
+
+下載：[Google雲端](https://drive.google.com/uc?export=download&id=1li-ci14G2NCm5m8S4b9uE5TOSX7qTzoX)
+
+SHA-256：C5D347835574F1A1B51E1B52F60E8669BFF9F6EE59FDB37DFB679D1520675ADF
+
+----
+
 ![preview.png](/preview/Win10_LTSB_14393.0_x86_210804.png)
 
 #### 發布時間：2021/08/04
