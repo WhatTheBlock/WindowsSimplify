@@ -1,5 +1,23 @@
 # Windows 11
 
+#### 發布時間：2021/09/24
+
+簡介：Insider Preview 僅供嘗鮮
+
+版本：Windows 11 Pro
+
+組建：22463.1000
+
+大小：2.46GB (Stable)、2.17GB (Extreme)
+
+下載：[Stable](https://drive.google.com/uc?export=download&id=1SOV7uRS2Q6bEA_Xvet8pYZ9F5OBkjiSC)、[Extreme](https://drive.google.com/uc?export=download&id=1AxK2omomPMqjRQr1WEZhYtvKxTfWJjZi)
+
+SHA-256：
+- Stable: EFBB5009676C2FCAA9DDF27B579134245E4A0ECD74438FED14AFC14BEAB3A37D
+- Extreme: 33626BEE8A0F11C2672ED1E1B2EB5426A393D85A95B32BA597E10135F9B53F1B
+
+----
+
 ![1.png](/preview/Win11_22000.100_210723.png)
 
 #### 發布時間：2021/07/23
@@ -8,7 +26,7 @@
 
 版本：Windows 11 Pro
 
-組建：22000.100 (v21H2)
+組建：22000.100
 
 大小：1.79GB
 
@@ -31,7 +49,7 @@ SHA-256：26752820BBEBC6067B04D3CF267D9A744AB1BBCBE089D5BB041FFAB719B966B3
 
 版本：Windows 11 Pro
 
-組建：22000.71 (v21H2)
+組建：22000.71
 
 大小：1.79GB
 
@@ -54,7 +72,7 @@ SHA-256：0AE0E515F9D443D4DADCAD12446D14529F58CED6A063100AEB824F0F8BD7FE00
 
 版本：Windows 11 Pro
 
-組建：22000.51 (v21H2)
+組建：22000.51
 
 大小：2.24GB (Stable)、1.81GB (Extreme)
 
