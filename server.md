@@ -1,5 +1,23 @@
 # Windows Server
 
+![1.png](/preview/s2022_20348.230_210925.png)
+
+#### 發布時間：2021/09/25
+
+簡介：移除WinSxS，不可更新，為目前最省資源的版本
+
+版本：Windows Server 2022 Datacenter
+
+組建：20348.230
+
+大小：2.04GB
+
+下載：[Google雲端](https://drive.google.com/uc?export=download&id=1IUZmVer-Th7BtH8O6bc6TCkVkucv46pG)
+
+SHA-256：2FF068955BCA9732198FDDEADD72D2EF8661E183BD06EDEB33D32FAA4522FBA4
+
+----
+
 ![1.png](/preview/s2022_20348.112_210727.png)
 
 #### 發布時間：2021/07/27
