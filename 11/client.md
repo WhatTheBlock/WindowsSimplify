@@ -1,5 +1,31 @@
 # Windows 11
 
+![1.png](/preview/Win11_22000.194_211006.png)
+
+#### 發布時間：2021/10/08
+
+簡介：Win11現階段精簡工具尚未完美支援，即便精簡的比較保守也不能保證其穩定性
+
+版本：Windows 11 Pro
+
+組建：22000.194
+
+大小：3.24GB (Stable)、2.32GB (Extreme)
+
+下載：[Stable](https://drive.google.com/uc?export=download&id=1cdSNVDBTySy_K4AJGcBP0WlnLwPuKX8w)、[Extreme](https://drive.google.com/uc?export=download&id=1zG-c7pf4kkS7X1es3WBfpM2ZrenobRdH)
+
+SHA-256：
+- Stable: 8613760589E3103475CF7166FC8A981D5D4B8A491896829E36BB35A7026C2CAD
+- Extreme: 5ECA11E0E74F6A975DDDE03ABB1CA01AADF482D43EED640F60606CB85699CBEF
+
+注意事項：
+- Extreme額外移除了Edge、Store、Defender、WinSxS等
+![2.png](/preview/Win11_22000.194_211006-2.png)
+- 會被強制安裝Teams，目前暫時沒找到阻止安裝的方式
+- 為了追求性能，此次製作的系統都預設停用Virtualization-based Security，對安全性有疑慮的人請勿使用
+
+----
+
 #### 發布時間：2021/09/24
 
 簡介：Insider Preview 僅供嘗鮮
