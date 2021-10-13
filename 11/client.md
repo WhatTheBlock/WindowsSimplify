@@ -1,5 +1,27 @@
 # Windows 11
 
+![1.png](/preview/Win11_22000.194_211012.png)
+
+#### 發布時間：2021/10/13
+
+簡介：檔案總管已改回傳統介面，工作列置左也能讓不習慣置中的人使用，此版本精簡程度相當高，不建議日常使用
+
+版本：Windows 11 Pro
+
+組建：22000.194
+
+大小：1.63GB
+
+下載：[Link](https://drive.google.com/uc?export=download&id=1BDiRHZ976WhDeq5x1WO3Yds59VN1GZBp)
+
+SHA-256：ED894255E820B21088B9D684D45B3BFBED083F037CFF9F69B21A54907741FB3B
+
+注意事項：
+- 此系統無瀏覽器，請自行執行C槽根目錄下的 [Get Latest Chrome.cmd] 安裝Chrome
+- 已停用Virtualization-based Security，對安全性有疑慮的人請勿使用
+
+----
+
 ![1.png](/preview/Win11_22000.194_211006.png)
 
 #### 發布時間：2021/10/08
@@ -22,7 +44,7 @@ SHA-256：
 - Extreme額外移除了Edge、Store、Defender、WinSxS等
 ![2.png](/preview/Win11_22000.194_211006-2.png)
 - 會被強制安裝Teams，目前暫時沒找到阻止安裝的方式
-- 為了追求性能，此次製作的系統都預設停用Virtualization-based Security，對安全性有疑慮的人請勿使用
+- 已停用Virtualization-based Security，對安全性有疑慮的人請勿使用
 
 ----
 
