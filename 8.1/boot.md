@@ -38,10 +38,10 @@ D:\iso\sources\$OEM$ (如果有的話)</code></pre>
 
 #### 繁體中文精簡版
 
-下載：x64 (231MB) - [Google雲端](https://drive.google.com/uc?export=download&id=1Q5wVON90bDIaEDTg70eXQ8Earvy8vldm)、[Github](https://github.com/WhatTheBlock/Win10_Simplify/releases/download/v2021.05.06/boot_8.1_ct_x64_lite.7z)
+下載：x64 (231MB) - [Google雲端](https://drive.google.com/uc?export=download&id=1Q5wVON90bDIaEDTg70eXQ8Earvy8vldm)、[Github](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/boot/boot_8.1_ct_x64_lite.7z)
 
 ----
 
 #### 繁體中文原版
 
-下載：x64 (258MB) - [Google雲端](https://drive.google.com/uc?export=download&id=1QcPzv-fSR8O4UPSNgWAzUAmMPH1J0a_t)、[Github](https://github.com/WhatTheBlock/Win10_Simplify/releases/download/v2021.05.06/boot_8.1_ct_x64.7z)
+下載：x64 (258MB) - [Google雲端](https://drive.google.com/uc?export=download&id=1QcPzv-fSR8O4UPSNgWAzUAmMPH1J0a_t)、[Github](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/boot/boot_8.1_ct_x64.7z)
