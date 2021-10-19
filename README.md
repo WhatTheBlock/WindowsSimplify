@@ -8,7 +8,7 @@
 
 Windows 11：
 - [精簡系統](/11/client.md)
-- ~~boot~~
+- [boot](/11/boot.md)
 
 Windows 10：
 - [穩定](/10/stable.md)
