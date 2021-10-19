@@ -30,4 +30,4 @@ Windows Server：
 - [Win10](/server/w10.md)
 - [Win10_boot](/server/w10_boot.md)
 - [Win11](/server/w11.md)
-- ~~Win11_boot~~
+- [Win11_boot](/server/w11_boot.md)
