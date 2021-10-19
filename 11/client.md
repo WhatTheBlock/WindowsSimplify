@@ -1,5 +1,27 @@
 # Windows 11
 
+![1.png](/preview/Win11_22000.282_211018.png)
+
+#### 發布時間：2021/10/19
+
+簡介：大致與 [Win11_22000.194_211012] 相同，但本次將Windows Update頁面也一併破壞，並移除系統自動下載安裝驅動的功能。虛擬機測試過VMware Tools驅動可正常安裝使用，其餘裝置不保證功能正常
+
+版本：Windows 11 Pro
+
+組建：22000.282
+
+大小：1.76GB
+
+下載：[Link](https://drive.google.com/uc?export=download&id=1d7Vy4TqV6KRkeljyCisPIVCBW-A-Xc71)
+
+SHA-256：0933F630F084F32DFC6C265ADEFB0B5CB91B4C089544E50B2D993C8D55245953
+
+注意事項：
+- 此系統無瀏覽器，請自行執行C槽根目錄下的 [Get Latest Chrome.cmd] 安裝Chrome
+- 已停用Virtualization-based Security，對安全性有疑慮的人請勿使用
+
+----
+
 ![1.png](/preview/Win11_22000.194_211012.png)
 
 #### 發布時間：2021/10/13
