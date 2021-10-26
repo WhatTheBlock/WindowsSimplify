@@ -2,7 +2,7 @@
 
 #### 發布時間：2021/10/26
 
-簡介：首個預裝Android的版本，APK安裝步驟可至該版本Release頁面或安裝後至C槽根目錄下查看
+簡介：首個預裝Android的版本，APK安裝步驟可至該版本[Release](https://github.com/WhatTheBlock/WindowsSimplify/releases/tag/w11.211026)頁面查看
 
 版本：Windows 11 Pro
 
@@ -20,7 +20,7 @@ SHA-256：A3F78939A5ECF2A015DC7BBEEC1B8F741CFB85912BDBDF82B0ADAA693B3AB2A9
 注意事項：
 - Windows Store需等待系統自動更新為藍色圖標的新版本才可開啟
 - 此版本為無修改的WSA，因此系統地區不可改為美國、英國以外之國家
-- C槽根目錄下附有APK安裝教學與ADB工具
+- ADB工具位於`C:\adb_tools`
 
 ----
 
