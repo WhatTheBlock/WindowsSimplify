@@ -1,5 +1,29 @@
 # Windows 11
 
+#### 發布時間：2021/10/26
+
+簡介：首個預裝Android的版本，APK安裝步驟可至該版本Release頁面或安裝後至C槽根目錄下查看
+
+版本：Windows 11 Pro
+
+組建：22000.282
+
+大小：3.32GB
+
+下載：[Link](https://drive.google.com/uc?export=download&id=1zDpFhPwH1Uj23w8--8vP1rNgTw1OjX_u)
+
+SHA-256：A3F78939A5ECF2A015DC7BBEEC1B8F741CFB85912BDBDF82B0ADAA693B3AB2A9
+
+已知問題：
+- Windows Defender功能異常
+
+注意事項：
+- Windows Store需等待系統自動更新為藍色圖標的新版本才可開啟
+- 此版本為無修改的WSA，因此系統地區不可改為美國、英國以外之國家
+- C槽根目錄下附有APK安裝教學與ADB工具
+
+----
+
 ![1.png](/preview/Win11_22000.282_211018.png)
 
 #### 發布時間：2021/10/19
