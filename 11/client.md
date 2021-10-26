@@ -4,7 +4,7 @@
 
 #### 發布時間：2021/10/27
 
-**簡介：** 預裝修改版WSA，APK安裝步驟可至該版本[Release](https://github.com/WhatTheBlock/WindowsSimplify/releases/tag/w11.211027)頁面查看
+**簡介：** 預裝修改版WSA，Play商店登錄前置步驟可至該版本[Release](https://github.com/WhatTheBlock/WindowsSimplify/releases/tag/w11.211027)頁面查看
 
 **版本：** Windows 11 Pro
 
