@@ -1,8 +1,38 @@
 # Windows 11
 
+![1.png](/preview/Win11_22000.282_211027.png)
+
+#### 發布時間：2021/10/27
+
+**簡介：** 預裝修改版WSA，APK安裝步驟可至該版本[Release](https://github.com/WhatTheBlock/WindowsSimplify/releases/tag/w11.211027)頁面查看
+
+**版本：** Windows 11 Pro
+
+**組建：** 22000.282
+
+**大小：** ?GB (Ver.1)、?GB (Ver.2)
+
+**下載：** 尚未上傳
+
+**SHA-256：**
+- Ver.1:
+- Ver.2:
+
+**注意事項：**
+- 系統安裝完畢後請至C槽根目錄執行`install.cmd`安裝WSA
+- 執行WSA之前務必先安裝其他裝置驅動，避免執行效能過差
+- `Ver.1`不保證可安裝CU更新，`Ver.2`則無法更新
+- 預覽圖為`Ver.2`
+- Windows Store需等待系統自動更新為藍色圖標的新版本才可開啟
+- WSA有修改，系統地區可設定為美國或台灣
+- ADB工具位於`C:\adb_tools`
+- 此系統無瀏覽器，請自行執行C槽根目錄下的`Get Latest Chrome.cmd`安裝Chrome
+
+----
+
 #### 發布時間：2021/10/26
 
-簡介：首個預裝Android的版本，APK安裝步驟可至該版本[Release](https://github.com/WhatTheBlock/WindowsSimplify/releases/tag/w11.211026)頁面查看
+簡介：首個預裝WSA的版本，APK安裝步驟可至該版本[Release](https://github.com/WhatTheBlock/WindowsSimplify/releases/tag/w11.211026)頁面查看
 
 版本：Windows 11 Pro
 
@@ -18,8 +48,9 @@ SHA-256：A3F78939A5ECF2A015DC7BBEEC1B8F741CFB85912BDBDF82B0ADAA693B3AB2A9
 - Windows Defender功能異常
 
 注意事項：
+- 執行WSA之前請務必先安裝其他裝置驅動，避免執行效能過差
 - Windows Store需等待系統自動更新為藍色圖標的新版本才可開啟
-- 此版本為無修改的WSA，因此系統地區不可改為美國、英國以外之國家
+- WSA無修改，系統地區不可設定為美國和英國以外之地區
 - ADB工具位於`C:\adb_tools`
 
 ----
@@ -28,7 +59,7 @@ SHA-256：A3F78939A5ECF2A015DC7BBEEC1B8F741CFB85912BDBDF82B0ADAA693B3AB2A9
 
 #### 發布時間：2021/10/19
 
-簡介：大致與 [Win11_22000.194_211012] 相同，但本次將Windows Update頁面也一併破壞，並移除系統自動下載安裝驅動的功能。虛擬機測試過VMware Tools驅動可正常安裝使用，其餘裝置不保證功能正常
+簡介：大致與`Win11_22000.194_211012`相同，但本次將Windows Update頁面也一併破壞，並移除系統自動下載安裝驅動的功能。虛擬機測試過VMware Tools驅動可正常安裝使用，其餘裝置不保證功能正常
 
 版本：Windows 11 Pro
 
@@ -41,7 +72,7 @@ SHA-256：A3F78939A5ECF2A015DC7BBEEC1B8F741CFB85912BDBDF82B0ADAA693B3AB2A9
 SHA-256：0933F630F084F32DFC6C265ADEFB0B5CB91B4C089544E50B2D993C8D55245953
 
 注意事項：
-- 此系統無瀏覽器，請自行執行C槽根目錄下的 [Get Latest Chrome.cmd] 安裝Chrome
+- 此系統無瀏覽器，請自行執行C槽根目錄下的`Get Latest Chrome.cmd`安裝Chrome
 - 已停用Virtualization-based Security，對安全性有疑慮的人請勿使用
 
 ----
@@ -63,7 +94,7 @@ SHA-256：0933F630F084F32DFC6C265ADEFB0B5CB91B4C089544E50B2D993C8D55245953
 SHA-256：ED894255E820B21088B9D684D45B3BFBED083F037CFF9F69B21A54907741FB3B
 
 注意事項：
-- 此系統無瀏覽器，請自行執行C槽根目錄下的 [Get Latest Chrome.cmd] 安裝Chrome
+- 此系統無瀏覽器，請自行執行C槽根目錄下的`Get Latest Chrome.cmd`安裝Chrome
 - 已停用Virtualization-based Security，對安全性有疑慮的人請勿使用
 
 ----
