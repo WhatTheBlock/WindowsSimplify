@@ -10,13 +10,13 @@
 
 **組建：** 22000.282
 
-**大小：** ?GB (Ver.1)、?GB (Ver.2)
+**大小：** 3.29GB (Ver.1)、2.74GB (Ver.2)
 
-**下載：** 尚未上傳
+**下載：** [Ver.1](https://drive.google.com/uc?export=download&id=1ZywVTPHcTZ2Fu320usL6W5nmPSlWwzxp)、[Ver.2](https://drive.google.com/uc?export=download&id=1C02XqCJvmvY4tKcy9UQHrzvixK2IHTDJ)
 
 **SHA-256：**
-- Ver.1:
-- Ver.2:
+- Ver.1: 8E7E26C40F7F8FCBF8755B84F271F917E858B6AFBB623BB095439E7559314FB1
+- Ver.2: 5FABBFA7FBA139724903912A5C8E4DECAF3A128EAA7905765D47268B5A94806E
 
 **注意事項：**
 - 系統安裝完畢後請至C槽根目錄執行`install.cmd`安裝WSA
