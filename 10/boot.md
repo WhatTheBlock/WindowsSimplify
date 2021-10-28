@@ -38,36 +38,40 @@ D:\iso\sources\$OEM$ (如果有的話)</code></pre>
 
 #### 繁體中文精簡版
 
-下載：(適用19041.1以前系統)
-- x86 (197MB) - [Google雲端](https://drive.google.com/uc?export=download&id=1QLFTYzZaJMZfKSMmgIF66gfsQQr8TiF1)、[Github](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/boot/boot_ct_x86_lite.7z)
-- x64 (145MB) - [Google雲端](https://drive.google.com/uc?export=download&id=10J1NOommQQeuSx9JwIm1n4dbxgBsuuao)、[Github](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/boot/boot_ct_x64_lite.7z)
+適用19041.1以前系統：(精簡程度高，不適合eMMC裝置使用)
+- x86 - [Link](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/boot/boot_ct_x86_lite.7z)
+- x64 - [Link](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/boot/boot_ct_x64_lite.7z)
 
-下載：(適用19041.1以後系統)
-- x64 (351MB) - [Github](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/boot/boot_19041_ct_x64_lite.7z)
+適用14393.XXXX：
+- x86 - [Link](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/boot/boot_14393_ct_x86_lite.7z)
+- x64 - [Link](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/boot/boot_14393_ct_lite.7z)
+
+適用1904X.XXXX：
+- x64 - [Link](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/boot/boot_19041_ct_lite.7z)
 
 ----
 
 #### 繁體中文原版
 
-下載：(適用19041.1以前系統)
-- x86 (237MB) - [Google雲端](https://drive.google.com/uc?export=download&id=1OVgAIJgVIvoEj2OtVjquOVGc8H0V1t3V)、[Github](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/boot/boot_ct_x86.7z)
-- x64 (287MB) - [Google雲端](https://drive.google.com/uc?export=download&id=1r9AInIGB7BMlZufCVY4cKD_AlM-xjWyc)、[Github](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/boot/boot_ct_x64.7z)
+適用19041.1以前系統：
+- x86 - [Link](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/boot/boot_ct_x86.7z)
+- x64 - [Link](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/boot/boot_ct_x64.7z)
 
-下載：(適用19041.1以後系統)
-- x64 (491MB) - [Github](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/boot/boot_19041_ct_x64.7z)
+適用1904X.XXXX：
+- x64 - [Link](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/boot/boot_19041_ct_x64.7z)
 
 ----
 
 #### 英文精簡版
 
-下載：
-- x86 (153MB) - [Google雲端](https://drive.google.com/uc?export=download&id=122XH9Gdww7knFvZk62ctgdyTRZvf10O_)、[Github](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/boot/boot_en_x86_lite.7z)
-- x64 (98.2MB) - [Google雲端](https://drive.google.com/uc?export=download&id=1ucDQf9zic9TyzxHd6SfLkiOaQcJEb-r7)、[Github](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/boot/boot_en_x64_lite.7z)
+下載：(精簡程度高，不適合eMMC裝置使用)
+- x86 - [Link](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/boot/boot_en_x86_lite.7z)
+- x64 - [Link](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/boot/boot_en_x64_lite.7z)
 
 ----
 
 #### 英文原版
 
 下載：
-- x86 (201MB) - [Google雲端](https://drive.google.com/uc?export=download&id=1M829x2LbxGxECbQDtzASQNwUdhj0Voop)、[Github](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/boot/boot_en_x86.7z)
-- x64 (244MB) - [Google雲端](https://drive.google.com/uc?export=download&id=1IPyiEI_iYXWKiphA8OllHHbdZ5T_EqAi)、[Github](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/boot/boot_en_x64.7z)
+- x86 - [Link](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/boot/boot_en_x86.7z)
+- x64 - [Link](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/boot/boot_en_x64.7z)
