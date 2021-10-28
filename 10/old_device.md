@@ -1,5 +1,24 @@
 # 老舊裝置專用
 
+#### 發布時間：2021/10/28
+
+**簡介：** 專為平板電腦設計
+
+**版本：** Windows 10 LTSB 2016 (x86)
+
+**組建：** 14393.0
+
+**大小：** 1.25GB
+
+**下載：** [Google雲端](https://drive.google.com/uc?export=download&id=1_YIio3_tFOHj_vcYxjX6JOTk-ASY3-gl)
+
+**SHA-256：** FD80C6573B53D8A652D186033988A47B1827B711C74D3F5DF637675D42C23DF6
+
+**注意事項：**
+- 建議執行C槽根目錄下的`Get Latest Chrome x86.cmd`安裝Chrome
+
+----
+
 ![preview.png](/preview/Win10_LTSB_14393.0_210804-2.png)
 
 #### 發布時間：2021/08/04
