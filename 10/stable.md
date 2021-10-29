@@ -6,14 +6,18 @@
 
 ### x64
 
-發布時間：2021/09/23
+**發布時間：** 2021/10/29
 
-版本：Windows 10 Pro v21H1
+**版本：** Windows 10 Pro
 
-組建：19043.928
+**組建：** 19043.928
 
-大小：3.19GB
+**大小：** 2.66GB
 
-下載：[Google雲端](https://drive.google.com/uc?export=download&id=1Wjh6LOAInMXj8-v0ldzms83QMvcDJuHG)
+**下載：** [Link](https://drive.google.com/uc?export=download&id=1RPj_b7tRD4J5CUuS1PloYcxYsSwnvAK1)
 
-SHA-256：A91C9EEDDF9D28E2D451B30ABAB7272F4778997B79233C76CC3FA3B8AB95B95F
+**SHA-256：** 93AD2A829F6F4F42D2D3014DE68C7252BED9301922628794C8D04CF430CAFE5E
+
+**注意事項：**
+- 建議執行C槽根目錄下的`Get Latest Chrome.cmd`安裝Chrome
+- 請勿使用Windows Update
