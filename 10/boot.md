@@ -50,6 +50,7 @@ D:\iso\sources\$OEM$ (如果有的話)</code></pre>
 - x64 - [Link](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/boot/boot_19041_ct_lite.7z)
 
 適用LTSC 2021：
+- x86 - [Link](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/boot/boot_ltsc2021_ct_x86_lite.7z)
 - x64 - [Link](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/boot/boot_ltsc2021_ct_lite.7z)
 
 ----
