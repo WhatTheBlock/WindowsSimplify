@@ -49,6 +49,9 @@ D:\iso\sources\$OEM$ (如果有的話)</code></pre>
 適用1904X.XXXX：
 - x64 - [Link](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/boot/boot_19041_ct_lite.7z)
 
+適用LTSC 2021：
+- x64 - [Link](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/boot/boot_ltsc2021_ct_lite.7z)
+
 ----
 
 #### 繁體中文原版
