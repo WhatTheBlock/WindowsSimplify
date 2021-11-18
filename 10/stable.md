@@ -22,7 +22,8 @@
 
 **注意事項：**
 - 無法安裝CU更新
-- 若遠端列印出現錯誤請至該版本Release頁面使用`Fix_PrintSpooler.zip`修復
+- 若遠端列印出現錯誤請使用[Fix_PrintSpooler.zip](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w10.211118/Fix_PrintSpooler.zip)修復
+- 若區網連線失敗請使用[fix_lan.reg](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w10.211118/fix_lan.reg)修復
 
 ----
 
@@ -43,4 +44,4 @@
 **SHA-256：** 572C058D4CC0F791DBCACAD4F058F40C7B336AF6CA22D83BE9BEDFA11326AA2E
 
 **注意事項：**
-- 若遠端列印出現錯誤請至該版本Release頁面使用`Fix_PrintSpooler.zip`修復
+- 若遠端列印出現錯誤請使用[Fix_PrintSpooler.zip](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w10.211118/Fix_PrintSpooler.zip)修復
