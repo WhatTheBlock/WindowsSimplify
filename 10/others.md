@@ -1,6 +1,28 @@
 # 其他
 
-![preview.png](/preview/Win10_20H2_(19042.867)_20210428.png)
+#### 發布時間：2021/11/18
+
+**簡介：** LTSC 2021記憶體佔用相當高，不太推薦在效能極差的裝置使用，但系統較新，也可自行安裝appx運行最新的UWP App
+
+**版本：** Enterprise LTSC 2021 (x86)
+
+**組建：** 19044.1288
+
+**大小：** 1.33GB (Ver.1)、1.28GB (Ver.2)
+
+**下載：** [Ver.1](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/ltsc.x86.211118/LTSC_19044.1288_x86_211118.iso)、[Ver.2](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/ltsc.x86.211118/LTSC_19044.1288_x86_211118v2.iso)
+
+**SHA-256：**
+- Ver.1: 691082469EC54BE8A9011EBF19C3BD8C433EA5170E4878125BB8C3F6529B3BF3
+- Ver.2: 69C208B83C319222546EAAE12E73B16F7B3FE664A21ACA09EBA2E1EEDB9365FE
+
+**注意事項：**
+- 無法安裝CU更新
+- Ver.2有精簡.NET框架，相容性會受到影響，但測試過可使用Office LTSC 2021
+
+----
+
+![img](/preview/Win10_20H2_(19042.867)_20210428.png)
 
 #### 發布時間：2021/05/02
 
@@ -24,7 +46,7 @@ SHA-256：
 
 ----
 
-![Win10_21H1_(19043.962)_20210422.png](/preview/Win10_21H1_(19043.962)_20210422.png)
+![img](/preview/Win10_21H1_(19043.962)_20210422.png)
 
 #### 發布時間：2021/04/22
 
