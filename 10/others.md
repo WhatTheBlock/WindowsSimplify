@@ -1,5 +1,28 @@
 # 其他
 
+----
+
+![img](/preview/LTSC_19044.1288_211120.png)
+
+#### 發布時間：2021/11/20
+
+**簡介：** 微幅精簡並加入額外的程式增加相容性、功能性 (NET 6.0、Windows Terminal、PowerShell 7)，確保可使用於任何文書、程式開發等辦公使用環境
+
+**版本：** Enterprise LTSC 2021
+
+**組建：** 19044.1288
+
+**大小：** 3.17GB
+
+**下載：** [Link](https://drive.google.com/uc?export=download&id=13WM_kF4yG2eAK02oC82iLodEoESPu47k)
+
+**SHA-256：** ACD9A69A3E475CAFB5E6BBB24C7D52BB6B14ED7C0215F4C2D28F3DB7DE82B664
+
+**注意事項：**
+- 無法安裝CU更新
+
+----
+
 #### 發布時間：2021/11/18
 
 **簡介：** LTSC 2021記憶體佔用相當高，不太推薦在效能極差的裝置使用，但系統較新，也可自行安裝appx運行最新的UWP App
