@@ -20,7 +20,7 @@
 
 **大小：** 2.57GB (Ver.1)、1.80GB (Ver.2)
 
-**下載：** [Ver.1](https://drive.google.com/uc?export=download&id=1h7Ir6jB1SMDUdeeWNWj-q_EWyGSea67d)、[Ver.2](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w10.211118/Win10_LTSC_19044.1288_211118v2.iso)
+**下載：** [Ver.1](https://drive.google.com/uc?export=download&id=1h7Ir6jB1SMDUdeeWNWj-q_EWyGSea67d)、[Ver.2](https://drive.google.com/uc?export=download&id=1ZC-nGa-Q_SKHUKAStrAgp9GGCzINEpy4)
 
 **SHA-256：**
 - Ver.1: 4C9A9FD9A2185BF0EFD9E639C78612AEBF75B31B2166070436121413C269C45E
