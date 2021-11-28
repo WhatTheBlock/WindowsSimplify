@@ -4,6 +4,32 @@
 
 ----
 
+![img](/preview/21390.1_211128.png)
+
+![img](/preview/21390.1_ProW_211128.png)
+
+#### 發布時間：2021/11/28
+
+**簡介：** 僅供測試
+
+**版本：** Windows 10 Pro / Pro Workstation (x64)
+
+**組建：** 21390.1
+
+**大小：** 2.43GB
+
+**下載：** [Link](https://drive.google.com/uc?export=download&id=11Z93AlJYGQbeiIiHUx8SZiMJtwJC558-)
+
+**SHA-256：** f2b22b3214e98939ca2d6f8ab3f8a206dac45de9e9cb7740e22b0a903e0bc7a3
+
+**注意事項：**
+- 不含網卡驅動，請自行使用[3DP Net](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w10.211126/3DP_Net_v2101.exe)安裝
+- 變更產品金鑰可改為Pro Workstation (`NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J`)
+- 不支援KMS激活工具 (可數字，如圖)
+- 不支援激活Office (建議使用類似的軟體代替)
+
+----
+
 ![img](/preview/19043.1348_211126.png)
 
 #### 發布時間：2021/11/26
@@ -22,7 +48,7 @@
 
 **注意事項：**
 - 無法安裝CU更新
-- 不含網卡驅動，請自行使用`3DP Net`安裝
+- 不含網卡驅動，請自行使用[3DP Net](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w10.211126/3DP_Net_v2101.exe)安裝
 
 ----
 
