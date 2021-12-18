@@ -4,6 +4,27 @@
 
 ----
 
+![img](/preview/LTSB_14393.4825_211218.png)
+
+#### 發布時間：2021/12/18
+
+**簡介：** 僅供測試
+
+**版本：** Enterprise LTSB 2016 (x64)
+
+**組建：** 14393.4825
+
+**大小：** 1.45GB
+
+**下載：** [Link](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/ltsb.211218/LTSB_14393.4825_211218.iso)
+
+**SHA-256：** d219223bd654f6484df69b7c0c4276d04c02c3bc46889009002ff00df65130be
+
+**注意事項：**
+- 無法安裝CU更新
+
+----
+
 ![img](/preview/21390.1_211128.png)
 
 ![img](/preview/21390.1_ProW_211128.png)
