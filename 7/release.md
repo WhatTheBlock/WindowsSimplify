@@ -1,5 +1,30 @@
 # Windows 7
 
+![img](/preview/7601.25792_211230.png)
+
+#### 發布時間：2021/12/31
+
+**簡介：** 集成當前最新ESU的Win7
+
+**版本：** Windows 7 Pro (x64)
+
+**組建：** 7601.25792
+
+**大小：** 1.95GB
+
+**下載：** [Link](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w7.211230/7601.25792_211230.iso)
+
+**SHA-256：** cc9ece0eb6218c5290fe26e2f11a16ded5c8af038ad4fed4a3fb83d60edf78dc
+
+**注意事項：**
+- 無法安裝系統更新
+- IE請至`C:\Program Files\Internet Explorer\iexplore.exe`開啟
+- 如要啟用Aero特效請先安裝顯卡驅動
+- 如要安裝VMware Tools則必須先安裝VC Runtime
+- VMware Tools請安裝11.0.0以前的版本，[點我下載](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/v2021.07.23/VMware-tools-windows-11.0.0-14549434.iso)
+
+----
+
 ![1.png](/preview/Win7_Pro_x86_210726.png)
 
 #### 發布時間：2021/07/26
