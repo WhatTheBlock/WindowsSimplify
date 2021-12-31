@@ -31,3 +31,9 @@ Windows Server：
 - [Win10_boot](/server/w10_boot.md)
 - [Win11](/server/w11.md)
 - [Win11_boot](/server/w11_boot.md)
+
+----
+
+### 作者の其他repo推薦 OuOb
+- [Office Lite 2021 - 只含Word、Excel、PowerPoint](https://github.com/WhatTheBlock/Office-Lite)
+- [NVIDIA顯卡驅動精簡](https://github.com/WhatTheBlock/GeForce-Driver-Lite)
