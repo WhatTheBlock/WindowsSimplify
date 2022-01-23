@@ -1,5 +1,26 @@
 # Windows 11
 
+#### 發布時間：2022/01/23
+
+**簡介：** 保留了部分行動裝置常用的UWP APP，無測試過，不建議新手使用
+
+**版本：** Windows 11 Pro (ARM64)
+
+**組建：** 22000.466
+
+**大小：** 3.32GB
+
+**下載：** [Part 1](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w11.220123/22000.466_arm_220123.part1.rar)、[Part 2](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w11.220123/22000.466_arm_220123.part2.rar)
+
+**SHA-256：**5b53f37080e4094b99fde2a916c7249bfe07a71324c3bb58012245dd58dc4b91
+
+**注意事項：**
+- 無測試過，不建議新手使用
+- 不保證可安裝CU更新
+- 若boot.wim或autounattend.xml有問題導致無法正常安裝請利用WinPE直接安裝install.esd
+
+----
+
 ![1.png](/preview/Win11_22000.282_211027.png)
 
 #### 發布時間：2021/10/27
