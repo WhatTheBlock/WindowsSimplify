@@ -53,3 +53,25 @@
 
 **注意事項：**
 - 若遠端列印出現錯誤請使用[Fix_PrintSpooler.zip](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w10.211118/Fix_PrintSpooler.zip)修復
+
+----
+
+### x64 (en-US)
+
+**Preview：**
+![preview](/preview/19044.1503_220130.png)
+
+**Release Date：** 2022/01/31
+
+**Edition：** Windows 10 Pro
+
+**OS Build：** 19044.1503
+
+**ISO Size：** 2.48GB
+
+**Download：** [Part 1](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w10.220130/19044.1503_220130.part1.rar)、[Part 2](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w10.220130/19044.1503_220130.part2.rar)
+
+**SHA-256：** f4a01fedb402b0bb981298f65dc5e740e86d5e7015abacdd876ddb75656b63cc
+
+**Notice：**
+- May not install Cumulative Updates
