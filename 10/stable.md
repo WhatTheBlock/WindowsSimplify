@@ -74,4 +74,5 @@
 **SHA-256：** f4a01fedb402b0bb981298f65dc5e740e86d5e7015abacdd876ddb75656b63cc
 
 **Notice：**
-- May not install Cumulative Updates
+- May not install Cumulative Updates.
+- Windows Defender has been removed.
