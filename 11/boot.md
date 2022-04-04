@@ -52,5 +52,5 @@ D:\iso\sources\$OEM$ (如果有的話)</code></pre>
 
 #### en-US (Lite)
 
-For 22000.XXX：(Made by [Rectify 11 team](https://rectify.vercel.app/))
+For 22000.XXX：(Made by [Rectify11 team](https://rectify.vercel.app/))
 - [Link](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/boot/boot_Rectify11_en.7z)
