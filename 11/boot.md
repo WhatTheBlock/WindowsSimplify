@@ -39,7 +39,7 @@ D:\iso\sources\$OEM$ (如果有的話)</code></pre>
 #### 繁體中文精簡版 (已解除硬體限制)
 
 下載：(適用22000.XXX)
-- [Github](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/boot/boot_11_ct_mod.7z)
+- [Link](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/boot/boot_Rectify11_ct.7z)
 
 ----
 
@@ -47,3 +47,10 @@ D:\iso\sources\$OEM$ (如果有的話)</code></pre>
 
 下載：(適用22000.XXX)
 - 待更新
+
+----
+
+#### en-US (Lite)
+
+For 22000.XXX：(Made by [Rectify 11 team](https://rectify.vercel.app/))
+- [Link](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/boot/boot_Rectify11_en.7z)
