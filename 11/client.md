@@ -1,5 +1,38 @@
 # Windows 11
 
+![1.png](/preview/22000.593_220404_2.png)
+
+#### 發布時間：2022/04/05
+
+**簡介：** 比原版Win11更像Win11
+
+**版本：** Windows 11 Pro
+
+**組建：** 22000.593
+
+**大小：** 2.76GB
+
+**下載：** [Part 1](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w11.220404/22000.593_220404.part1.rar)、[Part 2](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w11.220404/22000.593_220404.part2.rar)
+
+**SHA-256：** 9bd46233091f945a4d61e21de814541cfb28515ff4e7224a540fa9bf4275b34b
+
+**版本特點：**
+- 移植部分Rectify 11主題
+- 最新版記事本、小畫家、計算機
+- 工具列置左且可按右鍵 ( Like Win10 )
+- 桌面附有IE啟動腳本
+
+**已知問題：**
+- 計算機需使用修復腳本安裝 ( C:\fix_calc.ps1 )
+![1.png](/preview/22000.593_220404_4.png)
+- 暗黑模式主題尚未修改成微軟正黑體 ( 系統會自動以新細明體顯示中文 )
+
+**注意事項：**
+- 尚未在實體裝置測試過
+- 主題系統已破解，可能無法安裝CU更新
+
+----
+
 ![1.png](/preview/22000.469_220131.png)
 
 #### 發布時間：2022/01/31
