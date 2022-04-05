@@ -1,6 +1,10 @@
 # Windows 11
 
+- Ver.1
 ![1.png](/preview/22000.593_220404_2.png)
+
+- Ver.2 ( 預設一樣為淺色主題 )
+![1.png](/preview/22000.593_220404_6.png)
 
 #### 發布時間：2022/04/05
 
@@ -10,11 +14,13 @@
 
 **組建：** 22000.593
 
-**大小：** 2.76GB
+**大小：** 2.76GB (Ver.1)、1.88GB (Ver.2)
 
-**下載：** [Part 1](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w11.220404/22000.593_220404.part1.rar)、[Part 2](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w11.220404/22000.593_220404.part2.rar)
+**下載：** [Part 1](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w11.220404/22000.593_220404.part1.rar)、[Part 2](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w11.220404/22000.593_220404.part2.rar)、[Ver.2](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w11.220404/22000.593_220404-2.iso)
 
-**SHA-256：** 9bd46233091f945a4d61e21de814541cfb28515ff4e7224a540fa9bf4275b34b
+**SHA-256：** 
+- Ver.1: 9bd46233091f945a4d61e21de814541cfb28515ff4e7224a540fa9bf4275b34b
+- Ver.2: 660a494c5390fc9eb083a64ba42131753715fe1c6fa7fccc5384da6aefbd8a38
 
 **版本特點：**
 - 移植部分Rectify 11主題
@@ -23,13 +29,17 @@
 - 桌面附有IE啟動腳本
 
 **已知問題：**
-- 計算機需使用修復腳本安裝 ( C:\fix_calc.ps1 )
+- 計算機需使用修復腳本安裝 ( C:\fix_calc.ps1 ) 
 ![1.png](/preview/22000.593_220404_4.png)
 - 暗黑模式主題尚未修改成微軟正黑體 ( 系統會自動以新細明體顯示中文 )
+- 暗黑模式主題仍有部分介面區塊為白色
+![1](/preview/22000.593_220404_5.png)
+- 特定情況下winver介面會異常向左橫移
 
 **注意事項：**
 - 尚未在實體裝置測試過
-- 主題系統已破解，可能無法安裝CU更新
+- 無法安裝CU更新
+- Ver.2無法新增選用功能 ( 因WinSxS被移除 )
 
 ----
 
