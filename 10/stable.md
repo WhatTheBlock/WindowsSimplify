@@ -4,6 +4,59 @@
 
 ----
 
+### x64
+
+**系統預覽：**
+![preview](/preview/19044.1679_220416.png)
+
+**發布時間：** 2022/04/17
+
+**版本：** Windows 10 Pro
+
+**組建：** 19044.1679
+
+**大小：** 2.74GB (Ver.1)、1.75GB (Ver.2)
+
+**下載：** [Part 1](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w10.220416/19044.1679_220416.part1.rar)、[Part 2](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w10.220416/19044.1679_220416.part2.rar)、[Ver.2](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w10.220416/19044.1679_220416-2.iso)
+
+**SHA-256：**
+- Ver.1: a605e0831500891f9612de1eaea7e921e45cd3e5419832eeb2176228ea288007
+- Ver.2: 6a01e3d246abe9eb3cc121fb9ca5f3720a8d0eeeb64789b95cb76c93389d0c79
+
+**版本特點：**
+- 移植Rectify 11 Cursors
+- 移植新的系統圖示
+- 集成最新版商店
+
+**注意事項：**
+- Ver.1不保證能安裝CU更新
+- Ver.2移除WinSxS、移動裝置相關組件、AD網域、系統還原、系統備份等功能
+
+----
+
+### x64 (en-US)
+
+**Preview：**
+![preview](/preview/19044.1503_220130.png)
+
+**Release Date：** 2022/01/31
+
+**Edition：** Windows 10 Pro
+
+**OS Build：** 19044.1503
+
+**ISO Size：** 2.48GB
+
+**Download：** [Part 1](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w10.220130/19044.1503_220130.part1.rar)、[Part 2](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w10.220130/19044.1503_220130.part2.rar)
+
+**SHA-256：** f4a01fedb402b0bb981298f65dc5e740e86d5e7015abacdd876ddb75656b63cc
+
+**Notice：**
+- May not install Cumulative Updates.
+- Windows Defender has been removed.
+
+----
+
 ### LTSC 2021 x64
 
 **系統預覽：**
@@ -31,48 +84,3 @@
 - 若遠端列印出現錯誤請使用[Fix_PrintSpooler.zip](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w10.211118/Fix_PrintSpooler.zip)修復
 - 若區網連線失敗請使用[fix_lan.reg](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w10.211118/fix_lan.reg)修復
 - Ver.2集成新版小算盤，移除WinSxS，且預先修復列印與區網連線的問題
-
-----
-
-### x64
-
-**系統預覽：**
-![preview](/preview/Win10_19043.1288_211110.png)
-
-**發布時間：** 2021/11/10
-
-**版本：** Windows 10 Pro
-
-**組建：** 19043.1288
-
-**大小：** 2.80GB
-
-**下載：** [Link](https://drive.google.com/uc?export=download&id=1P9oamJ0UgoBM7fNw26ql9CbjH3tXSDe7)
-
-**SHA-256：** 572C058D4CC0F791DBCACAD4F058F40C7B336AF6CA22D83BE9BEDFA11326AA2E
-
-**注意事項：**
-- 若遠端列印出現錯誤請使用[Fix_PrintSpooler.zip](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w10.211118/Fix_PrintSpooler.zip)修復
-
-----
-
-### x64 (en-US)
-
-**Preview：**
-![preview](/preview/19044.1503_220130.png)
-
-**Release Date：** 2022/01/31
-
-**Edition：** Windows 10 Pro
-
-**OS Build：** 19044.1503
-
-**ISO Size：** 2.48GB
-
-**Download：** [Part 1](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w10.220130/19044.1503_220130.part1.rar)、[Part 2](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w10.220130/19044.1503_220130.part2.rar)
-
-**SHA-256：** f4a01fedb402b0bb981298f65dc5e740e86d5e7015abacdd876ddb75656b63cc
-
-**Notice：**
-- May not install Cumulative Updates.
-- Windows Defender has been removed.
