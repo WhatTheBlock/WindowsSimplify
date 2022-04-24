@@ -84,3 +84,31 @@
 - 若遠端列印出現錯誤請使用[Fix_PrintSpooler.zip](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w10.211118/Fix_PrintSpooler.zip)修復
 - 若區網連線失敗請使用[fix_lan.reg](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w10.211118/fix_lan.reg)修復
 - Ver.2集成新版小算盤，移除WinSxS，且預先修復列印與區網連線的問題
+
+----
+
+### LTSC 2019 x64
+
+**系統預覽：**
+![preview](/preview/LTSC_17763.2803_220424.png)
+
+**發布時間：** 2022/04/24
+
+**版本：** Enterprise LTSC 2019
+
+**組建：** 17763.2803
+
+**大小：** 2.78GB
+
+**下載：** [Part 1](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/ltsc.220424/LTSC_17763.2803_220424.part1.rar)、[Part 2](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/ltsc.220424/LTSC_17763.2803_220424.part2.rar)
+
+**SHA-256：** 1f11b2f9125c2c268cba0c57101f05c11ace771d74e827ceced03ec426a38636
+
+**版本特點：**
+- 移植Rectify 11 Cursors
+- 移植Rectify 10 boot
+- 移植新的系統圖示
+
+**注意事項：**
+- CU更新需使用DISM安裝
+- 選用功能無法安裝
