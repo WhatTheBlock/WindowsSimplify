@@ -1,5 +1,25 @@
 # Windows 11
 
+**Preview：**
+![preview](/preview/22000.652_220505_1.png)
+
+#### Release Date：2022/05/05
+
+**Edition：** Windows 11 Pro
+
+**OS Build：** 22000.652
+
+**ISO Size：** 1.75GB
+
+**Download：** [Github](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w11.220505/22000.652_220505.iso)、[OneDrive]()
+
+**SHA-256：** 39042a8c409cabdb3298d9b86baab3c3cf60778cec746f912d5b9379e9d099ab
+
+**Introduction：** [#24](https://github.com/WhatTheBlock/WindowsSimplify/issues/24)、[Release Page](https://github.com/WhatTheBlock/WindowsSimplify/releases/tag/w11.220505)
+
+----
+
+**系統預覽：**
 - Ver.1
 ![1.png](/preview/22000.593_220404_2.png)
 
@@ -7,8 +27,6 @@
 ![1.png](/preview/22000.593_220404_6.png)
 
 #### 發布時間：2022/04/05
-
-**簡介：** 比原版Win11更像Win11
 
 **版本：** Windows 11 Pro
 
@@ -18,36 +36,18 @@
 
 **下載：** [Part 1](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w11.220404/22000.593_220404.part1.rar)、[Part 2](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w11.220404/22000.593_220404.part2.rar)、[Ver.2](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w11.220404/22000.593_220404-2.iso)
 
-**SHA-256：** 
+**SHA-256：**
 - Ver.1: 9bd46233091f945a4d61e21de814541cfb28515ff4e7224a540fa9bf4275b34b
 - Ver.2: 660a494c5390fc9eb083a64ba42131753715fe1c6fa7fccc5384da6aefbd8a38
 
-**版本特點：**
-- 移植部分Rectify 11主題
-- 最新版記事本、小畫家、計算機
-- 工具列置左且可按右鍵 ( Like Win10 )
-- 桌面附有IE啟動腳本
-
-**已知問題：**
-- 計算機需使用修復腳本安裝 ( C:\fix_calc.ps1 ) 
-![1.png](/preview/22000.593_220404_4.png)
-- 暗黑模式主題尚未修改成微軟正黑體 ( 系統會自動以新細明體顯示中文 )
-- 暗黑模式主題仍有部分介面區塊為白色
-![1](/preview/22000.593_220404_5.png)
-- 特定情況下winver介面會異常向左橫移
-
-**注意事項：**
-- 尚未在實體裝置測試過
-- 無法安裝CU更新
-- Ver.2無法新增選用功能 ( 因WinSxS被移除 )
+**詳細介紹：** [Release Page](https://github.com/WhatTheBlock/WindowsSimplify/releases/tag/w11.220404)
 
 ----
 
+**系統預覽：**
 ![1.png](/preview/22000.469_220131.png)
 
 #### 發布時間：2022/01/31
-
-**簡介：** 高度精簡版本，適合遊戲、虛擬機等用途
 
 **版本：** Windows 11 Pro
 
@@ -59,15 +59,11 @@
 
 **SHA-256：** 35107a12d755fe7fc63df515e66ef4e4e36be180993daeeab8096977cf67b4db
 
-**注意事項：**
-- 無法安裝CU更新
-- ISO內含IE啟動腳本，無需Edge也可啟動
+**詳細介紹：** [Release Page](https://github.com/WhatTheBlock/WindowsSimplify/releases/tag/w11.220131)
 
 ----
 
 #### 發布時間：2022/01/23
-
-**簡介：** 保留了部分行動裝置常用的UWP APP，無測試過，不建議新手使用
 
 **版本：** Windows 11 Pro (ARM64)
 
@@ -79,18 +75,14 @@
 
 **SHA-256：** 5b53f37080e4094b99fde2a916c7249bfe07a71324c3bb58012245dd58dc4b91
 
-**注意事項：**
-- 無測試過，不建議新手使用
-- 不保證可安裝CU更新
-- 若boot.wim或autounattend.xml有問題導致無法正常安裝請利用WinPE直接安裝install.esd
+**詳細介紹：** [Release Page](https://github.com/WhatTheBlock/WindowsSimplify/releases/tag/w11.220123)
 
 ----
 
+**系統預覽：**
 ![1.png](/preview/Win11_22000.282_211027.png)
 
 #### 發布時間：2021/10/27
-
-**簡介：** 預裝修改版WSA，Play商店登錄前置步驟可至該版本[Release](https://github.com/WhatTheBlock/WindowsSimplify/releases/tag/w11.211027)頁面查看
 
 **版本：** Windows 11 Pro
 
@@ -104,15 +96,7 @@
 - Ver.1: 8E7E26C40F7F8FCBF8755B84F271F917E858B6AFBB623BB095439E7559314FB1
 - Ver.2: 5FABBFA7FBA139724903912A5C8E4DECAF3A128EAA7905765D47268B5A94806E
 
-**注意事項：**
-- 系統安裝完畢後請至C槽根目錄執行`install.cmd`安裝WSA
-- 執行WSA之前務必先安裝其他裝置驅動，避免執行效能過差
-- `Ver.1`不保證可安裝CU更新，`Ver.2`則無法更新
-- 預覽圖為`Ver.2`
-- Windows Store需等待系統自動更新為藍色圖標的新版本才可開啟
-- WSA有修改，系統地區可設定為美國或台灣
-- ADB工具位於`C:\adb_tools`
-- 此系統無瀏覽器，請自行執行C槽根目錄下的`Get Latest Chrome.cmd`安裝Chrome
+**詳細介紹：** [Release Page](https://github.com/WhatTheBlock/WindowsSimplify/releases/tag/w11.211027)
 
 ----
 
