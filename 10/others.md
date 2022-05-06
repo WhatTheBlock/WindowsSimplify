@@ -51,28 +51,6 @@
 
 ----
 
-![img](/preview/19043.1348_211126.png)
-
-#### 發布時間：2021/11/26
-
-**簡介：** 僅供測試
-
-**版本：** Windows 10 Pro (x64)
-
-**組建：** 19043.1348
-
-**大小：** 1.75GB
-
-**下載：** [Link](https://drive.google.com/uc?export=download&id=1NzkoNhL0v8AE9z0s76QKKYyC_3_z_95U)
-
-**SHA-256：** b8ea2e2f82df086c9039d9093335efad0220ae9edadd1257123d8960a09174b6
-
-**注意事項：**
-- 無法安裝CU更新
-- 不含網卡驅動，請自行使用[3DP Net](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w10.211126/3DP_Net_v2101.exe)安裝
-
-----
-
 ![img](/preview/LTSC_19044.1288_211120.png)
 
 #### 發布時間：2021/11/20
