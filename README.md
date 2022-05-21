@@ -7,7 +7,7 @@
 ----
 
 ### Notice：
-Publishing system will slow down due to my extremely slow uploads.
+Publishing system will slow down due to my extremely slow upload speed.
 
 ### 注意：
 由於我的上傳速度非常緩慢，因此發布系統的頻率將降低。
