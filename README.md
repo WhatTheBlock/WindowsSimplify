@@ -6,6 +6,14 @@
 
 ----
 
+### Notice：
+Publishing system will slow down due to my extremely slow uploads.
+
+### 注意：
+由於我的上傳速度非常緩慢，因此發布系統的頻率將降低。
+
+----
+
 Windows 11：
 - [精簡系統](/11/client.md)
 - [boot](/11/boot.md)
