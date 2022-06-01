@@ -10,11 +10,11 @@
 
 ### Notice：
 - Publishing system will slow down due to my extremely slow upload speed.
-- The google drive link will expire in the near future, and the file will not be updated after the expiration.
+- ~~The google drive link will expire in the near future, and the file will not be reupload after the expiration.~~ (expired in 30/05/2022)
 
 ### 注意：
 - 由於我的上傳速度非常慢，所以發布系統的頻率將降低
-- Google Drive連結將在近期失效，失效後不再補檔
+- ~~Google Drive連結將在近期失效，失效後不再補檔~~ (已於2022/05/30失效)
 
 ----
 
