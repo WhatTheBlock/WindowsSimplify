@@ -11,7 +11,7 @@
 
 **ISO Size：** 1.75GB
 
-**Download：** [OneDrive](https://gmnfuedutw-my.sharepoint.com/:u:/g/personal/40543229_gm_nfu_edu_tw/ESq52yGL0T5CsXlBvACG618BopImkbiT6Qf0qa34shrC0g)
+**Download：** [Link](https://gmnfuedutw-my.sharepoint.com/:u:/g/personal/40543229_gm_nfu_edu_tw/ESq52yGL0T5CsXlBvACG618BopImkbiT6Qf0qa34shrC0g)
 
 **SHA-256：** 39042a8c409cabdb3298d9b86baab3c3cf60778cec746f912d5b9379e9d099ab
 

@@ -10,7 +10,7 @@
 
 **大小：** 2.04GB
 
-**下載：** [Link](https://drive.google.com/uc?export=download&id=1IUZmVer-Th7BtH8O6bc6TCkVkucv46pG)
+**下載：** expired
 
 **SHA-256：** 2FF068955BCA9732198FDDEADD72D2EF8661E183BD06EDEB33D32FAA4522FBA4
 
@@ -29,6 +29,6 @@
 
 **大小：** 2.28GB
 
-**下載：** [Link](https://drive.google.com/uc?export=download&id=1K2rz4cXOFE2dPvwIeaeXCuHZByN3nMQQ)
+**下載：** expired
 
 **SHA-256：** 2B1E8DA5AB8372081C770B7832133E04D1AC0E154965712F77C1C5697F70DE3D

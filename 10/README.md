@@ -73,7 +73,7 @@
 
 **大小：** 2.57GB (Ver.1)、1.80GB (Ver.2)
 
-**下載：** [Ver.1](https://drive.google.com/uc?export=download&id=1h7Ir6jB1SMDUdeeWNWj-q_EWyGSea67d)、[Ver.2](https://drive.google.com/uc?export=download&id=1ZC-nGa-Q_SKHUKAStrAgp9GGCzINEpy4)
+**下載：** expired
 
 **SHA-256：**
 - Ver.1: 4C9A9FD9A2185BF0EFD9E639C78612AEBF75B31B2166070436121413C269C45E

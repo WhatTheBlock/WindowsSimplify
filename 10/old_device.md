@@ -10,7 +10,7 @@
 
 **大小：** 1.60GB (x64)、1.25GB (x86)
 
-**下載：** [x64](https://drive.google.com/uc?export=download&id=1GIJBTUbJcBhR0_OGQVEb9yt5YX3Nih3a)、[x86](https://drive.google.com/uc?export=download&id=1_YIio3_tFOHj_vcYxjX6JOTk-ASY3-gl)
+**下載：** expired
 
 **SHA-256：**
 - x64：5AC435AAFB68131F4EBCFECC11CF465F52C9DDD845746A8173E917EBA76B8180

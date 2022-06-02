@@ -56,7 +56,7 @@
 
 **ISO Size：** 1.4GB
 
-**Download：** [Google Drive](http://tiny.cc/w7_en_20210423_2f)、[OneDrive](http://tiny.cc/w7_en_20210423_2f_o)
+**Download：** [Link](http://tiny.cc/w7_en_20210423_2f_o)
 
 **SHA-256：** 2520B39973723DBCCD7AFEC2E7A1C9EDB0331462A3569EBF2648E7257CD1BB5F
 
@@ -75,7 +75,7 @@
 
 **ISO Size：** 1.61GB
 
-**Download：** [Google Drive](http://tiny.cc/w7_en_20210423_f)、[OneDrive](http://tiny.cc/w7_en_20210423_f_o)
+**Download：** [Link](http://tiny.cc/w7_en_20210423_f_o)
 
 **SHA-256：** EAEC5EC4748A10B0E5F88816BE6E256E752D1557D22BBB092EB0963FB28BF70E
 

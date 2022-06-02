@@ -10,11 +10,9 @@
 
 ### Notice：
 - Publishing system will slow down due to my extremely slow upload speed.
-- ~~The google drive link will expire in the near future, and the file will not be reupload after the expiration.~~ (expired in 30/05/2022)
 
 ### 注意：
 - 由於我的上傳速度非常慢，所以發布系統的頻率將降低
-- ~~Google Drive連結將在近期失效，失效後不再補檔~~ (已於2022/05/30失效)
 
 ----
 
@@ -31,7 +29,6 @@ Windows 10：
 - [Stable](/10)
 - [Extreme Lite](/10/extreme.md)
 - [For old devices & virtual machine](/10/old_device.md)
-- ~~[Customized](/10/customized.md)~~ (suspend)
 - [Others](/10/others.md)
 - [boot.wim](/10/boot.md)
 
@@ -46,8 +43,6 @@ Windows 7：
 Windows Server：
 - [Win10](/server)
 - [Win10_boot.wim](/server/w10_boot.md)
-- [Win11](/server/w11.md)
-- [Win11_boot.wim](/server/w11_boot.md)
 
 ----
 
