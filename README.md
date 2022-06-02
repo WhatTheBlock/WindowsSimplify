@@ -18,8 +18,13 @@
 
 ----
 
+[未發布 & 實驗性版本 (Experimental area)](/experimental/release.md)
+
+----
+
 Windows 11：
-- [Lite](/11/client.md)
+- [Normal](/11/normal.md)
+- [WSA](/11/wsa.md)
 - [boot.wim](/11/boot.md)
 
 Windows 10：
