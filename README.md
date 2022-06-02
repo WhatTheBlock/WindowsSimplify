@@ -18,7 +18,7 @@
 
 ----
 
-[未發布 & 實驗性版本 (Experimental area)](/experimental/release.md)
+[未發布 & 實驗性版本 (Experimental area)](/experimental/README.md)
 
 ----
 
