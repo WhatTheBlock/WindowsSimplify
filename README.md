@@ -18,17 +18,17 @@
 
 ----
 
-[未發布 & 實驗性版本 (Experimental area)](/experimental/README.md)
+[未發布 & 實驗性版本 (Experimental area)](/experimental)
 
 ----
 
 Windows 11：
-- [Normal](/11/normal.md)
+- [Normal](/11)
 - [WSA](/11/wsa.md)
 - [boot.wim](/11/boot.md)
 
 Windows 10：
-- [Stable](/10/stable.md)
+- [Stable](/10)
 - [Extreme Lite](/10/extreme.md)
 - [For old devices & virtual machine](/10/old_device.md)
 - ~~[Customized](/10/customized.md)~~ (suspend)
@@ -36,15 +36,15 @@ Windows 10：
 - [boot.wim](/10/boot.md)
 
 Windows 8.1：
-- [Lite](/8.1/release.md)
+- [Lite](/8.1)
 - [boot.wim](/8.1/boot.md)
 
 Windows 7：
-- [Lite](/7/release.md)
+- [Lite](/7)
 - [boot.wim](/7/boot.md)
 
 Windows Server：
-- [Win10](/server/w10.md)
+- [Win10](/server)
 - [Win10_boot.wim](/server/w10_boot.md)
 - [Win11](/server/w11.md)
 - [Win11_boot.wim](/server/w11_boot.md)
