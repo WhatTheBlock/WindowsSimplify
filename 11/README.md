@@ -1,6 +1,31 @@
 # Windows 11
 
 **Preview：**
+![1](/preview/22621.105_220617.png)
+
+#### Release Date：2022/06/17
+
+**Edition：** Windows 11 Pro
+
+**OS Build：** 22621.105
+
+**ISO Size：** ？GB (Ver.1)、2GB (Ver.2)
+
+**Download：** [Link](https://github.com/WhatTheBlock/WindowsSimplify/releases/tag/w11.220617)
+
+**SHA-256：**
+- Ver.1: not available
+- Ver.2: 03429180f77223416c25ccec6119f882d0b37d4b8d9a171a870966735f219b6a
+
+**Highlights：**
+- Rectify 11 theme (include windows setup)
+- Very Stable (Ver.1)
+- Preinstall VC++ Runtime
+- Debloated
+
+----
+
+**Preview：**
 ![preview](/preview/22000.652_220505_1.png)
 
 #### Release Date：2022/05/05

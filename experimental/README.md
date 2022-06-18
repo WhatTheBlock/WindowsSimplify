@@ -13,29 +13,6 @@ If you are interested in any version, please create an issue or discussion and s
 ----
 
 **Preview：**
-![1](/preview/22621.105_220617.png)
-
-#### Release Date：2022/06/17
-
-**Edition：** Windows 11 Pro
-
-**OS Build：** 22621.105
-
-**ISO Size：** not available
-
-**Download：** not available
-
-**SHA-256：** not available
-
-**Highlights：**
-- Rectify 11 theme (include windows setup)
-- Very Stable
-- Preinstall VC++ Runtime
-- Debloated
-
-----
-
-**Preview：**
 ![1](/preview/22621.1_220522.png)
 
 #### Release Date：2022/06/02
