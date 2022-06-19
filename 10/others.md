@@ -16,7 +16,7 @@
 
 **大小：** 1.45GB
 
-**下載：** [Link](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/ltsb.211218/LTSB_14393.4825_211218.iso)
+**下載：** [Github](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/ltsb.211218/LTSB_14393.4825_211218.iso)、[OneDrive](https://gmnfuedutw-my.sharepoint.com/:u:/g/personal/40543229_gm_nfu_edu_tw/EW6EZ9rEExhHq-Omz0AaBMQBDwIKE_8nsRXJmoUL1qL-rg?e=cbBD8O)
 
 **SHA-256：** d219223bd654f6484df69b7c0c4276d04c02c3bc46889009002ff00df65130be
 
