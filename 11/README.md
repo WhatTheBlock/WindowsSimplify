@@ -9,12 +9,12 @@
 
 **OS Build：** 22621.105
 
-**ISO Size：** ？GB (Ver.1)、2GB (Ver.2)
+**ISO Size：** 2.53GB (Ver.1)、2GB (Ver.2)
 
 **Download：** [Link](https://github.com/WhatTheBlock/WindowsSimplify/releases/tag/w11.220617)
 
 **SHA-256：**
-- Ver.1: not available
+- Ver.1: 3c927c9507a9058b300ea3261c94a8f8107fec0d67dc9bf96efb330349c58fab
 - Ver.2: 03429180f77223416c25ccec6119f882d0b37d4b8d9a171a870966735f219b6a
 
 **Highlights：**
