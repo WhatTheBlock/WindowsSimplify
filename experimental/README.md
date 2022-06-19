@@ -13,32 +13,6 @@ If you are interested in any version, please create an issue or discussion and s
 ----
 
 **Preview：**
-![1](/preview/LTSC_19044.1766_220619.png)
-
-#### Release Date：2022/06/19
-
-**Edition：** Windows 10 LTSC 2021
-
-**OS Build：** 19044.1766
-
-**ISO Size：** not available
-
-**Download：** not available
-
-**SHA-256：** not available
-
-**Highlights：**
-- Very Stable
-- Rectify 11 Cursors
-- Rectify 10 boot
-- Windows 11 Icon
-- Preinstall VC++ Runtime
-- Fixed IME bug
-- Debloated
-
-----
-
-**Preview：**
 ![1](/preview/22621.1_220522.png)
 
 #### Release Date：2022/06/02

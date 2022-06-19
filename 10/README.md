@@ -1,36 +1,31 @@
-# 穩定精簡版
+# Stable Release
 
-#### 沒有過度精簡的版本，適合一般用戶使用
+#### Slightly optimized and debloated.
+#### Usually I release additional ver.2, which removes WinSxS.
 
 ----
 
 ### x64
 
-**系統預覽：**
+**Preview：**
 ![preview](/preview/19044.1679_220416.png)
 
-**發布時間：** 2022/04/17
+**Edition：** Windows 10 Pro
 
-**版本：** Windows 10 Pro
+**OS Build：** 19044.1679
 
-**組建：** 19044.1679
+**ISO Size：** 2.74GB (Ver.1)、1.75GB (Ver.2)
 
-**大小：** 2.74GB (Ver.1)、1.75GB (Ver.2)
-
-**下載：** [Part 1](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w10.220416/19044.1679_220416.part1.rar)、[Part 2](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w10.220416/19044.1679_220416.part2.rar)、[Ver.2](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w10.220416/19044.1679_220416-2.iso)
+**Download：** [Part 1](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w10.220416/19044.1679_220416.part1.rar)、[Part 2](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w10.220416/19044.1679_220416.part2.rar)、[Ver.2](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w10.220416/19044.1679_220416-2.iso)
 
 **SHA-256：**
 - Ver.1: a605e0831500891f9612de1eaea7e921e45cd3e5419832eeb2176228ea288007
 - Ver.2: 6a01e3d246abe9eb3cc121fb9ca5f3720a8d0eeeb64789b95cb76c93389d0c79
 
-**版本特點：**
-- 移植Rectify 11 Cursors
-- 移植新的系統圖示
-- 集成最新版商店
-
-**注意事項：**
-- Ver.1不保證能安裝CU更新
-- Ver.2移除WinSxS、移動裝置相關組件、AD網域、系統還原、系統備份等功能
+**Highlights：**
+- Rectify 11 Cursors
+- Windows 11 Icons
+- Preinstall the new Windows Store
 
 ----
 
@@ -38,8 +33,6 @@
 
 **Preview：**
 ![preview](/preview/19044.1503_220130.png)
-
-**Release Date：** 2022/01/31
 
 **Edition：** Windows 10 Pro
 
@@ -59,56 +52,55 @@
 
 ### LTSC 2021 x64
 
-**系統預覽：**
-- Ver.1
-![preview](/preview/Win10_LTSC_19044.1288_211118.png)
-- Ver.2
-![preview](/preview/Win10_LTSC_19044.1288_211118v2.png)
+**Preview：**
+![preview](/preview/LTSC_19044.1766_220619.png)
 
-**發布時間：** 2021/11/18
+**Edition：** Windows 10 LTSC 2021
 
-**版本：** Enterprise LTSC 2021
+**OS Build：** 19044.1766
 
-**組建：** 19044.1288
+**ISO Size：** 2.78GB
 
-**大小：** 2.57GB (Ver.1)、1.80GB (Ver.2)
+**Download：** [Link](https://gmnfuedutw-my.sharepoint.com/:u:/g/personal/40543229_gm_nfu_edu_tw/EWlQQVdEIAJLuaU77LtUutUBI-puchady1aGY0lXJwEPWg?e=Zf6kNC)
 
-**下載：** expired
+**SHA-256：** 59ba1df4a2d95619f3999d805fe8ec7dc16dc87c53f7a37f9cedc8df6db420d7
 
-**SHA-256：**
-- Ver.1: 4C9A9FD9A2185BF0EFD9E639C78612AEBF75B31B2166070436121413C269C45E
-- Ver.2: 6C1E10788A7965F7491C8D3F3DC7A9E60564582539B7ECDBAA2819E75E2E0E48
-
-**注意事項：**
-- 無法安裝CU更新
-- 若遠端列印出現錯誤請使用[Fix_PrintSpooler.zip](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w10.211118/Fix_PrintSpooler.zip)修復
-- 若區網連線失敗請使用[fix_lan.reg](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w10.211118/fix_lan.reg)修復
-- Ver.2集成新版小算盤，移除WinSxS，且預先修復列印與區網連線的問題
+**Highlights：**
+- Rectify 11 Cursors
+- Rectify 10 boot
+- Windows 11 Icons
+- Preinstall VC++ Runtime
+- Fixed IME bug
+- Debloated
 
 ----
 
 ### LTSC 2019 x64
 
-**系統預覽：**
+**Preview：**
 ![preview](/preview/LTSC_17763.2803_220424.png)
 
-**發布時間：** 2022/04/24
+**Edition：** Enterprise LTSC 2019
 
-**版本：** Enterprise LTSC 2019
+**OS Build：** 17763.2803
 
-**組建：** 17763.2803
+**ISO Size：** 2.78GB
 
-**大小：** 2.78GB
-
-**下載：** [Part 1](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/ltsc.220424/LTSC_17763.2803_220424.part1.rar)、[Part 2](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/ltsc.220424/LTSC_17763.2803_220424.part2.rar)
+**Download：** [Part 1](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/ltsc.220424/LTSC_17763.2803_220424.part1.rar)、[Part 2](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/ltsc.220424/LTSC_17763.2803_220424.part2.rar)
 
 **SHA-256：** 1f11b2f9125c2c268cba0c57101f05c11ace771d74e827ceced03ec426a38636
 
-**版本特點：**
-- 移植Rectify 11 Cursors
-- 移植Rectify 10 boot
-- 移植新的系統圖示
+**Highlights：**
+- Rectify 11 Cursors
+- Rectify 10 boot
+- Windows 11 Icons
+- Preinstall VC++ Runtime
+- Debloated
 
-**注意事項：**
-- CU更新需使用DISM安裝
-- 選用功能無法安裝
+**Notice：**
+- Cumulative Updates need to be installed using DISM.
+- If `Add-WindowsCapability` fails, use the steps below to fix it.  
+<pre><code>Dism /Online /Cleanup-Image /CheckHealth
+Dism /Online /Cleanup-Image /ScanHealth
+Dism /Online /Cleanup-Image /RestoreHealth
+sfc /scannow</code></pre>
