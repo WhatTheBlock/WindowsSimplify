@@ -10,7 +10,7 @@
 
 **大小：** 1.60GB (x64)、1.25GB (x86)
 
-**下載：** expired
+**下載：** [x64](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/ltsb.211028/Win10_LTSB_14393.0_211028.iso)、[x86](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/ltsb.x86.211028/Win10_LTSB_14393.0_x86_211028.iso)
 
 **SHA-256：**
 - x64：5AC435AAFB68131F4EBCFECC11CF465F52C9DDD845746A8173E917EBA76B8180
