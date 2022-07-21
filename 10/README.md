@@ -55,7 +55,7 @@
 **Preview：**
 ![preview](/preview/LTSC_19044.1766_220619.png)
 
-**Edition：** Windows 10 LTSC 2021
+**Edition：** Enterprise LTSC 2021
 
 **OS Build：** 19044.1766
 
