@@ -29,7 +29,7 @@ If you are interested in any version, please create an issue or discussion and s
 **Download：** not available
 
 **SHA-256：**
-- Ver.1: 8f2d9660753e150f7ade455d38f11ec83ab41a839e70f2f1c63f15ae129b606a
+- Ver.1: af6e83fb79e6db8d86f49c7bf3e05b1253ffd9445c29bc9cefe23204d6aa0459
 - Ver.2: e7f6de86057b117d5acf816c8286f25a537bf97b7db80251c84e9ae24b8b20ae
 
 **Highlights：**
