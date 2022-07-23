@@ -6,13 +6,7 @@
 
 #### 使用預覽、優化項目、下載連結請至各分類頁面查看
 
-----
-
-### Notice：
-- Publishing system will slow down due to my extremely slow upload speed.
-
-### 注意：
-- 由於我的上傳速度非常慢，所以發布系統的頻率將降低
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P4D2451)
 
 ----
 
