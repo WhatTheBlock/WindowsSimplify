@@ -13,10 +13,38 @@ If you are interested in any version, please create an issue or discussion and s
 ----
 
 **Preview：**
-- Ver.1
 ![1](/preview/7601.26022_220723.png)
+
+#### Release Date：2022/07/23
+
+**Edition：** Windows 7 Pro
+
+**OS Build：** 7601.26022
+
+**ISO Size：** 2.39GB
+
+**Download：** not available
+
+**SHA-256：** 6105d52a8ce4e6d7d731c0d36d8408524765bff0c737ca6c3fb2606f5fd10f29
+
+**Highlights：**
+- Windows 11 Icons
+- Included ESU Updates
+- Included USB 3.0 driver
+- Included NVMe driver
+- Preinstall .NET 4.8
+- Preinstall VC++ Runtime
+- Preinstall DX9.0c
+- Preinstall Edge Chromium Enterprise
+- Debloated
+
+----
+
+**Preview：**
+- Ver.1
+![1](/preview/7601.26022_x86_220723.png)
 - Ver.2
-![1](/preview/7601.26022_220723_2.png)
+![1](/preview/7601.26022_x86_220723_2.png)
 
 #### Release Date：2022/07/23
 
@@ -33,6 +61,7 @@ If you are interested in any version, please create an issue or discussion and s
 - Ver.2: e7f6de86057b117d5acf816c8286f25a537bf97b7db80251c84e9ae24b8b20ae
 
 **Highlights：**
+- Included ESU Updates
 - Included USB 3.0 driver
 - Included NVMe driver
 - Preinstall .NET 4.8
