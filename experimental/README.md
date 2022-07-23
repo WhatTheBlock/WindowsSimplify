@@ -23,7 +23,7 @@ If you are interested in any version, please create an issue or discussion and s
 
 **ISO Size：** 1.81GB
 
-**Download：** [Link](https://github.com/WhatTheBlock/WindowsSimplify/releases/tag/w11.220617)
+**Download：** not available
 
 **SHA-256：** 8f2d9660753e150f7ade455d38f11ec83ab41a839e70f2f1c63f15ae129b606a
 
