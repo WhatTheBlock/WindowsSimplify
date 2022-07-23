@@ -13,6 +13,32 @@ If you are interested in any version, please create an issue or discussion and s
 ----
 
 **Preview：**
+![1](/preview/7601.26022_220723.png)
+
+#### Release Date：2022/07/23
+
+**Edition：** Windows 7 Ultimate (x86)
+
+**OS Build：** 7601.26022
+
+**ISO Size：** 1.81GB
+
+**Download：** [Link](https://github.com/WhatTheBlock/WindowsSimplify/releases/tag/w11.220617)
+
+**SHA-256：** 8f2d9660753e150f7ade455d38f11ec83ab41a839e70f2f1c63f15ae129b606a
+
+**Highlights：**
+- Included USB 3.0 driver
+- Included NVMe driver
+- Preinstall .NET 4.8
+- Preinstall VC++ Runtime
+- Preinstall DX9.0c
+- Preinstall Edge Chromium Enterprise
+- Debloated
+
+----
+
+**Preview：**
 ![1](/preview/22621.1_220522.png)
 
 #### Release Date：2022/06/02
