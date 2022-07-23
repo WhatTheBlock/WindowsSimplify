@@ -13,7 +13,10 @@ If you are interested in any version, please create an issue or discussion and s
 ----
 
 **Preview：**
+- Ver.1
 ![1](/preview/7601.26022_220723.png)
+- Ver.2
+![1](/preview/7601.26022_220723_2.png)
 
 #### Release Date：2022/07/23
 
@@ -21,11 +24,13 @@ If you are interested in any version, please create an issue or discussion and s
 
 **OS Build：** 7601.26022
 
-**ISO Size：** 1.81GB
+**ISO Size：** 1.81GB (Ver.1)、1.61GB (Ver.2)
 
 **Download：** not available
 
-**SHA-256：** 8f2d9660753e150f7ade455d38f11ec83ab41a839e70f2f1c63f15ae129b606a
+**SHA-256：**
+- Ver.1: 8f2d9660753e150f7ade455d38f11ec83ab41a839e70f2f1c63f15ae129b606a
+- Ver.2: e7f6de86057b117d5acf816c8286f25a537bf97b7db80251c84e9ae24b8b20ae
 
 **Highlights：**
 - Included USB 3.0 driver
