@@ -57,13 +57,13 @@
 
 **Edition：** Enterprise LTSC 2021
 
-**OS Build：** 19044.1766
+**OS Build：** 19044.1826
 
-**ISO Size：** 2.78GB
+**ISO Size：** 2.8GB
 
-**Download：** [Link](https://gmnfuedutw-my.sharepoint.com/:u:/g/personal/40543229_gm_nfu_edu_tw/EWlQQVdEIAJLuaU77LtUutUBI-puchady1aGY0lXJwEPWg?e=Zf6kNC)
+**Download：** [Link](https://drive.google.com/uc?export=download&id=1eWdYOm_ON6KkvVNuRu9tg5F1P090GbwB)
 
-**SHA-256：** 59ba1df4a2d95619f3999d805fe8ec7dc16dc87c53f7a37f9cedc8df6db420d7
+**SHA-256：** 69687f2e1b1b49704ba5d63970ec8ec1fb2b38ccfd1bf18e3462ac84acbd652c
 
 **Highlights：**
 - Rectify 11 Cursors
