@@ -1,5 +1,33 @@
 # Windows 7
 
+**Preview：**
+![1](/preview/7601.26022_220723.png)
+
+#### Release Date：2022/07/23
+
+**Edition：** Windows 7 Pro
+
+**OS Build：** 7601.26022
+
+**ISO Size：** 2.39GB
+
+**Download：** [Link](https://drive.google.com/uc?export=download&id=1264sPqyS4d44XKwEC1S-rf67GLo8VZBU)
+
+**SHA-256：** 6105d52a8ce4e6d7d731c0d36d8408524765bff0c737ca6c3fb2606f5fd10f29
+
+**Highlights：**
+- Windows 11 Icons
+- Included ESU Updates
+- Included USB 3.0 driver
+- Included NVMe driver
+- Preinstall .NET 4.8
+- Preinstall VC++ Runtime
+- Preinstall DX9.0c
+- Preinstall Edge Chromium Enterprise
+- Debloated
+
+----
+
 ![img](/preview/7601.25792_211230.png)
 
 #### 發布時間：2021/12/31
