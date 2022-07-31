@@ -13,21 +13,22 @@ If you are interested in any version, please create an issue or discussion and s
 ----
 
 **Preview：**
-![1](/preview/7601.26022_220723.png)
+![1](/preview/7601.26022_x86_220730.png)
 
-#### Release Date：2022/07/23
+#### Release Date：2022/07/30
 
-**Edition：** Windows 7 Pro
+**Edition：** Windows 7 Ultimate (x86)
 
 **OS Build：** 7601.26022
 
-**ISO Size：** 2.39GB
+**ISO Size：** 1.21GB
 
 **Download：** not available
 
-**SHA-256：** 6105d52a8ce4e6d7d731c0d36d8408524765bff0c737ca6c3fb2606f5fd10f29
+**SHA-256：** f5285494dfc99c5e25e54a88591be4467896158e2824a03885d3042ade3771b8
 
 **Highlights：**
+- Extremely fast installation (less than 120 seconds on VMware)
 - Windows 11 Icons
 - Included ESU Updates
 - Included USB 3.0 driver
@@ -35,7 +36,6 @@ If you are interested in any version, please create an issue or discussion and s
 - Preinstall .NET 4.8
 - Preinstall VC++ Runtime
 - Preinstall DX9.0c
-- Preinstall Edge Chromium Enterprise
 - Debloated
 
 ----
