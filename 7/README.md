@@ -1,6 +1,34 @@
 # Windows 7
 
 **Preview：**
+![1](/preview/7601.26022_x86_220730.png)
+
+#### Release Date：2022/07/30
+
+**Edition：** Windows 7 Ultimate (x86)
+
+**OS Build：** 7601.26022
+
+**ISO Size：** 1.21GB
+
+**Download：** [Link](https://gmnfuedutw-my.sharepoint.com/:u:/g/personal/40543229_gm_nfu_edu_tw/Ee0L_R0GIgVAuuUr2lPi9e0B99dDdVeDW4ktyffsdO0KXA?e=NTN1nm)
+
+**SHA-256：** f5285494dfc99c5e25e54a88591be4467896158e2824a03885d3042ade3771b8
+
+**Highlights：**
+- Extremely fast installation (less than 120 seconds on VMware)
+- Windows 11 Icons
+- Included ESU Updates
+- Included USB 3.0 driver
+- Included NVMe driver
+- Preinstall .NET 4.8
+- Preinstall VC++ Runtime
+- Preinstall DX9.0c
+- Debloated
+
+----
+
+**Preview：**
 - Ver.1
 ![1](/preview/7601.26022_x86_220723.png)
 - Ver.2
