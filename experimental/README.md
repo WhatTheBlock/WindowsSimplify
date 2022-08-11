@@ -13,6 +13,29 @@ If you are interested in any version, please create an issue or discussion and s
 ----
 
 **Preview：**
+![1](/preview/22621.317_vm_220811.png)
+
+#### Release Date：2022/08/11
+
+**Edition：** Windows 11 Pro
+
+**OS Build：** 22621.317
+
+**ISO Size：** not available
+
+**Download：** not available
+
+**SHA-256：** not available
+
+**Highlights：**
+- Extremely fast installation
+- Rectify11 v3.0
+- Preinstall VC++ Runtime
+- Debloated
+
+----
+
+**Preview：**
 ![1](/preview/22621.317_220811.png)
 
 #### Release Date：2022/08/11
