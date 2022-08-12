@@ -18,7 +18,7 @@ If you are interested in any version, please create an issue or discussion and s
 
 #### Release Date：2022/08/12
 
-**Edition：** Windows 8 Pro (x86)
+**Edition：** Windows 8.1 Pro (x86)
 
 **OS Build：** 9600.20520
 
