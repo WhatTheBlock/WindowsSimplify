@@ -13,6 +13,24 @@ If you are interested in any version, please create an issue or discussion and s
 ----
 
 **Preview：**
+![1](/preview/9600.20520_x86_220812.png)
+![2](/preview/9600.20520_x86_220812_2.png)
+
+#### Release Date：2022/08/12
+
+**Edition：** Windows 8 Pro (x86)
+
+**OS Build：** 9600.20520
+
+**ISO Size：** 1.23GB
+
+**Download：** not available
+
+**SHA-256：** 42d3e8db502ff333091efea92ef767762f6a0bf2df95872229cf02376742997d
+
+----
+
+**Preview：**
 ![1](/preview/22621.317_vm_220811.png)
 
 #### Release Date：2022/08/11
