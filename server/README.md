@@ -4,7 +4,7 @@
 
 #### 發布時間：2021/09/25
 
-**版本：** Windows Server 2022 Datacenter
+**版本：** Server 2022 Datacenter
 
 **組建：** 20348.230
 
