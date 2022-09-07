@@ -12,24 +12,6 @@ If you are interested in any version, please create an issue or discussion and s
 
 ----
 
-**Preview：**
-![1](/preview/s2022_20348.887_220820.png)
-
-#### Release Date：2022/08/20
-
-**Edition：** Server 2022 Datacenter
-
-**OS Build：** 20348.887
-
-**ISO Size：** 2.87GB
-
-**Download：** not available
-
-**SHA-256：**  a3c8309b65fa701430d188a829d225b5f076ab6c36727c15e525564e629469c6
-
-----
-
-**Preview：**
 ![1](/preview/22621.317_vm_220811.png)
 
 #### Release Date：2022/08/11
