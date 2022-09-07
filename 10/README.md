@@ -5,30 +5,6 @@
 
 ----
 
-### x64
-
-**Preview：**
-![preview](/preview/19044.1679_220416.png)
-
-**Edition：** Windows 10 Pro
-
-**OS Build：** 19044.1679
-
-**ISO Size：** 2.74GB (Ver.1)、1.75GB (Ver.2)
-
-**Download：** [Part 1](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w10.220416/19044.1679_220416.part1.rar)、[Part 2](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w10.220416/19044.1679_220416.part2.rar)、[Ver.2](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w10.220416/19044.1679_220416-2.iso)
-
-**SHA-256：**
-- Ver.1: a605e0831500891f9612de1eaea7e921e45cd3e5419832eeb2176228ea288007
-- Ver.2: 6a01e3d246abe9eb3cc121fb9ca5f3720a8d0eeeb64789b95cb76c93389d0c79
-
-**Highlights：**
-- Rectify 11 Cursors
-- Windows 11 Icons
-- Preinstall the new Windows Store
-
-----
-
 ### LTSC 2021 x64
 
 **Preview：**
