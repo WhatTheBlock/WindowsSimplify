@@ -29,27 +29,6 @@
 
 ----
 
-### x64 (en-US)
-
-**Preview：**
-![preview](/preview/19044.1503_220130.png)
-
-**Edition：** Windows 10 Pro
-
-**OS Build：** 19044.1503
-
-**ISO Size：** 2.48GB
-
-**Download：** [Part 1](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w10.220130/19044.1503_220130.part1.rar)、[Part 2](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w10.220130/19044.1503_220130.part2.rar)
-
-**SHA-256：** f4a01fedb402b0bb981298f65dc5e740e86d5e7015abacdd876ddb75656b63cc
-
-**Notice：**
-- May not install Cumulative Updates.
-- Windows Defender has been removed.
-
-----
-
 ### LTSC 2021 x64
 
 **Preview：**
@@ -71,6 +50,36 @@
 - Windows 11 Icons
 - Preinstall VC++ Runtime
 - Fixed IME bug
+- Debloated
+
+----
+
+### LTSC 2021 x64 (en-US)
+
+**Preview：**
+- Ver.1
+![1](/preview/LTSC_19044.1947_220828_2.png)
+
+- Ver.2 (Extreme Lite version, please use carefully.)
+![2](/preview/LTSC_19044.1947_220828-2.png)
+
+**Edition：** Enterprise LTSC 2021
+
+**OS Build：** 19044.1947
+
+**ISO Size：** 2.72GB (Ver.1)、1.51GB (Ver.2)
+
+**Download：** [Ver.1](https://gmnfuedutw-my.sharepoint.com/:u:/g/personal/40543229_gm_nfu_edu_tw/Eel0vC_A6DJAvZWrrLQChaUB_omXog-91eEAVjajs1o7zQ?e=ohoWIn)、[Ver.2](https://gmnfuedutw-my.sharepoint.com/:u:/g/personal/40543229_gm_nfu_edu_tw/EctfZvX1qPhJjf6WejA8ZFEBtWU2jXfzyymQsVpEImCBLA?e=iGui9i)
+
+**SHA-256：**
+- Ver.1: 9dc0ec7ce20cbe669b487023d7b495f138d233bfdd47f6dea844940b18827d18
+- Ver.2: df7454e1f9cc0536e4c855a5ea3d6b3c726fa2986d65d6937251715a664aab6a
+
+**Highlights：**
+- Rectify 11 Cursors
+- Rectify 10 boot
+- Windows 11 Icons
+- Preinstall VC++ Runtime
 - Debloated
 
 ----

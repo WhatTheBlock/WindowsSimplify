@@ -13,29 +13,6 @@ If you are interested in any version, please create an issue or discussion and s
 ----
 
 **Preview：**
-- Ver.1
-![1](/preview/LTSC_19044.1947_220828_2.png)
-
-- Ver.2 (Extreme Lite version, please use carefully.)
-![2](/preview/LTSC_19044.1947_220828-2.png)
-
-#### Release Date：2022/08/28
-
-**Edition：** Enterprise LTSC 2021
-
-**OS Build：** 19044.1947
-
-**ISO Size：** ？GB (Ver.1)、1.51GB (Ver.2)
-
-**Download：** not available
-
-**SHA-256：**  
-- Ver.1: not available
-- Ver.2: df7454e1f9cc0536e4c855a5ea3d6b3c726fa2986d65d6937251715a664aab6a
-
-----
-
-**Preview：**
 ![1](/preview/s2022_20348.887_220820.png)
 
 #### Release Date：2022/08/20
