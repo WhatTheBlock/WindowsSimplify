@@ -12,27 +12,6 @@ If you are interested in any version, please create an issue or discussion and s
 
 ----
 
-![1](/preview/19041.1_core_220910.png)
-
-#### Release Date：2022/09/10
-
-**Edition：** Windows 10 Home
-
-**OS Build：** 19041.1
-
-**ISO Size：** 1.71GB
-
-**Download：** not available
-
-**SHA-256：** 22e8caed04bb0fb1ff0b46b73abbbb09f71a3d57f9bbaae7435836ab4f2d796c
-
-**Highlights：**
-- Extremely fast installation
-- Preinstall VC++ Runtime
-- Debloated
-
-----
-
 #### Release Date：2022/08/29
 
 **Edition：** Windows 11 Pro (ARM64)
