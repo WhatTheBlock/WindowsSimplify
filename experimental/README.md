@@ -12,6 +12,30 @@ If you are interested in any version, please create an issue or discussion and s
 
 ----
 
+![1](/preview/LTSB_14393.0_220911.png)
+
+#### Release Date：2022/08/11
+
+**Edition：** Enterprise LTSC 2016
+
+**OS Build：** 14393.0
+
+**ISO Size：** 1.35GB
+
+**Download：** not available
+
+**SHA-256：** 3d04c478e6df8074c914c9215f395584a93a1ed399f52b994a190edfb7fef6b3
+
+**Highlights：**
+- Extreme Lite, system size only 4.2GB
+- Rectify 10 boot
+- Windows 11 Icons
+- Preinstall .NET 4.8
+- Preinstall VC++ Runtime
+- Debloated
+
+----
+
 #### Release Date：2022/08/29
 
 **Edition：** Windows 11 Pro (ARM64)
