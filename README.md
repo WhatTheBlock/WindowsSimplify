@@ -17,6 +17,7 @@
 Windows 11：
 - [Normal](/11)
 - [WSA](/11/wsa.md)
+- [ARM64](/11/arm64.md)
 - [boot.wim](/11/boot.md)
 
 Windows 10：
