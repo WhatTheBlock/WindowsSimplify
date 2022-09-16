@@ -4,6 +4,22 @@
 
 ----
 
+![1](/preview/19045.1949_core_220916.png)
+
+#### Release Date：2022/09/16
+
+**Edition：** Windows 10 Home
+
+**OS Build：** 19045.1949
+
+**ISO Size：** 2.47GB
+
+**Download：** [Link](https://gmnfuedutw-my.sharepoint.com/:u:/g/personal/40543229_gm_nfu_edu_tw/ETRV1gqENPZKm3tcrik_wPMB84Vw47gceouJe6iieFjieQ?e=Cw87tc)
+
+**SHA-256：** 821edf84300c854d502557700d54f034cdbc3aead46b11f8430c1de3d87ec4ea
+
+----
+
 ![1](/preview/19041.1_core_220910.png)
 
 #### Release Date：2022/09/10
