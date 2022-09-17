@@ -21,6 +21,13 @@
 - Preinstall VC++ Runtime
 - Debloated
 
+If a blue screen occurs in Windows Setup, please download [this](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/boot/boot_Rectify11_en.7z).
+And overwrite `sources/boot.wim` to the original ISO `boot.wim`.
+
+If you want to run IE without Edge, download [this](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/utils/IE.vbs).
+
+If you want to install Chrome by 1-click, download [this](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/utils/Get.Latest.Chrome.cmd).
+
 ----
 
 **Preview：**
