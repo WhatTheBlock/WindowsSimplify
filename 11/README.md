@@ -1,6 +1,29 @@
 # Windows 11
 
 **Preview：**
+![1](/preview/22621.521_220917.png)
+
+#### Release Date：2022/09/17
+
+**Edition：** Windows 11 Pro
+
+**OS Build：** 22621.521
+
+**ISO Size：** 2.5GB
+
+**Download：** [Link](https://gmnfuedutw-my.sharepoint.com/:u:/g/personal/40543229_gm_nfu_edu_tw/EZ-7ZGLvyZFChXDHNk7wM1QBbbD57fjn8KCuVQCGNc_0HA?e=gKWwRN)
+
+**SHA-256：** b756fb9be670045e214da703c4ad6126e1223a1f95666ccf870b3c95cf23fd77
+
+**Highlights：**
+- Rectify11 boot
+- Preinstall .NET 4.8.1
+- Preinstall VC++ Runtime
+- Debloated
+
+----
+
+**Preview：**
 ![1](/preview/22621.317_220811.png)
 
 #### Release Date：2022/08/11
