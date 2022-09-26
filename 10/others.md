@@ -4,43 +4,6 @@
 
 ----
 
-![1](/preview/19045.1949_core_220916.png)
-
-#### Release Date：2022/09/16
-
-**Edition：** Windows 10 Home
-
-**OS Build：** 19045.1949
-
-**ISO Size：** 2.47GB
-
-**Download：** [Link](https://gmnfuedutw-my.sharepoint.com/:u:/g/personal/40543229_gm_nfu_edu_tw/ETRV1gqENPZKm3tcrik_wPMB84Vw47gceouJe6iieFjieQ?e=Cw87tc)
-
-**SHA-256：** 821edf84300c854d502557700d54f034cdbc3aead46b11f8430c1de3d87ec4ea
-
-----
-
-![1](/preview/19041.1_core_220910.png)
-
-#### Release Date：2022/09/10
-
-**Edition：** Windows 10 Home
-
-**OS Build：** 19041.1
-
-**ISO Size：** 1.71GB
-
-**Download：** [Link](https://gmnfuedutw-my.sharepoint.com/:u:/g/personal/40543229_gm_nfu_edu_tw/EV1O-vqSz3RIkBAs8RA7zlcBL8LJD0p44ytdlV_4PH9-ng?e=JFoKmr)
-
-**SHA-256：** 22e8caed04bb0fb1ff0b46b73abbbb09f71a3d57f9bbaae7435836ab4f2d796c
-
-**Highlights：**
-- Extremely fast installation
-- Preinstall VC++ Runtime
-- Debloated
-
-----
-
 ![img](/preview/LTSB_14393.4825_211218.png)
 
 #### 發布時間：2021/12/18
