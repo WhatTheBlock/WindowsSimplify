@@ -13,23 +13,6 @@ If you are interested in any version, please create an issue or discussion and s
 ----
 
 **Preview：**
-![1](/preview/22621.607_core_220926.png)
-
-#### Release Date：2022/09/26
-
-**Edition：** Windows 11 Home
-
-**OS Build：** 22621.607
-
-**ISO Size：** not available
-
-**Download：** not available
-
-**SHA-256：** not available
-
-----
-
-**Preview：**
 ![1](/preview/22621.1_220522.png)
 
 #### Release Date：2022/06/02
