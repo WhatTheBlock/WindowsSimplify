@@ -1,5 +1,19 @@
 # Windows 11
 
+#### Release Date：2022/10/01
+
+**Edition：** Windows 11 Pro
+
+**OS Build：** 22621.525
+
+**ISO Size：** 2.71GB
+
+**Download：** [Part1](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/22621.525_221001.part1.rar)、[Part2](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/22621.525_221001.part2.rar)
+
+**SHA-256：** aa8d35491bed7a52ab8a7ee106e247d9603e44202f1b0ebf7571a9a1371a6ff6
+
+----
+
 **Preview：**
 ![1](/preview/22621.607_core_220926.png)
 
