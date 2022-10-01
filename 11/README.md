@@ -1,16 +1,25 @@
 # Windows 11
 
+**Preview：**
+![1](/preview/22621.525_221001_en.png)
+
 #### Release Date：2022/10/01
 
 **Edition：** Windows 11 Pro
 
 **OS Build：** 22621.525
 
-**ISO Size：** 2.71GB
+**ISO Size：**
+- EN-US：2.62GB
+- ZH-TW：2.71GB
 
-**Download：** [Part1](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/22621.525_221001.part1.rar)、[Part2](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/22621.525_221001.part2.rar)
+**Download：**
+- EN-US：[Part1](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/22621.525_221001_en.part1.rar)、[Part2](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/22621.525_221001_en.part2.rar)
+- ZH-TW：[Part1](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/22621.525_221001.part1.rar)、[Part2](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/22621.525_221001.part2.rar)
 
-**SHA-256：** aa8d35491bed7a52ab8a7ee106e247d9603e44202f1b0ebf7571a9a1371a6ff6
+**SHA-256：**
+- EN-US：9944a67df2ebc6897b3ff30169a20d7765bf33e81a9075064a9ad8eb04a40058
+- ZH-TW：aa8d35491bed7a52ab8a7ee106e247d9603e44202f1b0ebf7571a9a1371a6ff6
 
 ----
 
@@ -28,36 +37,6 @@
 **Download：** [Part1](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/22621.607_core_220926.part1.rar)、[Part2](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/22621.607_core_220926.part2.rar)
 
 **SHA-256：** 38138c0164b99fd6cdfe14830b5efc2277bb345516cc065490313e4ea51048ce
-
-----
-
-**Preview：**
-![1](/preview/22621.521_220917.png)
-
-#### Release Date：2022/09/17
-
-**Edition：** Windows 11 Pro
-
-**OS Build：** 22621.521
-
-**ISO Size：** 2.5GB
-
-**Download：** [Link](https://gmnfuedutw-my.sharepoint.com/:u:/g/personal/40543229_gm_nfu_edu_tw/EZ-7ZGLvyZFChXDHNk7wM1QBbbD57fjn8KCuVQCGNc_0HA?e=gKWwRN)
-
-**SHA-256：** b756fb9be670045e214da703c4ad6126e1223a1f95666ccf870b3c95cf23fd77
-
-**Highlights：**
-- Rectify11 boot
-- Preinstall .NET 4.8.1
-- Preinstall VC++ Runtime
-- Debloated
-
-If a blue screen occurs in Windows Setup, please download [this](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/boot/boot_Rectify11_en.7z).
-And overwrite `sources/boot.wim` to the original ISO `boot.wim`.
-
-If you want to run IE without Edge, download [this](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/utils/IE.vbs).
-
-If you want to install Chrome by 1-click, download [this](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/utils/Get.Latest.Chrome.cmd).
 
 ----
 
