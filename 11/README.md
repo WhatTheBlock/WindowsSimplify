@@ -1,6 +1,23 @@
 # Windows 11
 
 **Preview：**
+![1](/preview/22622.608_221002.png)
+
+#### Release Date：2022/10/02
+
+**Edition：** Windows 11 Pro for Workstations
+
+**OS Build：** 22622.608
+
+**ISO Size：** 2.73GB
+
+**Download：** [Part1](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/22622.608_221002.part1.rar)、[Part2](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/22622.608_221002.part2.rar)
+
+**SHA-256：** be9c1a2ae21fe42c1330d7b0f8360d63d4f1781d9f8df147d8d0a6a53bb75c82
+
+----
+
+**Preview：**
 ![1](/preview/22621.525_221001_en.png)
 
 #### Release Date：2022/10/01
