@@ -15,7 +15,7 @@
 
 **ISO Size：** 2.79GB
 
-**Download：** [Link](https://drive.google.com/uc?export=download&id=1eWdYOm_ON6KkvVNuRu9tg5F1P090GbwB)
+**Download：** [Part1](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/LTSC_19044.2075_221003.part1.rar)、[Part2](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/LTSC_19044.2075_221003.part2.rar)
 
 **SHA-256：** 4bbfded7215b17b7365c86fd8aa2c56b826f8bf208c438f2dfadd8bcc2fd98f3
 
