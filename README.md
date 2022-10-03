@@ -1,43 +1,40 @@
 # Windows Simplify Project
 
-### 介紹文章：[Win7~10](https://home.gamer.com.tw/artwork.php?sn=4971603)、[Win11](https://home.gamer.com.tw/artwork.php?sn=5193340)
-
 #### For preview and download links, please go to the markdown of each category.
-
-#### 使用預覽、優化項目、下載連結請至各分類頁面查看
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P4D2451)
 
 ----
 
-[未發布 & 實驗性版本 (Experimental area)](/experimental)
+[未發布 & 實驗性版本 (Experimental area)](/experimental/README.md)
 
 ----
 
 Windows 11：
-- [Normal](/11)
+- [Normal](/11/README.md)
 - [WSA](/11/wsa.md)
 - [ARM64](/11/arm64.md)
 - [boot.wim](/11/boot.md)
 
 Windows 10：
-- [Stable](/10)
+- [Stable](/10/README.md)
 - [Extreme Lite](/10/extreme.md)
 - [For old devices & virtual machine](/10/old_device.md)
 - [Others](/10/others.md)
 - [boot.wim](/10/boot.md)
 
 Windows 8.1：
-- [Lite](/8.1)
+- [Lite](/8.1/README.md)
 - [boot.wim](/8.1/boot.md)
 
 Windows 7：
-- [Lite](/7)
+- [Lite](/7/README.md)
 - [boot.wim](/7/boot.md)
 
 Windows Server：
-- [Win10](/server)
+- [Win10](/server/README.md)
 - [Win10_boot.wim](/server/w10_boot.md)
+- [Win11](/server/w11.md)
 
 ----
 
