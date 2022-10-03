@@ -1,31 +1,28 @@
 # Stable Release
 
 #### Slightly optimized and debloated.
-#### Usually I release additional ver.2, which removes WinSxS.
 
 ----
 
 ### LTSC 2021 x64
 
 **Preview：**
-![preview](/preview/LTSC_19044.1766_220619.png)
+![preview](/preview/LTSC_19044.2075_221003.png)
 
 **Edition：** Enterprise LTSC 2021
 
-**OS Build：** 19044.1826
+**OS Build：** 19044.2075
 
-**ISO Size：** 2.8GB
+**ISO Size：** 2.79GB
 
 **Download：** [Link](https://drive.google.com/uc?export=download&id=1eWdYOm_ON6KkvVNuRu9tg5F1P090GbwB)
 
-**SHA-256：** 69687f2e1b1b49704ba5d63970ec8ec1fb2b38ccfd1bf18e3462ac84acbd652c
+**SHA-256：** 4bbfded7215b17b7365c86fd8aa2c56b826f8bf208c438f2dfadd8bcc2fd98f3
 
 **Highlights：**
 - Rectify 11 Cursors
 - Rectify 10 boot
 - Windows 11 Icons
-- Preinstall VC++ Runtime
-- Fixed IME bug
 - Debloated
 
 ----
