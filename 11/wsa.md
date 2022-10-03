@@ -1,20 +1,20 @@
 # Windows 11 with Android
 
-**系統預覽：**
-![1.png](/preview/Win11_22000.282_211027.png)
+**Preview：**
+![1](/preview/22621.730_221003.png)
 
-#### 發布時間：2021/10/27
+#### Release Date：2022/10/03
 
-**版本：** Windows 11 Pro + Android 11
+**Edition：** Windows 11 Pro
 
-**組建：** 22000.282
+**OS Build：** 22621.730
 
-**大小：** 3.29GB (Ver.1)、2.74GB (Ver.2)
+**ISO Size：** 3.26GB
 
-**下載：** expired
+**Download：** [Part1](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/22621.730_221003.part1.rar)、[Part2](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/22621.730_221003.part2.rar)
 
-**SHA-256：**
-- Ver.1: 8E7E26C40F7F8FCBF8755B84F271F917E858B6AFBB623BB095439E7559314FB1
-- Ver.2: 5FABBFA7FBA139724903912A5C8E4DECAF3A128EAA7905765D47268B5A94806E
+**SHA-256：** 52fc0e9e27e1cf5943f39d18ab5255f356995aa259b9cb0d51ca906554670353
 
-**詳細介紹：** [Release Page](https://github.com/WhatTheBlock/WindowsSimplify/releases/tag/w11.211027)
+**Highlights：**
+- WSA with Play Store + Magisk + Xposed (Lsposed)
+- Debloated
