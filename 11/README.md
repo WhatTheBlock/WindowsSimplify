@@ -1,6 +1,28 @@
 # Windows 11
 
 **Preview：**
+![1](/preview/22621.730_221011.png)
+
+#### Release Date：2022/10/11
+
+**Edition：** Windows 11 Pro
+
+**OS Build：** 22621.730
+
+**ISO Size：** 2.75GB
+
+**Download：** [Part1](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/22621.730_221011.part1.rar)、[Part2](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/22621.730_221011.part2.rar)
+
+**SHA-256：** 7b25efba6269b08bf57ffa040c1adae085541a147b4aef15889bdb2dc2195a7d
+
+**Highlights：**
+- Rectify11 boot
+- Slightly optimized and debloated
+- CU can be installed normally (as preview image)
+
+----
+
+**Preview：**
 ![1](/preview/22622.608_221002.png)
 
 #### Release Date：2022/10/02
