@@ -1,6 +1,30 @@
 # Windows 11
 
 **Preview：**
+![1](/preview/22621.525_221014.png)
+
+#### Release Date：2022/10/14
+
+**Edition：** Windows 11 Pro
+
+**OS Build：** 22621.525
+
+**ISO Size：** 1.66GB
+
+**Download：** [Link](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/22621.525_221014.iso)
+
+**SHA-256：** 67466ded974d8cc1e5865a9799ad3ad2b0c0b0d23bd7ac289e7d2d0a57d2caf6
+
+**Highlights：**
+- Rectify11 boot
+- Extreme Lite but retain Store, Xbox
+
+**Notice：**
+- ctfmon.exe error will appear every time you boot, but it does not affect the function of IME.
+
+----
+
+**Preview：**
 ![1](/preview/22621.730_221011.png)
 
 #### Release Date：2022/10/11
