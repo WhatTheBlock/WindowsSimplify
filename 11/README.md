@@ -1,6 +1,29 @@
 # Windows 11
 
 **Preview：**
+![1](/preview/22623.746_amd_221014.png)
+
+#### Release Date：2022/10/14
+
+**Edition：** Windows 11 Pro
+
+**OS Build：** 22623.746
+
+**ISO Size：** 3.08GB
+
+**Download：** [Part1](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/22623.746_amd_221014.part1.rar)、[Part2](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/22623.746_amd_221014.part2.rar)
+
+**SHA-256：** 82494142d4a45fcd4e535004842afca74bf80a7ef5bb30a03affa2837a7d5dba
+
+**Highlights：**
+- Rectify11 boot
+- Included AMD Chipset drivers
+- Included AMD Software꞉ Adrenalin Edition 22.10.1
+- Included Killer drivers
+
+----
+
+**Preview：**
 ![1](/preview/22621.525_221014.png)
 
 #### Release Date：2022/10/14
