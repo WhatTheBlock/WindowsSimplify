@@ -8,9 +8,9 @@
 
 **ISO Size：** 2.12GB
 
-**Download：** [Link](https://gmnfuedutw-my.sharepoint.com/:u:/g/personal/40543229_gm_nfu_edu_tw/EctSfjl2EVNIvkZkMDd3CGYBn7vmImMiOA9JLtidf0ee3A?e=Q17zt2)
+**Download：** [Part 1](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/22621.232_arm_221018.part1.rar)、[Part 2](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/22621.232_arm_221018.part2.rar)
 
-**SHA-256：** ad45de0482c37899f68df96cbc8fd29c5a8371dea14cfbe9ebe1587e596a2f71
+**SHA-256：** 5474d8ef56dd11161ba514aa627080eff69c5bad2b731278ee67b0e04c9c5623
 
 ----
 
