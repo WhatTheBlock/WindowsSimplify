@@ -1,6 +1,28 @@
 # Windows 11
 
 **Preview：**
+![1](https://github.com/WhatTheBlock/WindowsSimplify/blob/master/preview/22623.746_221018_1.png)
+![2](https://github.com/WhatTheBlock/WindowsSimplify/blob/master/preview/22623.746_221018_2.png)
+
+#### Release Date：2022/10/18
+
+**Edition：** Windows 11 Pro
+
+**OS Build：** 22623.746
+
+**ISO Size：** 1.73GB
+
+**Download：** [Link](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/22623.746_221018.iso)
+
+**SHA-256：** 7497a1419afca4c7728269138b714124a3bf06378a7ff2ac10863336145bdf6f
+
+**Highlights：**
+- Rectify11 boot
+- Extreme Lite but retain Store, Xbox
+
+----
+
+**Preview：**
 ![1](/preview/22623.746_amd_221014.png)
 
 #### Release Date：2022/10/14
