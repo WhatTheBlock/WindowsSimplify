@@ -7,7 +7,7 @@
 ### LTSC 2021 x64
 
 **Preview：**
-![preview](/preview/LTSC_19044.2075_221003.png)
+![preview](https://github.com/WhatTheBlock/WindowsSimplify/blob/master/preview/LTSC_19044.2075_221003.png)
 
 **Edition：** Enterprise LTSC 2021
 
@@ -31,10 +31,10 @@
 
 **Preview：**
 - Ver.1
-![1](/preview/LTSC_19044.1947_220828_2.png)
+![1](https://github.com/WhatTheBlock/WindowsSimplify/blob/master/preview/LTSC_19044.1947_220828_2.png)
 
 - Ver.2 (Extreme Lite version, please use carefully.)
-![2](/preview/LTSC_19044.1947_220828-2.png)
+![2](https://github.com/WhatTheBlock/WindowsSimplify/blob/master/preview/LTSC_19044.1947_220828-2.png)
 
 **Edition：** Enterprise LTSC 2021
 
@@ -60,7 +60,7 @@
 ### LTSC 2019 x64
 
 **Preview：**
-![preview](/preview/LTSC_17763.2803_220424.png)
+![preview](https://github.com/WhatTheBlock/WindowsSimplify/blob/master/preview/LTSC_17763.2803_220424.png)
 
 **Edition：** Enterprise LTSC 2019
 
@@ -86,3 +86,23 @@
 Dism /Online /Cleanup-Image /ScanHealth
 Dism /Online /Cleanup-Image /RestoreHealth
 sfc /scannow</code></pre>
+
+----
+
+### Pro x64
+
+**Preview：**
+![preview](https://github.com/WhatTheBlock/WindowsSimplify/blob/master/preview/19045.2130_221018.png)
+
+**Edition：** Windows 10 Pro
+
+**OS Build：** 19045.2130
+
+**ISO Size：** 2.82GB
+
+**Download：** [Part1](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/19045.2130_221018.part1.rar)、[Part2](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/19045.2130_221018.part2.rar)
+
+**SHA-256：** e514558920476a041536d49837d1d8bf36c05d8f3a265bf9f3e69efae33187be
+
+**Notice：**
+- For those who want to use the genuine serial number.
