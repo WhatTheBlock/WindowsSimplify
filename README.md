@@ -1,6 +1,9 @@
 # Windows Simplify Project
 
+#### No bullshit, no exaggerated introduction, just download and try yourself.
 #### For preview and download links, please go to the markdown of each category.
+
+<br>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P4D2451)
 
