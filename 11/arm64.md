@@ -1,5 +1,8 @@
 # Windows 11 (ARM64)
 
+**Preview：(Thanks to [hudsonhu](https://github.com/hudsonhu))**
+![1](https://github.com/WhatTheBlock/WindowsSimplify/blob/master/preview/22621.232_arm_221018.png)
+
 #### Release Date：2022/08/29
 
 **Edition：** Windows 11 Pro (ARM64)
@@ -15,7 +18,7 @@
 ----
 
 **Preview：(Thanks to [darren2046](https://github.com/darren2046))**
-![1](/preview/22621.232_arm_220722.png)
+![1](https://github.com/WhatTheBlock/WindowsSimplify/blob/master/preview/22621.232_arm_220722.png)
 
 #### Release Date：2022/07/22
 
