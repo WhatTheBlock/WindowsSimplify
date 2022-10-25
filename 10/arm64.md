@@ -8,8 +8,8 @@
 
 **OS Build：** 17763.3534
 
-**ISO Size：** 1.68GB
+**ISO Size：** 1.86GB
 
-**Download：** [Link](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/17763.3534_arm_221025.iso)
+**Download：** [Link](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/17763.3534_arm_221025_f.iso)
 
-**SHA-256：** 60f51413d374700556607b0240f6a96f8d2a6f22c2d88f363fb44d3a529d6e42
+**SHA-256：** b3389d493e161d728d9b4af7a73ad80d956abe0a54944499bcedf0da6e4ce1c8
