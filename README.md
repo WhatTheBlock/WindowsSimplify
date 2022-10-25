@@ -9,7 +9,7 @@
 
 ----
 
-[未發布 & 實驗性版本 (Experimental area)](/experimental/README.md)
+[未發布 & 實驗性版本 (Experimental)](/experimental/README.md)
 
 ----
 
@@ -24,6 +24,7 @@ Windows 10：
 - [Extreme Lite](/10/extreme.md)
 - [For old devices & virtual machine](/10/old_device.md)
 - [Others](/10/others.md)
+- [ARM64](/10/arm64.md)
 - [boot.wim](/10/boot.md)
 
 Windows 8.1：
