@@ -5,7 +5,11 @@
 
 ----
 
+- Ver1：
 ![1](https://github.com/WhatTheBlock/WindowsSimplify/blob/master/preview/LTSB_14393.0_221029.png)
+
+- Ver2：
+![2](https://github.com/WhatTheBlock/WindowsSimplify/blob/master/preview/LTSB_14393.0_221029-2.png)
 
 #### Release Date：2022/10/29
 
@@ -13,17 +17,27 @@
 
 **OS Build：** 14393.0
 
-**ISO Size：** 1.02GB
+**ISO Size：**
+- Ver1：1.02GB
+- Ver2：747MB
 
-**Download：** [Link](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/LTSB_14393.0_221029.iso)
+**Download：** [Ver1](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/LTSB_14393.0_221029.iso)、[Ver2](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/LTSB_14393.0_221029-2.iso)
 
-**SHA-256：** 23fe8a9e97d00d341a16d5001cb5edec8e7c6083a4fdbdb525da351bc9407668
+**SHA-256：**
+- Ver1：23fe8a9e97d00d341a16d5001cb5edec8e7c6083a4fdbdb525da351bc9407668
+- Ver2：7ac8b8b29c1e45cdd5b60369b9a607b4e86ce040abfe79fb10955f64f1092e2b
 
 **Highlights：**
 - System size only 3.81GB
 - Windows 11 Icons
 - Preinstall .NET 4.8
 - Reduce Windows process for less RAM usage.
+
+**Notice：**
+- Ver2 needs to install the image viewer by yourself.
+- Ver2 is not suitable for using .NET programs. (Compatibility is poor, but not completely unusable.)
+- The start menu of Ver2 has been removed, but the basic functions can be used by right-clicking the win logo.
+- Ver2's ModernUI Settings has been removed, please use Control Panel instead.
 
 ----
 
