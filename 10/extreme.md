@@ -5,6 +5,31 @@
 
 ----
 
+![1](/preview/LTSB_14393.0_x86_221030.png)
+
+#### Release Date：2022/10/30
+
+**Edition：** Enterprise LTSC 2016 (x86)
+
+**OS Build：** 14393.0
+
+**ISO Size：** 696MB
+
+**Download：** [Link](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/LTSB_14393.0_x86_221030.iso)
+
+**SHA-256：** aa7ac1cd137b7b2c46556b7831edef76fc6a2e8aa52f8b1781571d3badcff81f
+
+**Highlights：**
+- Now is the time to burn Windows 10 to a CD.
+- Windows 11 Icons
+
+**Notice：**
+- .NET programs compatibility is poor, but not completely unusable.
+- The start menu has been removed, but the basic functions can be used by right-clicking the win logo.
+- ModernUI Settings has been removed, please use Control Panel instead.
+
+----
+
 - Ver1：
 ![1](https://github.com/WhatTheBlock/WindowsSimplify/blob/master/preview/LTSB_14393.0_221029.png)
 
