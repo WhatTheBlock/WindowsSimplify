@@ -1,6 +1,30 @@
 # Windows 7
 
 **Preview：**
+![1](https://github.com/WhatTheBlock/WindowsSimplify/blob/master/preview/7601.26174_221107.png)
+
+#### Release Date：2022/11/07
+
+**Edition：** Windows 7 Pro
+
+**OS Build：** 7601.26174
+
+**ISO Size：** 1.56GB
+
+**Download：** [Link](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/7601.26174_221107.iso)
+
+**SHA-256：** f5285494dfc99c5e25e54a88591be4467896158e2824a03885d3042ade3771b8
+
+**Highlights：**
+- Windows 11 Icons
+- Included ESU Updates
+- Included USB 3.0 driver
+- Preinstall .NET 4.8
+- Debloated
+
+----
+
+**Preview：**
 ![1](/preview/7601.26022_x86_220730.png)
 
 #### Release Date：2022/07/30
@@ -85,52 +109,6 @@
 - Preinstall DX9.0c
 - Preinstall Edge Chromium Enterprise
 - Debloated
-
-----
-
-![img](/preview/7601.25792_211230.png)
-
-#### 發布時間：2021/12/31
-
-**版本：** Windows 7 Pro (x64)
-
-**組建：** 7601.25792
-
-**大小：** 1.95GB
-
-**下載：** [Link](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w7.211230/7601.25792_211230.iso)
-
-**SHA-256：** cc9ece0eb6218c5290fe26e2f11a16ded5c8af038ad4fed4a3fb83d60edf78dc
-
-**注意事項：**
-- 無法安裝系統更新
-- IE請至`C:\Program Files\Internet Explorer\iexplore.exe`開啟
-- 如要啟用Aero特效請先安裝顯卡驅動
-- 如要安裝VMware Tools則必須先安裝VC Runtime
-- VMware Tools請安裝11.0.0以前的版本，[點我下載](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/v2021.07.23/VMware-tools-windows-11.0.0-14549434.iso)
-
-----
-
-![1.png](/preview/Win7_Pro_x86_210726.png)
-
-#### 發布時間：2021/07/26
-
-**版本：** Windows 7 Pro (x86)
-
-**組建：** 7601.17514
-
-**大小：** 812MB
-
-**下載：** [Link](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/v2021.07.26/Win7_Pro_x86_210727.iso)
-
-**SHA-256：** CE74AFEBA4DD0ACAB5796CCC7E50D663CB2772D22040E00C0451BD987F297C28
-
-**注意事項：**
-- 移除大量驅動、系統組件，用於虛擬機多開遊戲，不建議安裝於實體裝置
-- 無法安裝系統更新
-- ISO附有Chrome、VC Runtime安裝檔，請多加利用
-- 如要安裝VMware Tools則必須先安裝VC Runtime
-- VMware Tools請安裝11.0.0以前的版本，[點我下載](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/v2021.07.23/VMware-tools-windows-11.0.0-14549434.iso)
 
 ----
 
