@@ -15,6 +15,8 @@ If you are interested in any version, please create an issue or discussion and s
 **DEMO Video：** <br>
 [![1](https://github.com/WhatTheBlock/WindowsSimplify/blob/master/preview/LTSC_19044.1947_en_221110.png)](http://www.youtube.com/watch?v=ZoKfF0162lo "DEMO Video")
 
+#### Release Date：2022/11/10
+
 **Edition：** Enterprise LTSC 2021
 
 **OS Build：** 19044.1947
