@@ -12,6 +12,24 @@ If you are interested in any version, please create an issue or discussion and s
 
 ----
 
+**DEMO Video：**
+[![1](http://img.youtube.com/vi/ZoKfF0162lo/0.jpg)](http://www.youtube.com/watch?v=ZoKfF0162lo "DEMO Video")
+
+**Edition：** Enterprise LTSC 2021
+
+**OS Build：** 19044.1947
+
+**ISO Size：** 1.41GB
+
+**Download：** [Link](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/LTSC_19044.1947_en_221110.iso)
+
+**SHA-256：** 5449ad551a90e7907735b1aae6bec7d80a867226c798f3463452eae51c39f690
+
+**Notice：**
+- based on LTSC_19044.1947_220828-2.
+
+----
+
 **Preview：**
 ![1](/preview/22621.1_220522.png)
 
