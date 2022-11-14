@@ -9,7 +9,7 @@
 
 #### Release Date：2022/10/30
 
-**Edition：** Enterprise LTSC 2016 (x86)
+**Edition：** Enterprise LTSB 2016 (x86)
 
 **OS Build：** 14393.0
 
@@ -38,7 +38,7 @@
 
 #### Release Date：2022/10/29
 
-**Edition：** Enterprise LTSC 2016
+**Edition：** Enterprise LTSB 2016
 
 **OS Build：** 14393.0
 
@@ -70,7 +70,7 @@
 
 #### Release Date：2022/09/11
 
-**Edition：** Enterprise LTSC 2016
+**Edition：** Enterprise LTSB 2016
 
 **OS Build：** 14393.0
 
@@ -93,7 +93,7 @@
 
 #### Release Date：2021/08/04
 
-**Edition：** Enterprise LTSC 2016
+**Edition：** Enterprise LTSB 2016
 
 **OS Build：** 14393.0
 
@@ -109,7 +109,7 @@
 
 #### Release Date：2021/08/04
 
-**Edition：** Enterprise LTSC 2016 (x86)
+**Edition：** Enterprise LTSB 2016 (x86)
 
 **OS Build：** 14393.0
 
