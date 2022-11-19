@@ -1,5 +1,22 @@
 # Windows 11
 
+**[DEMO Video](https://www.youtube.com/watch?v=s8zM38Mk4Zc)**
+
+**Edition：** Windows 11 Home
+
+**OS Build：** 22000.1219
+
+**ISO Size：** 2.92GB
+
+**Download：** [Link](https://gmnfuedutw-my.sharepoint.com/:u:/g/personal/40543229_gm_nfu_edu_tw/EbiuOFdyKjpJrgQ-MbT4_zsB6yTzaGe_7UNJobu6Qibw8Q?e=U7vCY3)
+
+**SHA-256：** 0b1bebb5f98c68bee5f1634c7aa6c68214772227bfc9efdb7e0404d1f8e0364a
+
+**Notice：**
+- For those who want to use the genuine key.
+
+----
+
 **Preview：**
 ![1](https://github.com/WhatTheBlock/WindowsSimplify/blob/master/preview/22623.746_221018_1.png)
 ![2](https://github.com/WhatTheBlock/WindowsSimplify/blob/master/preview/22623.746_221018_2.png)

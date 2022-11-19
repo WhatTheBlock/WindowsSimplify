@@ -105,4 +105,4 @@ sfc /scannow</code></pre>
 **SHA-256：** e514558920476a041536d49837d1d8bf36c05d8f3a265bf9f3e69efae33187be
 
 **Notice：**
-- For those who want to use the genuine serial number.
+- For those who want to use the genuine key.
