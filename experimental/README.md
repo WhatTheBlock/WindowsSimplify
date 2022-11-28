@@ -12,6 +12,28 @@ If you are interested in any version, please create an issue or discussion and s
 
 ----
 
+**[DEMO Video](https://www.youtube.com/watch?v=5agihRLxw58)**
+
+#### Release Date：2022/11/28
+
+**Edition：** Windows 7 Ultimate
+
+**OS Build：** 7601.26174
+
+**ISO Size：** 1.47GB
+
+**Download：** not available
+
+**SHA-256：** de53308bdb9c46e82e1982b4075c05fc41012dabda26d384022224fbfa3fb577
+
+**Highlights：**
+- Multilingual version (en-US & zh-TW)
+- Included ESU Updates
+- Included USB 3.0 driver
+- Preinstall .NET 4.8
+
+----
+
 **DEMO Video：** <br>
 [![1](https://github.com/WhatTheBlock/WindowsSimplify/blob/master/preview/LTSC_19044.1947_en_221110.png)](http://www.youtube.com/watch?v=ZoKfF0162lo "DEMO Video")
 
