@@ -22,7 +22,7 @@ If you are interested in any version, please create an issue or discussion and s
 
 **ISO Size：** 1.47GB
 
-**Download：** not available
+**Download：** [Link](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/7601.26174_MultLang_221127.iso)
 
 **SHA-256：** de53308bdb9c46e82e1982b4075c05fc41012dabda26d384022224fbfa3fb577
 
