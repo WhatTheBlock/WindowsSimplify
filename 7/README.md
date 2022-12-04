@@ -1,5 +1,48 @@
 # Windows 7
 
+**[DEMO Video](https://www.youtube.com/watch?v=Oo51BUGtoTk)**
+
+#### Release Date：2022/12/04
+
+**Edition：** Windows 7 Pro
+
+**OS Build：** 7601.26174
+
+**ISO Size：** 1.34GB
+
+**Download：** [Link](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/7601.26174_cn_221204.iso)
+
+**SHA-256：** 0a671bf342eb0b59f0a68c8c5fe42c77b609b2532384bd5fe6269f1614cad9bb
+
+**Highlights：**
+- Included ESU Updates
+- Included USB 3.0 driver
+- Preinstall .NET 4.8
+
+----
+
+**[DEMO Video](https://www.youtube.com/watch?v=5agihRLxw58)**
+
+#### Release Date：2022/11/28
+
+**Edition：** Windows 7 Ultimate
+
+**OS Build：** 7601.26174
+
+**ISO Size：** 1.47GB
+
+**Download：** [Link](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/7601.26174_MultLang_221127.iso)
+
+**SHA-256：** de53308bdb9c46e82e1982b4075c05fc41012dabda26d384022224fbfa3fb577
+
+**Highlights：**
+- Multilingual version (en-US & zh-TW)
+- Included ESU Updates
+- Included USB 3.0 driver
+- Preinstall .NET 4.8
+
+----
+
 **Preview：**
 ![1](https://github.com/WhatTheBlock/WindowsSimplify/blob/master/preview/7601.26174_221107.png)
 
