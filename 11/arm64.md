@@ -43,7 +43,7 @@
 
 **ISO Size：** 2.22GB
 
-**Download：** [Link](https://gmnfuedutw-my.sharepoint.com/:u:/g/personal/40543229_gm_nfu_edu_tw/EaMEJj6KNDlKt68FJiZ-RiUBALJW9TK2EdFgRF6_OYaqrA?e=l2UsEM)
+**Download：** [Link](https://gmnfuedutw-my.sharepoint.com/:u:/g/personal/40543229_gm_nfu_edu_tw/EaMEJj6KNDlKt68FJiZ-RiUBALJW9TK2EdFgRF6_OYaqrA?e=l2UsEM)、[Bugfix ver.](https://gmnfuedutw-my.sharepoint.com/:u:/g/personal/40543229_gm_nfu_edu_tw/ER6QraMyyWtHiFQs3MSVLBMBgcQkf3ODrAN5cmab8E6mZQ?e=LLfdAW)
 
 **SHA-256：** 916f325f6a3d4638a61d6f5c847014063198704d6d8c28e9d672f8c276ba90b8
 
