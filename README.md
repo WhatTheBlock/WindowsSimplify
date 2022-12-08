@@ -44,4 +44,4 @@ Windows Server：
 
 ### 作者の其他repo推薦 😉
 - [Office Lite 2021](https://github.com/WhatTheBlock/Office-Lite) (Only included Word, Excel, PowerPoint.)
-- [NVIDIA GeForce Driver Lite](https://github.com/WhatTheBlock/GeForce-Driver-Lite) (Pure driver, GeForce Experience is removed.)
+- [NVIDIA GeForce Driver Lite](https://github.com/WhatTheBlock/GeForce-Driver-Lite) (Remove the useless GeForce Experience.)
