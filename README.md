@@ -1,15 +1,19 @@
 # Windows Simplify Project
 
+![GitHub all releases](https://img.shields.io/github/downloads/WhatTheBlock/WindowsSimplify/total?color=blue&label=ISO%20total%20downloads&logo=github)<br>
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/WhatTheBlock/WindowsSimplify?label=Average%20number%20of%20ISO%20releases&logo=github)<br>
+
 #### No bullshit, no exaggerated introduction, just download and try yourself.
 #### For preview and download links, please go to the markdown of each category.
 
 <br>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P4D2451)
+[![patreon](https://img.shields.io/badge/Patreon-Support%20me-orange?style=flat&logo=patreon)](https://www.patreon.com/whattb)<br>
+[![ko-fi](https://img.shields.io/badge/Ko--fi-Support%20me-red?style=flat&logo=ko-fi)](https://ko-fi.com/whattb)<br>
 
 ----
 
-[未發布 & 實驗性版本 (Experimental)](/experimental/README.md)
+[Experimental releases](/experimental/README.md)
 
 ----
 
@@ -43,5 +47,5 @@ Windows Server：
 ----
 
 ### 作者の其他repo推薦 😉
-- [Office Lite 2021](https://github.com/WhatTheBlock/Office-Lite) (Only included Word, Excel, PowerPoint.)
-- [NVIDIA GeForce Driver Lite](https://github.com/WhatTheBlock/GeForce-Driver-Lite) (Remove the useless GeForce Experience.)
+- [Office Lite 2021](https://github.com/WhatTheBlock/Office-Lite) ( Only included Word, Excel, PowerPoint. )
+- [NVIDIA GeForce Driver Lite](https://github.com/WhatTheBlock/GeForce-Driver-Lite) ( Remove the useless GeForce Experience. )
