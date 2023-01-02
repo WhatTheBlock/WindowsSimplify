@@ -1,5 +1,23 @@
 # Windows 11
 
+**[DEMO Video](https://www.youtube.com/watch?v=FfHfBRTBluA)**
+
+**Edition：** Windows 11 Pro
+
+**OS Build：** 22623.1028
+
+**ISO Size：** 1.66GB
+
+**Download：** [Link](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/22623.1028_atlas_230102.iso)
+
+**SHA-256：** 1feb9c22f8e543c12856b98a60b34a24f29337e19aa90853c0a4d534e10635e4
+
+**Highlights：**
+- Rectify11 boot
+- Integrated some Atlas OS optimization.
+
+----
+
 **[DEMO Video](https://www.youtube.com/watch?v=s8zM38Mk4Zc)**
 
 **Edition：** Windows 11 Home
@@ -36,53 +54,6 @@
 **Highlights：**
 - Rectify11 boot
 - Extreme Lite but retain Store, Xbox
-
-----
-
-**Preview：**
-![1](/preview/22623.746_amd_221014.png)
-
-#### Release Date：2022/10/14
-
-**Edition：** Windows 11 Pro
-
-**OS Build：** 22623.746
-
-**ISO Size：** 3.08GB
-
-**Download：** [Part1](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/22623.746_amd_221014.part1.rar)、[Part2](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/22623.746_amd_221014.part2.rar)
-
-**SHA-256：** 82494142d4a45fcd4e535004842afca74bf80a7ef5bb30a03affa2837a7d5dba
-
-**Highlights：**
-- Rectify11 boot
-- Included AMD Chipset drivers
-- Included AMD Software꞉ Adrenalin Edition 22.10.1
-- Included Killer drivers
-
-----
-
-**Preview：**
-![1](/preview/22621.525_221014.png)
-
-#### Release Date：2022/10/14
-
-**Edition：** Windows 11 Pro
-
-**OS Build：** 22621.525
-
-**ISO Size：** 1.66GB
-
-**Download：** [Link](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/22621.525_221014.iso)
-
-**SHA-256：** 67466ded974d8cc1e5865a9799ad3ad2b0c0b0d23bd7ac289e7d2d0a57d2caf6
-
-**Highlights：**
-- Rectify11 boot
-- Extreme Lite but retain Store, Xbox
-
-**Notice：**
-- ctfmon.exe error will appear every time you boot, but it does not affect the function of IME.
 
 ----
 
