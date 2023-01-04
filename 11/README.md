@@ -4,11 +4,29 @@
 
 **Edition：** Windows 11 Pro
 
-**OS Build：** 22623.1028
+**OS Build：** 22623.1037_en-us
+
+**ISO Size：** 1.62GB
+
+**Download：** [Link](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/22623.1037_atlas_en_230104.iso)
+
+**SHA-256：** dd02c666a63f57bb9979476567a6178fe8b56591a539e05b94472489c0b8067d
+
+**Highlights：**
+- Rectify11 boot
+- Integrated some Atlas OS optimization.
+
+----
+
+**[DEMO Video](https://www.youtube.com/watch?v=FfHfBRTBluA)**
+
+**Edition：** Windows 11 Pro
+
+**OS Build：** 22623.1028_zh-tw
 
 **ISO Size：** 1.66GB
 
-**Download：** [Link](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/22623.1028_atlas_230102.iso)
+**Download：**  [Github](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/22623.1028_atlas_230102.iso)、 [Baidu_forCN](https://pan.baidu.com/s/1-eC0Wec2E0n1wZBxmFdxTg?pwd=wsos)
 
 **SHA-256：** 1feb9c22f8e543c12856b98a60b34a24f29337e19aa90853c0a4d534e10635e4
 
