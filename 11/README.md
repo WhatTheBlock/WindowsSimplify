@@ -16,7 +16,7 @@
 
 **Download：**
 - EN-US：[Github](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/22623.1037_atlas_en_230104.iso)
-- ZH-CN：[Baidu](https://pan.baidu.com/s/1YQOEBZSVYVKWfxC6iQ-c0Q?pwd=wsos)
+- ZH-CN：[Github](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/22623.1037_atlas_cn_230105.iso)、[Baidu](https://pan.baidu.com/s/1YQOEBZSVYVKWfxC6iQ-c0Q?pwd=wsos)
 - ZH-TW：[Github](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/22623.1028_atlas_230102.iso)
 
 **SHA-256：**
