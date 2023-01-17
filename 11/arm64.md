@@ -1,6 +1,7 @@
 # Windows 11 (ARM64)
 
-**Preview：** not available now
+**Preview：(Thanks to [liuly23](https://github.com/liuly23))**
+![1](https://github.com/WhatTheBlock/WindowsSimplify/blob/master/preview/22621.900_arm_221205.jpg)
 
 #### Release Date：2022/12/05
 
