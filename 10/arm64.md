@@ -2,14 +2,14 @@
 
 **Preview：** not available now
 
-#### Release Date：2022/10/25
+#### Release Date：2023/02/07
 
 **Edition：** Windows 10 Pro (ARM64)
 
-**OS Build：** 17763.3534
+**OS Build：** 21390.1
 
-**ISO Size：** 1.86GB
+**ISO Size：** 1.83GB
 
-**Download：** [Link](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/17763.3534_arm_221025_f.iso)
+**Download：** [Link](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/21390.1_arm_230207.iso)
 
-**SHA-256：** b3389d493e161d728d9b4af7a73ad80d956abe0a54944499bcedf0da6e4ce1c8
+**SHA-256：** 9aedf39a70b6a3b1487604b98ed20b54118526c4a5d14c9fa963457b3906af9b
