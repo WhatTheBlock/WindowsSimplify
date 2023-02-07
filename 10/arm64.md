@@ -8,8 +8,8 @@
 
 **OS Build：** 21390.1
 
-**ISO Size：** 1.83GB
+**ISO Size：** ?GB
 
-**Download：** [Link](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/21390.1_arm_230207.iso)
+**Download：** Please wait for the bugfix release.
 
-**SHA-256：** 9aedf39a70b6a3b1487604b98ed20b54118526c4a5d14c9fa963457b3906af9b
+**SHA-256：** -
