@@ -18,13 +18,13 @@ If you have any suggestions on this project, please create an issue or discussio
 
 ----
 
-Windows 11：
+<img src="/icons/windows-11.svg">　<b>Windows 11：</b>
 - [Normal](/11/README.md)
 - [WSA](/11/wsa.md)
 - [ARM64](/11/arm64.md)
 - [boot.wim](/11/boot.md)
 
-Windows 10：
+<img src="/icons/windows-10.svg">　<b>Windows 10：</b>
 - [Stable](/10/README.md)
 - [Extreme Lite](/10/extreme.md)
 - [For old devices & virtual machine](/10/old_device.md)
@@ -32,15 +32,15 @@ Windows 10：
 - [ARM64](/10/arm64.md)
 - [boot.wim](/10/boot.md)
 
-Windows 8.1：
+<img src="/icons/windows-8.svg">　<b>Windows 8.1：</b>
 - [Lite](/8.1/README.md)
 - [boot.wim](/8.1/boot.md)
 
-Windows 7：
+<img src="/icons/windows-7.svg">　<b>Windows 7：</b>
 - [Lite](/7/README.md)
 - [boot.wim](/7/boot.md)
 
-Windows Server：
+<img src="/icons/windows-server.svg">　<b>Windows Server：</b>
 - [Win10](/server/README.md)
 - [Win10_boot.wim](/server/w10_boot.md)
 - [Win11](/server/w11.md)
