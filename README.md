@@ -9,7 +9,7 @@
 ----
 
 ### 📣 Announcement
-The frequency of system releases will be slowed down in the near future, because MapleStory 🍄 has a lot of events recently. 🤣<br>
+The frequency of system releases will be slowed down in the near future, because MapleStory 🍄 has a lot of events recently. 🤣<br><br>
 If you have any suggestions on this project, please create an issue or discussion to let me know. Thank you!
 
 ----
