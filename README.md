@@ -3,8 +3,7 @@
 ![GitHub all releases](https://img.shields.io/github/downloads/WhatTheBlock/WindowsSimplify/total?color=blue&label=ISO%20total%20downloads&logo=github)<br>
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/WhatTheBlock/WindowsSimplify?label=Average%20number%20of%20ISO%20releases&logo=github)<br>
 
-<b>No bullshit, no exaggerated introduction, just download and try yourself.</b><br>
-<b>For preview and download links, please go to the markdown of each category.</b>
+<b>No bullshit, no exaggerated introduction, just download and try yourself.</b>
 
 ----
 
@@ -44,6 +43,13 @@ If you have any suggestions on this project, please create an issue or discussio
 - [Win10](/server/README.md)
 - [Win10_boot.wim](/server/w10_boot.md)
 - [Win11](/server/w11.md)
+
+----
+
+### 🥺 Support
+
+⭐ <b>If my work is helpful to you, welcome to give me a Star!</b><br>
+💖 <b>Your support is my motivation to persevere!</b>
 
 ----
 
