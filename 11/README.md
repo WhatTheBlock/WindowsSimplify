@@ -15,7 +15,10 @@
 **Highlights：**
 - Rectify11 boot
 - Integrated some Atlas OS optimization.
-- Built-in 3 system languages. (Please refer to the setting method of the DEMO video.)
+- Built-in 3 system languages. (Please refer to the setting method of the **[DEMO Video](https://www.youtube.com/watch?v=j7b_xYDyex8)**.)
+
+**Notice：**
+- If you have problems booting the ISO please use [this version](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w11.230303/22623.1250_Atlas_MulLang_230303f.iso) instead.
 
 ----
 
