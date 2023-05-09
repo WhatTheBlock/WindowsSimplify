@@ -1,5 +1,24 @@
 # Windows 8.1
 
+**[DEMO Video](https://youtu.be/3jFePP3rs_g)**
+
+#### Release Date：2023/05/09
+
+**Edition：** Windows 8.1 Pro
+
+**OS Build：** 9600.20778
+
+**ISO Size：** 1.52GB
+
+**Download：** [Link](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/9600.20778_ML_230509.iso)
+
+**SHA-256：** e2941474268b250bbc990d22880965080bed545fb2b7b871dca29f40b276c6cc
+
+**Highlights：**
+- Multilingual version (en-US & zh-HK & zh-CN)
+
+----
+
 **Preview：**
 ![1](/preview/9600.20520_x86_220812.png)
 ![2](/preview/9600.20520_x86_220812_2.png)
