@@ -8,7 +8,7 @@
 ----
 
 ### 📣 Announcement / Recent developments
-Currently trying to make a Win8.1 Multilingual version. 🤔<br><br>
+Currently trying to make a Win11 ARM version. 🤔<br><br>
 If you have any suggestions on this project, please create an issue or discussion to let me know. Thank you!
 
 ----
