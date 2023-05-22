@@ -1,5 +1,19 @@
 # Windows 11 (ARM64)
 
+**Preview：** not available now
+
+**Edition：** Windows 11 Pro (ARM64)
+
+**OS Build：** 25357.1
+
+**ISO Size：** 2.32GB
+
+**Download：** [Part 1](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w11.arm.230522/25357.1_arm_230522.part1.rar)、[Part 2](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w11.arm.230522/25357.1_arm_230522.part2.rar)
+
+**SHA-256：** c19ff963a572b0595021d9a8c7989a1102b8df02cee1e8d91d65057a978f0cc3
+
+----
+
 **Preview：(Thanks to [liuly23](https://github.com/liuly23))**
 ![1](https://github.com/WhatTheBlock/WindowsSimplify/blob/master/preview/22621.900_arm_221205.jpg)
 
