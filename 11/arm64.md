@@ -1,6 +1,7 @@
 # Windows 11 (ARM64)
 
-**[DEMO Video](https://youtu.be/FX8P7zbumbY)**
+**DEMO Video：** <br>
+[![1](https://img.youtube.com/vi/FX8P7zbumbY/maxresdefault.jpg)](https://youtu.be/FX8P7zbumbY "DEMO Video")
 
 **Edition：** Windows 11 Pro (ARM64)
 
