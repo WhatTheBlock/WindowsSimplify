@@ -8,7 +8,7 @@
 ----
 
 ### 📣 Announcement / Recent developments
-I bought a Mac mini M2 to make the ARM version. I might be crazy... 🤔<br><br>
+Windows 10 ARM64 build 21390.1 work in progress...<br><br>
 If you have any suggestions on this project, please create an issue or discussion to let me know. Thank you!
 
 ----
