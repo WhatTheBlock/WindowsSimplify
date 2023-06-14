@@ -3,17 +3,13 @@
 ![all releases dl](https://img.shields.io/github/downloads/WhatTheBlock/WindowsSimplify/total?color=blue&label=ISO%20total%20downloads&logo=github)
 ![commit activity](https://img.shields.io/github/commit-activity/y/WhatTheBlock/WindowsSimplify?label=Average%20number%20of%20ISO%20releases&logo=github)<br>
 
-<b>[繁體中文介紹](/README_zh-TW.md)</b>
+<b>此專案為精簡系統愛好者設立，接受所有語言、功能的訂製要求。</b><br>
+<b>有任何建議都歡迎建立issue或discussion討論。</b>
 
 ----
 
-<b>No bullshit, no exaggerated introduction, just download and try yourself.</b><br>
-<b>If you have any suggestions on this project, please create an issue or discussion to let me know. Thank you!</b>
-
-----
-
-### 📣 Announcement / Recent developments
-Windows 10 ARM64 build 21390.1 work in progress...
+### 📣 近況更新
+Windows 10 ARM64 build 21390.1製作中...
 
 ----
 
@@ -37,23 +33,23 @@ Windows 10 ARM64 build 21390.1 work in progress...
 - [Win10](/server/README.md)
 - [Win11](/server/w11.md)
 
-<b>Other stuff：</b>
+<b>其他：</b>
 - [boot.wim](https://github.com/WhatTheBlock/WindowsSimplify/releases/tag/boot)
 - [utils](https://github.com/WhatTheBlock/WindowsSimplify/releases/tag/utils)
-- [restore pack](https://github.com/WhatTheBlock/WindowsSimplify/releases/tag/restore-pack)
-- [rare base image](https://github.com/WhatTheBlock/WindowsSimplify/releases/tag/base)
+- [功能復原包](https://github.com/WhatTheBlock/WindowsSimplify/releases/tag/restore-pack)
+- [稀有原版系統映像](https://github.com/WhatTheBlock/WindowsSimplify/releases/tag/base)
 
 ----
 
-### 🥺 Support
+### 🥺 如何支持專案！
 
-⭐ <b>If my work is helpful to you, welcome to give me a Star!</b><br>
-💖 <b>Your support is my motivation to persevere!</b>
+💖 <b>如果這項專案有幫助到您，歡迎透過[ko-fi](https://ko-fi.com/whattb)請我喝咖啡！</b><br>
+⭐ <b>或是給它一個星星也非常感謝！</b>
 
 ----
 
-### 💡 Other projects you may be interested in:
-- Only included Word, Excel, PowerPoint  
+### 💡 其他您或許也會感興趣的專案:
+- 只保留Word, Excel, PowerPoint的Office  
   👉 [Office Lite 2021](https://github.com/WhatTheBlock/Office-Lite)
-- Remove the useless GeForce Experience  
+- 移除GeForce Experience的NVIDIA顯卡驅動  
   👉 [NVIDIA GeForce Driver Lite](https://github.com/WhatTheBlock/GeForce-Driver-Lite)
