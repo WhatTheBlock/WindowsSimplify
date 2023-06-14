@@ -38,6 +38,12 @@ If you have any suggestions on this project, please create an issue or discussio
 - [Win10](/server/README.md)
 - [Win11](/server/w11.md)
 
+<b>Other stuff：</b>
+- [boot.wim](https://github.com/WhatTheBlock/WindowsSimplify/releases/tag/boot)
+- [utils](https://github.com/WhatTheBlock/WindowsSimplify/releases/tag/utils)
+- [restore pack](https://github.com/WhatTheBlock/WindowsSimplify/releases/tag/restore-pack)
+- [rare base image](https://github.com/WhatTheBlock/WindowsSimplify/releases/tag/base)
+
 ----
 
 ### 🥺 Support
