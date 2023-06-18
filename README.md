@@ -8,12 +8,11 @@
 ----
 
 <b>No bullshit, no exaggerated introduction, just download and try yourself.</b><br>
-<b>If you have any suggestions on this project, please create an issue or discussion to let me know. Thank you!</b>
 
 ----
 
 ### 📣 Announcement / Recent developments
-Windows 10 ARM64 build 21390.1 work in progress...
+
 
 ----
 
@@ -25,7 +24,6 @@ Windows 10 ARM64 build 21390.1 work in progress...
 - [Stable](/10/README.md)
 - [Extreme Lite](/10/extreme.md)
 - [Others](/10/others.md)
-- [ARM64](/10/arm64.md)
 
 <img src="/icons/windows-8.svg">　<b>Windows 8.1：</b>
 - [Link](/8.1/README.md)
@@ -41,14 +39,6 @@ Windows 10 ARM64 build 21390.1 work in progress...
 - [boot.wim](https://github.com/WhatTheBlock/WindowsSimplify/releases/tag/boot)
 - [utils](https://github.com/WhatTheBlock/WindowsSimplify/releases/tag/utils)
 - [restore pack](https://github.com/WhatTheBlock/WindowsSimplify/releases/tag/restore-pack)
-- [rare base image](https://github.com/WhatTheBlock/WindowsSimplify/releases/tag/base)
-
-----
-
-### 🥺 Support
-
-⭐ <b>If my work is helpful to you, welcome to give me a Star!</b><br>
-💖 <b>Your support is my motivation to persevere!</b>
 
 ----
 

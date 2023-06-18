@@ -3,13 +3,10 @@
 ![all releases dl](https://img.shields.io/github/downloads/WhatTheBlock/WindowsSimplify/total?color=blue&label=ISO%20total%20downloads&logo=github)
 ![commit activity](https://img.shields.io/github/commit-activity/y/WhatTheBlock/WindowsSimplify?label=Average%20number%20of%20ISO%20releases&logo=github)<br>
 
-<b>此專案為精簡系統愛好者設立，接受所有語言、功能的訂製要求。</b><br>
-<b>有任何建議都歡迎建立issue或discussion討論。</b>
-
 ----
 
 ### 📣 近況更新
-Windows 10 ARM64 build 21390.1製作中...
+
 
 ----
 
@@ -21,7 +18,6 @@ Windows 10 ARM64 build 21390.1製作中...
 - [Stable](/10/README.md)
 - [Extreme Lite](/10/extreme.md)
 - [Others](/10/others.md)
-- [ARM64](/10/arm64.md)
 
 <img src="/icons/windows-8.svg">　<b>Windows 8.1：</b>
 - [Link](/8.1/README.md)
@@ -37,7 +33,6 @@ Windows 10 ARM64 build 21390.1製作中...
 - [boot.wim](https://github.com/WhatTheBlock/WindowsSimplify/releases/tag/boot)
 - [utils](https://github.com/WhatTheBlock/WindowsSimplify/releases/tag/utils)
 - [功能復原包](https://github.com/WhatTheBlock/WindowsSimplify/releases/tag/restore-pack)
-- [稀有原版系統映像](https://github.com/WhatTheBlock/WindowsSimplify/releases/tag/base)
 
 ----
 

@@ -14,3 +14,6 @@
 **Download：** [Part 1](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/21390.1_arm_230615.part1.rar)、[Part 2](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/21390.1_arm_230615.part2.rar)
 
 **SHA-256：** e908651d372dfaa9bbe59eab0e6dc531b8cc67832b2960ec3bbec9852aaa7441
+
+**Notice：**
+- DO NOT USE if you have concerns about repackaged systems.
