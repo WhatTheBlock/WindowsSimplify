@@ -1,4 +1,4 @@
-# ✂ Windows Simplify Project ✂
+# Windows Simplify Project
 [![HitCount](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FWhatTheBlock%2FWindowsSimplify.json%3Fcolor%3Dblue)](https://github.com/WhatTheBlock/WindowsSimplify)
 ![all releases dl](https://img.shields.io/github/downloads/WhatTheBlock/WindowsSimplify/total?color=blue&label=ISO%20total%20downloads&logo=github)
 ![commit activity](https://img.shields.io/github/commit-activity/y/WhatTheBlock/WindowsSimplify?label=Average%20number%20of%20ISO%20releases&logo=github)<br>
@@ -7,6 +7,7 @@
 
 ### 📣 近況更新
 
+穩定版停止更新，要求這麼多請左轉使用原版系統。
 
 ----
 
@@ -15,7 +16,7 @@
 - [ARM64](/11/arm64.md)
 
 <img src="/icons/windows-10.svg">　<b>Windows 10：</b>
-- [Stable](/10/README.md)
+- ~~[Stable](/10/README.md)~~
 - [Extreme Lite](/10/extreme.md)
 - [Others](/10/others.md)
 
@@ -33,13 +34,6 @@
 - [boot.wim](https://github.com/WhatTheBlock/WindowsSimplify/releases/tag/boot)
 - [utils](https://github.com/WhatTheBlock/WindowsSimplify/releases/tag/utils)
 - [功能復原包](https://github.com/WhatTheBlock/WindowsSimplify/releases/tag/restore-pack)
-
-----
-
-### 🥺 如何支持專案！
-
-💖 <b>如果這項專案有幫助到您，歡迎透過[ko-fi](https://ko-fi.com/whattb)請我喝咖啡！</b><br>
-⭐ <b>或是給它一個星星也非常感謝！</b>
 
 ----
 
