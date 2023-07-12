@@ -13,7 +13,8 @@
 
 ### 📣 Announcement / Recent developments
 
-Maybe Win11 ARM barebone edition?
+WIP...<br>
+![preview](https://github.com/WhatTheBlock/WindowsSimplify/blob/master/preview/22000.2124_arm_230712_preview.png)
 
 ----
 
