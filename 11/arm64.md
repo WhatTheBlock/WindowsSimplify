@@ -11,7 +11,7 @@
 
 **ISO Size：**
 - Level 1: 1.84GB
-- Level 2: 1.73GB
+- Level 2: 1.77GB ([2023/07/13 updated](https://github.com/WhatTheBlock/WindowsSimplify/discussions/83#discussioncomment-6432726))
 - Level 3: 1.64GB
 - Level 5: 1.53GB
 
@@ -23,13 +23,14 @@
 
 **SHA-256：**
 - Level 1: 924661bc103bac2238524283fe3d37035d117a2f645efdf82ac09fa6b92645b2
-- Level 2: fbd9a2ecffbea7c8b9d1d58ad2eb9a77b0c16d6a9c682c5b72b2a6d0a06b43e6
+- Level 2: a3b996fa8a0818c2eb845f1bb1c7789f31f3364c5d31e0ff334b219623218741
 - Level 3: 58d7e49ac6aaec3b410aa7cc33d1d241e505564f62dc1155e6627c4b4778f1ef
 - Level 5: f93f5ec474f5235a5a2d74e7e46923a9f5e6276b0ccee9fe271c6efb1ae9ce0c
 
 **Notice：**
 - DO NOT USE if you have concerns about stability.
 - If you don't know how to use Level 5, please refer to the demo video.
+- Level 1 and Level 2 support installing language packs, but Level 2 requires [a special method to install the IME](https://github.com/WhatTheBlock/WindowsSimplify/issues/74#issuecomment-1590565034).
 
 ----
 
