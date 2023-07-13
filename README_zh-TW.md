@@ -7,8 +7,7 @@
 
 ### 📣 近況更新
 
-看起來還行吧? 應該? 我已經不懂大家的標準了<br>
-![preview](https://github.com/WhatTheBlock/WindowsSimplify/blob/master/preview/22000.2124_arm_230712_preview.png)
+build 25905實裝rust內核，找時間做一個版本來玩玩
 
 ----
 

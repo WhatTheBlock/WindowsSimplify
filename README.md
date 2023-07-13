@@ -13,10 +13,7 @@
 
 ### 📣 Announcement / Recent developments
 
-Does anyone need this kind of thing? UWP cannot be used, the start menu cannot be used, the taskbar cannot be used, the file explorer needs to be opened in a special way, and many more. However, the system resources are very small and can be used for specific purposes.<br>
-
-*Please note that this is Win11 ARM64, if I delete it further, there may be problems with booting.
-![preview](https://github.com/WhatTheBlock/WindowsSimplify/blob/master/preview/handicapped_preview.png)
+build 25905, rust kernel?
 
 ----
 
