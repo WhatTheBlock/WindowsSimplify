@@ -7,11 +7,17 @@
 
 **OS Build：** 25905.1000
 
-**ISO Size：** 1.89GB
+**ISO Size：**
+- ZH-TW: 1.89GB
+- PT-BR: 1.77GB
 
-**Download：** [Link](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/25905.1000_atlas_230713.iso)
+**Download：**
+- [ZH-TW](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/25905.1000_atlas_230713.iso)
+- [PT-BR](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/25905.1000_atlas_pt-BR_230713.iso)
 
-**SHA-256：** 04effbd37fc86060ba92bffff5f53fa3383e48dc72990c76e56d83cc74c469ed
+**SHA-256：**
+- ZH-TW: 04effbd37fc86060ba92bffff5f53fa3383e48dc72990c76e56d83cc74c469ed
+- PT-BR: 9c65faaab199034188d1fccbb8a2ac472b37a879b5217703b3a3e4ad6f598e9f
 
 ----
 
