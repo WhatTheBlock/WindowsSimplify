@@ -8,16 +8,22 @@
 **OS Build：** 25905.1000
 
 **ISO Size：**
-- ZH-TW: 1.89GB
-- PT-BR: 1.77GB
+- zh-TW: 1.89GB
+- zh-CN: 1.91GB
+- jp-JP: 1.90GB
+- pt-BR: 1.77GB
 
 **Download：**
-- [ZH-TW](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/25905.1000_atlas_230713.iso)
-- [PT-BR](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/25905.1000_atlas_pt-BR_230713.iso)
+- [zh-TW](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/25905.1000_atlas_230713.iso)
+- [zh-CN](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w11.230713/25905.1000_atlas_cn_230713.iso)
+- [jp-JP](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w11.230713/25905.1000_atlas_jp_230713.iso)
+- [pt-BR](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/25905.1000_atlas_pt-BR_230713.iso)
 
 **SHA-256：**
-- ZH-TW: 04effbd37fc86060ba92bffff5f53fa3383e48dc72990c76e56d83cc74c469ed
-- PT-BR: 9c65faaab199034188d1fccbb8a2ac472b37a879b5217703b3a3e4ad6f598e9f
+- zh-TW: 04effbd37fc86060ba92bffff5f53fa3383e48dc72990c76e56d83cc74c469ed
+- zh-CN: 66c5c2790e93e7ce5c6566cd516b2732b14da68be4cd50b47869fd8da000b879
+- jp-JP: 2bbc0968f5a263cf6fc656137d43a1b8b6565423c8cf9963337cea430f7ca3bf
+- pt-BR: 9c65faaab199034188d1fccbb8a2ac472b37a879b5217703b3a3e4ad6f598e9f
 
 ----
 
