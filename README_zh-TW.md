@@ -7,7 +7,7 @@
 
 ### 📣 近況更新
 
-build 25905實裝rust內核，找時間做一個版本來玩玩
+系統類型偏好調查，[請到此投票](https://github.com/WhatTheBlock/WindowsSimplify/discussions/85).
 
 ----
 

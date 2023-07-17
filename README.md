@@ -13,7 +13,7 @@
 
 ### 📣 Announcement / Recent developments
 
-build 25905, rust kernel?
+What's next? Please vote [here](https://github.com/WhatTheBlock/WindowsSimplify/discussions/85).
 
 ----
 
