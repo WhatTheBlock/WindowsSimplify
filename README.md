@@ -24,6 +24,7 @@ What's next? Please vote [here](https://github.com/WhatTheBlock/WindowsSimplify/
 <img src="/icons/windows-10.svg">　<b>Windows 10：</b>
 - ~~[Stable](/10/README.md)~~
 - [Extreme Lite](/10/extreme.md)
+- [Tablet](/10/tablet.md)
 - [Others](/10/others.md)
 
 <img src="/icons/windows-8.svg">　<b>Windows 8.1：</b>
