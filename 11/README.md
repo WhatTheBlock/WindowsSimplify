@@ -13,6 +13,7 @@
 - jp-JP: 1.90GB
 - pt-BR: 1.77GB
 - en-US: 1.72GB
+- fr-FR: 1.66GB
 
 **Download：**
 - [zh-TW](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/25905.1000_atlas_230713.iso)
@@ -20,6 +21,7 @@
 - [jp-JP](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w11.230713/25905.1000_atlas_jp_230713.iso)
 - [pt-BR](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/25905.1000_atlas_pt-BR_230713.iso)
 - [en-US](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w11.230713/25905.1000_atlas_en_230713.iso)
+- [fr-FR](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w11.230713/25905.1000_atlas_fr_230713.iso)
 
 **SHA-256：**
 - zh-TW: 04effbd37fc86060ba92bffff5f53fa3383e48dc72990c76e56d83cc74c469ed
@@ -27,9 +29,10 @@
 - jp-JP: 2bbc0968f5a263cf6fc656137d43a1b8b6565423c8cf9963337cea430f7ca3bf
 - pt-BR: 9c65faaab199034188d1fccbb8a2ac472b37a879b5217703b3a3e4ad6f598e9f
 - en-US: cf611ab70019086f9e7fbbb4982215ec2ad11ff309f27ade471e719e0515ea81
+- fr-FR: e1a0ae46184cd4b385dc292c37ce07d1bddcd08defae973b0c9815e32abab863
 
 **Notice：**
-- en-US default removes more UWP Apps, if you need to use Store, please install [restore-pack](https://github.com/WhatTheBlock/WindowsSimplify/releases/tag/restore-pack).
+- If you need to use Store, please install [restore-pack](https://github.com/WhatTheBlock/WindowsSimplify/releases/tag/restore-pack).
 
 ----
 
