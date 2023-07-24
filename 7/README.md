@@ -1,5 +1,23 @@
 # <img src="/icons/windows-7.svg"> Windows 7
 
+**DEMO Video：** <br>
+[![1](https://github.com/WhatTheBlock/WindowsSimplify/assets/34786954/c7c2f359-41e6-44ce-a774-941e3f1fb9d6)](https://youtu.be/1N7_soyQsnc "DEMO Video")
+
+**Edition：** Windows 7 Pro
+
+**OS Build：** 7601.26623
+
+**ISO Size：** 0.99GB
+
+**Download：** [Link](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/7601.26623_en_230724.iso)
+
+**SHA-256：** 0ac46242c71dad1c0259047786530c80dc4a33e4006eb84d42c43f0a90ecaa14
+
+**Notice：**
+- If you want to enable Aero effects, please install the display driver first.
+
+----
+
 **[DEMO Video](https://www.youtube.com/watch?v=Oo51BUGtoTk)**
 
 #### Release Date：2022/12/04
