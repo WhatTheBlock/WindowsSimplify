@@ -1,10 +1,10 @@
 # <img src="/icons/windows-7.svg"> Windows 7
 
-**DEMO Video：** <br>
+**Level 1 DEMO Video：** <br>
 [![1](https://github.com/WhatTheBlock/WindowsSimplify/assets/34786954/c7c2f359-41e6-44ce-a774-941e3f1fb9d6)](https://youtu.be/1N7_soyQsnc "DEMO Video")
 
-**Level 4 Preview：**
-![1](https://github.com/WhatTheBlock/WindowsSimplify/blob/master/preview/7601.26623_en_230724_lv4.png)
+**Level 4 DEMO Video：** <br>
+[![1](https://github.com/WhatTheBlock/WindowsSimplify/blob/master/preview/7601.26623_en_230724_lv4.png)](https://youtu.be/AcbEvGngOHM "DEMO Video")
 
 **Edition：** Windows 7 Pro
 
