@@ -1,4 +1,4 @@
-# Windows 10 Tablet Edition
+# <img src="/icons/windows-10.svg"> Windows 10 Tablet Edition
 
 **DEMO Video：** <br>
 [![1](https://github.com/WhatTheBlock/WindowsSimplify/assets/34786954/6b8b6597-e77d-4371-aa57-7143bb29049c)](https://youtu.be/138yIGLMMJI "DEMO Video")

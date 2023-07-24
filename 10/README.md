@@ -1,4 +1,4 @@
-# Stable Release
+# <img src="/icons/windows-10.svg"> Windows 10 Stable (stop updating)
 
 #### Slightly optimized and debloated.
 

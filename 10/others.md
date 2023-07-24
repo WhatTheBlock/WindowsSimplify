@@ -1,4 +1,4 @@
-# Others
+# <img src="/icons/windows-10.svg"> Windows 10 Others release
 
 ----
 

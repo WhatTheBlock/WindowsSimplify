@@ -1,4 +1,4 @@
-# Windows 8.1
+# <img src="/icons/windows-8.svg"> Windows 8.1
 
 **[DEMO Video](https://youtu.be/3jFePP3rs_g)**
 

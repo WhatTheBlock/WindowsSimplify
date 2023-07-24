@@ -1,4 +1,4 @@
-# Windows 11 with Android
+# <img src="/icons/windows-11.svg"> Windows 11 WSA
 
 **Preview：**
 ![1](/preview/22621.730_221003.png)

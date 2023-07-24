@@ -1,4 +1,4 @@
-# Windows 7
+# <img src="/icons/windows-7.svg"> Windows 7
 
 **[DEMO Video](https://www.youtube.com/watch?v=Oo51BUGtoTk)**
 

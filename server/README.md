@@ -1,4 +1,4 @@
-# Windows Server (Win10)
+# <img src="/icons/windows-server.svg"> Windows Server (Win10)
 
 **Preview：**
 ![1](/preview/s2022_20348.887_220820.png)

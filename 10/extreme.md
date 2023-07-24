@@ -1,4 +1,4 @@
-# Extreme Lite
+# <img src="/icons/windows-10.svg"> Windows 10 Extreme Lite
 
 #### In order to reduce the size, compatibility will inevitably be reduced.
 #### Please use carefully.

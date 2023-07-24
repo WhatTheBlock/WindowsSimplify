@@ -1,4 +1,4 @@
-# Windows 10 (ARM64)
+# <img src="/icons/windows-10.svg"> Windows 10 ARM64
 
 **DEMO Video：** <br>
 [![1](https://img.youtube.com/vi/YeBYAS89uPQ/maxresdefault.jpg)](https://youtu.be/YeBYAS89uPQ "DEMO Video")

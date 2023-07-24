@@ -1,4 +1,4 @@
-# Windows 11
+# <img src="/icons/windows-11.svg"> Windows 11
 
 **DEMO Video：** <br>
 [![1](https://github.com/WhatTheBlock/WindowsSimplify/assets/34786954/73378853-9409-4cb5-a420-ead4a48ca439)](https://youtu.be/4_vfGkxMzus "DEMO Video")

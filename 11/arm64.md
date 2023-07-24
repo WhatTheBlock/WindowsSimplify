@@ -1,4 +1,4 @@
-# Windows 11 (ARM64)
+# <img src="/icons/windows-11.svg"> Windows 11 ARM64
 
 **[Level 1 DEMO Video](https://youtu.be/KHYg8D0l_eg)**  
 **[Level 2 DEMO Video](https://youtu.be/ZEFq3IPu9b4)**  
