@@ -7,14 +7,25 @@
 
 **OS Build：** 7601.26623
 
-**ISO Size：** 0.99GB
+**ISO Size：** 
+- Level 1: 0.99GB
+- Level 2: 759MB
+- Level 3: 709MB
 
-**Download：** [Link](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/7601.26623_en_230724.iso)
+**Download：** 
+- [Level 1](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/7601.26623_en_230724.iso)
+- [Level 2](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w7.230724/7601.26623_en_230724_lv2.iso)
+- [Level 3](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w7.230724/7601.26623_en_230724_lv3.iso)
 
-**SHA-256：** 0ac46242c71dad1c0259047786530c80dc4a33e4006eb84d42c43f0a90ecaa14
+**SHA-256：** 
+- Level 1: 0ac46242c71dad1c0259047786530c80dc4a33e4006eb84d42c43f0a90ecaa14
+- Level 2: bd3a6d2da0e2d24cce1cac621b6352fa4c35fff4b6b9a1e5650f32051d983662
+- Level 3: 13b52bd1dd6dc6403d8647256628b20b2ecaf3211399adec93b36faad2134186
 
 **Notice：**
 - If you want to enable Aero effects, please install the display driver first.
+- Level 3 has removed all complex fonts from Asian countries. If you want to switch Chrome display language, please refer to the following steps.
+<img src="https://github.com/WhatTheBlock/WindowsSimplify/blob/master/tutorial/change_chrome_lang.gif">
 
 ----
 
