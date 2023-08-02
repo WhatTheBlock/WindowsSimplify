@@ -3,6 +3,9 @@
 **DEMO Video：** <br>
 [![1](https://github.com/WhatTheBlock/WindowsSimplify/assets/34786954/5626bb63-5710-4c74-b859-58a0cab72e61)](https://youtu.be/DlhKIgpl0Yk "DEMO Video")
 
+**Level 2 Preview：**
+![1](https://github.com/WhatTheBlock/WindowsSimplify/blob/master/preview/25915.1000_atlas_en_230802_lv2.png)
+
 **Edition：** Windows 11 Pro
 
 **OS Build：** 25915.1000
@@ -10,16 +13,19 @@
 **ISO Size：**
 - es-ES: 1.51GB
 - en-US: 1.47GB
+- en-US_lv2: 1.31GB
 - zh-TW: not available
 
 **Download：**
 - [es-ES](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/iso/25915.1000_atlas_es_230802.iso)
 - [en-US](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w11.230802/25915.1000_atlas_en_230802.iso)
+- [en-US_lv2](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w11.230802/25915.1000_atlas_en_230802_lv2.iso)
 - zh-TW
 
 **SHA-256：**
 - es-ES: 288610d7f266b1681d44fbb2a75f72f45252e6ba4f48f64c1a0c3a6b3e986e54
 - en-US: c108dcf16240a50b0010de81d5fff2aa357925761a8578955331b54a1edf715f
+- en-US_lv2: 6ff6cbedec50f5847817e66cd3dccad1654e4f8f22230afdf3bb59e9caff5f87
 - zh-TW: not available
 
 **Notice：**
