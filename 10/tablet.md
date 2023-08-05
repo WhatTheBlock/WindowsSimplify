@@ -21,8 +21,6 @@
 **Preview：**
 ![preview](https://github.com/WhatTheBlock/WindowsSimplify/blob/master/preview/17763.1_tablet_230722.png)
 
-#### Release Date：2023/07/22
-
 **Edition：** Windows 10 Home
 
 **OS Build：** 17763.1
