@@ -19,6 +19,7 @@ What's next? Please vote [here](https://github.com/WhatTheBlock/WindowsSimplify/
 
 <img src="/icons/windows-11.svg">　<b>Windows 11：</b>
 - [AMD64](/11/README.md)
+- [AMD64 - Tablet](/11/tablet.md)
 - [ARM64](/11/arm64.md)
 
 <img src="/icons/windows-10.svg">　<b>Windows 10：</b>
