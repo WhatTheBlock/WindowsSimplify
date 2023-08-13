@@ -13,7 +13,7 @@
 
 **Download：**
 - [zh-TW](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w11.230813/25926.1000_atlas_230813.iso)
-- [zh-TW_lv2](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w11.230802/25926.1000_atlas_230813_lv2.iso)
+- [zh-TW_lv2](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w11.230813/25926.1000_atlas_230813_lv2.iso)
 
 **SHA-256：**
 - zh-TW: 5099fdf7a96f105518cbd5cd75e2e8b440a12130a517ffc1557783fab5eb548b
