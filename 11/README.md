@@ -1,5 +1,30 @@
 # <img src="/icons/windows-11.svg"> Windows 11
 
+**Level 2 Preview：**
+![1](https://github.com/WhatTheBlock/WindowsSimplify/blob/master/preview/25926.1000_atlas_230813_lv2.png)
+
+**Edition：** Windows 11 Pro
+
+**OS Build：** 25926.1000
+
+**ISO Size：**
+- zh-TW: 1.61GB
+- zh-TW_lv2: 1.42GB
+
+**Download：**
+- [zh-TW](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w11.230813/25926.1000_atlas_230813.iso)
+- [zh-TW_lv2](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w11.230802/25926.1000_atlas_230813_lv2.iso)
+
+**SHA-256：**
+- zh-TW: 5099fdf7a96f105518cbd5cd75e2e8b440a12130a517ffc1557783fab5eb548b
+- zh-TW_lv2: 2c934090f4060c347831846108cc057630f7e5525f1826b085380c343466fdd7
+
+**Notice：**
+- If you need to use Store, please install [restore-pack](https://github.com/WhatTheBlock/WindowsSimplify/releases/tag/restore-pack).
+- `WallpaperHost.exe` errors displayed while installing the system will not affect the system.
+
+----
+
 **DEMO Video：** <br>
 [![1](https://github.com/WhatTheBlock/WindowsSimplify/assets/34786954/5626bb63-5710-4c74-b859-58a0cab72e61)](https://youtu.be/DlhKIgpl0Yk "DEMO Video")
 
