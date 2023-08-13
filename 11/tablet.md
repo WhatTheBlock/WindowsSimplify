@@ -14,5 +14,4 @@
 **SHA-256：** 8e3c695d07c1a6cad04602eaa851eff97f9d199a41c1ffb3a581f604490aa451
 
 **Notice：**
-- If you need to use Store, please install [restore-pack](https://github.com/WhatTheBlock/WindowsSimplify/releases/tag/restore-pack).
 - `WallpaperHost.exe` errors displayed while installing the system will not affect the system.
