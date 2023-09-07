@@ -1,6 +1,21 @@
 # <img src="/icons/windows-10.svg"> Windows 10 Tablet Edition
 
-**Edition：** Windows 10 LTSC 2019
+**DEMO Video：** <br>
+[![1](https://github.com/WhatTheBlock/WindowsSimplify/assets/34786954/5b15dbdb-d063-45e9-98b1-3f73ec48469d)](https://youtu.be/-Lwhq4hIX8k "DEMO Video")
+
+**Edition：** Enterprise LTSB 2016
+
+**OS Build：** 14393.0
+
+**ISO Size：** 1.24GB
+
+**Download：** [zh-TW](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/ltsb.t.230908/LTSB_14393.0_tablet_230908.iso)
+
+**SHA-256：** 8d5316cf7677b47a47635780bfdb55f59515fd2478ddd31ea875dd5deaaca885
+
+----
+
+**Edition：** Enterprise LTSC 2019
 
 **OS Build：** 17763.1
 
