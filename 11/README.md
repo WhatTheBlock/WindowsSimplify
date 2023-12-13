@@ -1,5 +1,26 @@
 # <img src="/icons/windows-11.svg"> Windows 11
 
+**Edition：** Windows 11 Pro
+
+**OS Build：** 22631.2792
+
+**ISO Size：**
+- zh-CN: 2.07GB
+- zh-CN_v2: 2.07GB
+
+**Download：**
+- [zh-CN](https://gmnfuedutw-my.sharepoint.com/:u:/g/personal/40543229_gm_nfu_edu_tw/EcEt6OZIAVRFrBTMlcV9Ne8BejJ2nO6lOvhLXTmz4zX_JA?e=t1M6vJ)
+- [zh-CN_v2](https://gmnfuedutw-my.sharepoint.com/:u:/g/personal/40543229_gm_nfu_edu_tw/ERofss7tflFAoRXEAO-reLkB_B5yIMpybROnzQb9sH8Y3w?e=dn2CFE)
+
+**SHA-256：**
+- zh-CN: 64d7a78117f252bb65c5980a8ae4c202eb13a375c32c1484534448fe3e255d50
+- zh-CN_v2: 07738e6c981b18a4a9fe4a8adb8871bcf21d1b42f7b606216156be1af8f31106
+
+**Notice：**
+- Please refer to the demonstration video before download. [zh-CN](https://www.youtube.com/watch?v=z7O1QyuMmz8) / [zh-CN_v2](https://www.youtube.com/watch?v=ye_sdK9SJaY)
+
+----
+
 **Level 2 Preview：**
 ![1](https://github.com/WhatTheBlock/WindowsSimplify/blob/master/preview/25926.1000_atlas_230813_lv2.png)
 
