@@ -47,6 +47,6 @@ What's next? Please vote [here](https://github.com/WhatTheBlock/WindowsSimplify/
 
 ### 💡 Other projects you may be interested in:
 - Only included Word, Excel, PowerPoint  
-  👉 [Office Lite 2021](https://github.com/WhatTheBlock/Office-Lite)
+  👉 [Office Lite 2024](https://github.com/WhatTheBlock/Office-Lite)
 - Remove the useless GeForce Experience  
   👉 [NVIDIA GeForce Driver Lite](https://github.com/WhatTheBlock/GeForce-Driver-Lite)
