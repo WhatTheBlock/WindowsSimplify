@@ -1,5 +1,26 @@
 # <img src="/icons/windows-11.svg"> Windows 11
 
+**Preview：**
+![1](https://github.com/WhatTheBlock/WindowsSimplify/blob/master/preview/22631.2861_p_ct_231217.png)
+
+**Edition：** Windows 11 Pro
+
+**OS Build：** 22631.2861
+
+**ISO Size：**
+- zh-TW: 2.05GB
+
+**Download：**
+- [zh-TW](https://gmnfuedutw-my.sharepoint.com/:u:/g/personal/40543229_gm_nfu_edu_tw/EW0T0Uc2-upDiY49TqFO6-cBjQCTtqP7CmOJ609vxTtJCw?e=XA7mXE)
+
+**SHA-256：**
+- zh-TW: e73e93ab73136c523a91931f131f665ab68fd734c556d8fdc2bca2ccae9d7bac
+
+**Notice：**
+- Please refer to the demonstration video before download. [Link](https://youtu.be/i40siTcejTQ)
+
+----
+
 **Edition：** Windows 11 Pro
 
 **OS Build：** 22631.2792
