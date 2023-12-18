@@ -3,7 +3,7 @@
 ![all releases dl](https://img.shields.io/github/downloads/WhatTheBlock/WindowsSimplify/total?color=blue&label=ISO%20total%20downloads&logo=github)
 ![commit activity](https://img.shields.io/github/commit-activity/y/WhatTheBlock/WindowsSimplify?label=Average%20number%20of%20ISO%20releases&logo=github)<br>
 
-<b>[繁體中文](/README_zh-TW.md)</b>
+<b>[中文](/README_zh-TW.md)</b>
 
 ----
 
