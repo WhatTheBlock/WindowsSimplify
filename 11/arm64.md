@@ -1,5 +1,26 @@
 # <img src="/icons/windows-11.svg"> Windows 11 ARM64
 
+**Preview：**
+![1](https://github.com/WhatTheBlock/WindowsSimplify/blob/master/preview/22631.2861_arm_p_cn_231219.png)
+
+**Edition：** Windows 11 Pro
+
+**OS Build：** 22631.2861
+
+**ISO Size：**
+- zh-CN: 2.46GB
+
+**Download：**
+- [zh-CN](https://gmnfuedutw-my.sharepoint.com/:u:/g/personal/40543229_gm_nfu_edu_tw/EQeF6Dt6q5NEjfC7_6pkWxoBmY9KQKFbJagp5DTL3fakxg?e=ZLb1l5)
+
+**SHA-256：**
+- zh-CN: bf7f457c36c73c538d16ad3735d79a656af45a490d9ac94038ecaabe2da8a02c
+
+**Notice：**
+- Please refer to the demonstration video before download. [Link](https://www.youtube.com/watch?v=K2piZ1Nk6QU)
+
+----
+
 **[Level 1 DEMO Video](https://youtu.be/KHYg8D0l_eg)**  
 **[Level 2 DEMO Video](https://youtu.be/ZEFq3IPu9b4)**  
 **[Level 3 DEMO Video](https://youtu.be/fWqnPL3pqWc)**  
