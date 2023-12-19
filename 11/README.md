@@ -9,12 +9,16 @@
 
 **ISO Size：**
 - zh-TW: 2.05GB
+- en-US: 1.96GB
 
 **Download：**
 - [zh-TW](https://gmnfuedutw-my.sharepoint.com/:u:/g/personal/40543229_gm_nfu_edu_tw/EW0T0Uc2-upDiY49TqFO6-cBjQCTtqP7CmOJ609vxTtJCw?e=XA7mXE)
+- [zh-TW_archive](https://archive.org/download/22631.2861_p_ct_231217/22631.2861_p_ct_231217.iso)
+- [en-US](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w11.p.231218/22631.2861_p_en_231217.iso)
 
 **SHA-256：**
 - zh-TW: e73e93ab73136c523a91931f131f665ab68fd734c556d8fdc2bca2ccae9d7bac
+- en-US: 7ead3d3d98e9639da96ac0c4fb1b5d9584a6e879464d47ec3959679720e232ba
 
 **Notice：**
 - Please refer to the demonstration video before download. [Link](https://youtu.be/i40siTcejTQ)
