@@ -9,12 +9,16 @@
 
 **ISO Size：**
 - zh-CN: 2.46GB
+- en-US: 2.33GB
 
 **Download：**
 - [zh-CN](https://gmnfuedutw-my.sharepoint.com/:u:/g/personal/40543229_gm_nfu_edu_tw/EQeF6Dt6q5NEjfC7_6pkWxoBmY9KQKFbJagp5DTL3fakxg?e=ZLb1l5)
+- [zh-CN_baidu](https://pan.baidu.com/s/1lRkCrDsL4tfYleeLWqT9UA?pwd=1234)
+- [en-US](https://gmnfuedutw-my.sharepoint.com/:u:/g/personal/40543229_gm_nfu_edu_tw/EV4AY0efxQtDkN2hEoHsMK4BPhWBHM1NVTJbLXsoMzKgyw?e=ozTx9x)
 
 **SHA-256：**
 - zh-CN: bf7f457c36c73c538d16ad3735d79a656af45a490d9ac94038ecaabe2da8a02c
+- en-US: 9d9f25a649edadde89edabfb938f7594dc3739e34d1dfcb19779edb665a9a8e7
 
 **Notice：**
 - Please refer to the demonstration video before download. [Link](https://www.youtube.com/watch?v=K2piZ1Nk6QU)
