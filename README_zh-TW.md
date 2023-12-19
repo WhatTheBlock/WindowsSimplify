@@ -40,7 +40,7 @@
 ----
 
 ### 💡 其他您或許也會感興趣的專案:
-- 只保留Word, Excel, PowerPoint的Office LTSC 2021  
-  👉 [Office Lite 2021](https://github.com/WhatTheBlock/Office-Lite)
+- 只保留Word, Excel, PowerPoint的Office LTSC 2024  
+  👉 [Office Lite 2024](https://github.com/WhatTheBlock/Office-Lite)
 - 移除GeForce Experience的NVIDIA顯卡驅動  
   👉 [NVIDIA GeForce Driver Lite](https://github.com/WhatTheBlock/GeForce-Driver-Lite)
