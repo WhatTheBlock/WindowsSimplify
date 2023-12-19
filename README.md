@@ -13,7 +13,7 @@
 
 ### 📣 Announcement / Recent developments
 
-What's next? Please vote [here](https://github.com/WhatTheBlock/WindowsSimplify/discussions/85).
+Do you really need .NET Framework 3.5? Are there any applications that are limited to this framework and cannot be replaced? Please let me know and vote at [this link](https://github.com/WhatTheBlock/WindowsSimplify/discussions/104).
 
 ----
 
