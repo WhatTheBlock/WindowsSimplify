@@ -7,7 +7,7 @@
 
 ### 📣 近況更新
 
-系統類型偏好調查，[請到此投票](https://github.com/WhatTheBlock/WindowsSimplify/discussions/85)
+.NET 3.5框架留存調查，[請到此投票](https://github.com/WhatTheBlock/WindowsSimplify/discussions/104)
 
 ----
 
@@ -17,7 +17,7 @@
 - [ARM64](/11/arm64.md)
 
 <img src="/icons/windows-10.svg">　<b>Windows 10：</b>
-- ~~[穩定精簡](/10/README.md)~~
+- [穩定精簡](/10/README.md)
 - [極限精簡](/10/extreme.md)
 - [平板電腦專用](/10/tablet.md)
 - [其他](/10/others.md)

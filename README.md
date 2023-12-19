@@ -23,7 +23,7 @@ Do you really need .NET Framework 3.5? Are there any applications that are limit
 - [ARM64](/11/arm64.md)
 
 <img src="/icons/windows-10.svg">　<b>Windows 10：</b>
-- ~~[Stable](/10/README.md)~~
+- [Pure](/10/README.md)
 - [Extreme Lite](/10/extreme.md)
 - [Tablet](/10/tablet.md)
 - [Others](/10/others.md)
