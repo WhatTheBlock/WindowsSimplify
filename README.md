@@ -1,5 +1,4 @@
 # Windows Simplify Project
-[![HitCount](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FWhatTheBlock%2FWindowsSimplify.json%3Fcolor%3Dblue)](https://github.com/WhatTheBlock/WindowsSimplify)
 ![all releases dl](https://img.shields.io/github/downloads/WhatTheBlock/WindowsSimplify/total?color=blue&label=ISO%20total%20downloads&logo=github)
 ![commit activity](https://img.shields.io/github/commit-activity/y/WhatTheBlock/WindowsSimplify?label=Average%20number%20of%20ISO%20releases&logo=github)<br>
 
