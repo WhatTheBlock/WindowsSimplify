@@ -1,13 +1,9 @@
 # Windows Simplify Project
-[![HitCount](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FWhatTheBlock%2FWindowsSimplify.json%3Fcolor%3Dblue)](https://github.com/WhatTheBlock/WindowsSimplify)
-![all releases dl](https://img.shields.io/github/downloads/WhatTheBlock/WindowsSimplify/total?color=blue&label=ISO%20total%20downloads&logo=github)
-![commit activity](https://img.shields.io/github/commit-activity/y/WhatTheBlock/WindowsSimplify?label=Average%20number%20of%20ISO%20releases&logo=github)<br>
-
 ----
 
 ### 📣 近況更新
 
-.NET 3.5框架留存調查，[請到此投票](https://github.com/WhatTheBlock/WindowsSimplify/discussions/104)
+此專案即將停止更新
 
 ----
 
@@ -34,8 +30,6 @@
 
 <b>其他：</b>
 - [boot.wim](https://github.com/WhatTheBlock/WindowsSimplify/releases/tag/boot)
-- [雜物](https://github.com/WhatTheBlock/WindowsSimplify/releases/tag/utils)
-- [功能復原包](https://github.com/WhatTheBlock/WindowsSimplify/releases/tag/restore-pack)
 
 ----
 

@@ -1,6 +1,4 @@
 # Windows Simplify Project
-![all releases dl](https://img.shields.io/github/downloads/WhatTheBlock/WindowsSimplify/total?color=blue&label=ISO%20total%20downloads&logo=github)
-![commit activity](https://img.shields.io/github/commit-activity/y/WhatTheBlock/WindowsSimplify?label=Average%20number%20of%20ISO%20releases&logo=github)<br>
 
 <b>[中文](/README_zh-TW.md)</b>
 
@@ -10,9 +8,11 @@
 
 ----
 
-### 📣 Announcement / Recent developments
+### 📣 Announcement
 
-Do you really need .NET Framework 3.5? Are there any applications that are limited to this framework and cannot be replaced? Please let me know and vote at [this link](https://github.com/WhatTheBlock/WindowsSimplify/discussions/104).
+This project will be discontinued soon.
+
+Player in this single-player game have no health points.
 
 ----
 
@@ -39,8 +39,6 @@ Do you really need .NET Framework 3.5? Are there any applications that are limit
 
 <b>Other stuff：</b>
 - [boot.wim](https://github.com/WhatTheBlock/WindowsSimplify/releases/tag/boot)
-- [utils](https://github.com/WhatTheBlock/WindowsSimplify/releases/tag/utils)
-- [restore pack](https://github.com/WhatTheBlock/WindowsSimplify/releases/tag/restore-pack)
 
 ----
 
