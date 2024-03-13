@@ -14,6 +14,10 @@ This project will be discontinued soon.
 
 Player in this single-player game have no health points.
 
+I have uploaded a tutorial video. For language issues, please ask others to help translate.
+
+[https://www.youtube.com/watch?v=Rly7AVPOncQ](https://www.youtube.com/watch?v=Rly7AVPOncQ)
+
 ----
 
 <img src="/icons/windows-11.svg">　<b>Windows 11：</b>

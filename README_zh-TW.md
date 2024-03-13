@@ -3,7 +3,9 @@
 
 ### 📣 近況更新
 
-此專案即將停止更新
+此專案即將停止更新<br>
+
+[Windows系統精簡教學](https://www.youtube.com/watch?v=Rly7AVPOncQ)
 
 ----
 
